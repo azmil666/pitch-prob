@@ -2,18 +2,21 @@ import sys
 import pandas as pd
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).resolve().parents[2]))
+ROOT_DIR = Path(__file__).resolve().parents[2]
+sys.path.append(str(ROOT_DIR))
+
 from src.models.score_model import DixonColesModel
 from src.models.scorer_model import GoalScorerModel
 
 
 class PitchProbPredictor:
     def __init__(self, force_rebuild: bool = False):
-        model_path = Path("saved_models/dixon_coles.joblib")
-        players_path = Path("data/processed/players_2026.csv")
+        model_path = ROOT_DIR / "saved_models/dixon_coles.joblib"
+        players_path = ROOT_DIR / "data/processed/players_2026.csv"
+        finished_path = ROOT_DIR / "data/processed/matches_finished.csv"
 
         if force_rebuild or not model_path.exists():
-            df = pd.read_csv("data/processed/matches_finished.csv")
+            df = pd.read_csv(finished_path)
             model = DixonColesModel(xi=0.0018, reg_strength=1.5).fit(df)
             model.save(model_path)
 

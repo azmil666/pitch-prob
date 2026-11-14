@@ -1,0 +1,547 @@
+player_id,player_name,team,position,goals,assists,penalties,appearances,start_prob,base_goal_rate
+3189,Kepa Arrizabalaga,Arsenal,Goalkeeper,0,0,0,0,0.03,0.001
+4832,David Raya,Arsenal,Goalkeeper,0,0,0,0,0.03,0.001
+74831,Illan Meslier,Arsenal,Goalkeeper,0,0,0,0,0.03,0.001
+6154,Ben White,Arsenal,Defence,0,0,0,0,0.15,0.04
+6317,Ezri Konsa,Arsenal,Defence,0,0,0,0,0.15,0.04
+23128,Gabriel Magalhães,Arsenal,Defence,0,0,0,0,0.15,0.04
+80171,William Saliba,Arsenal,Defence,0,0,0,0,0.15,0.04
+98816,Jurrien Timber,Arsenal,Defence,0,0,0,0,0.15,0.04
+125674,Piero Hincapié,Arsenal,Defence,0,0,0,0,0.15,0.04
+133512,Riccardo Calafiori,Arsenal,Defence,1,2,0,10,0.95,0.0813
+172839,Cristhian Mosquera,Arsenal,Defence,0,0,0,0,0.15,0.04
+1684,Bruno Guimarães,Arsenal,Midfield,2,0,0,9,0.9,0.1893
+4032,Eberechi Eze,Arsenal,Midfield,0,0,0,0,0.15,0.112
+7427,Martin Ødegaard,Arsenal,Midfield,3,0,0,10,0.95,0.24
+7935,Mikel Merino,Arsenal,Midfield,0,0,0,0,0.15,0.112
+8215,Declan Rice,Arsenal,Midfield,0,0,0,0,0.15,0.112
+115035,Martín Zubimendi,Arsenal,Midfield,0,0,0,0,0.15,0.112
+244120,Myles Lewis-Skelly,Arsenal,Midfield,0,0,0,0,0.15,0.112
+171,Kai Havertz,Arsenal,Offence,3,0,0,10,0.95,0.3075
+8279,Viktor Gyökeres,Arsenal,Offence,0,0,0,0,0.15,0.256
+99813,Bukayo Saka,Arsenal,Offence,3,0,1,7,0.7,0.4585
+144434,Christos Tzolis,Arsenal,Offence,0,0,0,0,0.15,0.256
+167720,Noni Madueke,Arsenal,Offence,0,0,0,0,0.15,0.256
+285128,Max Dowman,Arsenal,Offence,0,0,0,0,0.15,0.256
+302255,Maalik Hashi,Arsenal,Midfield,0,0,0,0,0.15,0.112
+7675,Marco Bizot,Aston Villa,Goalkeeper,0,0,0,0,0.03,0.001
+118920,Zion Suzuki,Aston Villa,Goalkeeper,0,0,0,0,0.03,0.001
+204460,James Wright,Aston Villa,Goalkeeper,0,0,0,0,0.03,0.001
+3492,Victor Nilsson-Lindelöf,Aston Villa,Defence,0,0,0,0,0.15,0.04
+8158,Aaron Wan-Bissaka,Aston Villa,Defence,0,0,0,0,0.15,0.04
+8235,Tyrone Mings,Aston Villa,Defence,0,0,0,0,0.15,0.04
+11644,Matty Cash,Aston Villa,Defence,0,0,0,0,0.15,0.04
+33109,Pau Torres,Aston Villa,Defence,0,0,0,0,0.15,0.04
+131035,Taylor Harwood-Bellis,Aston Villa,Defence,0,0,0,0,0.15,0.04
+131120,Ian Maatsen,Aston Villa,Defence,0,0,0,0,0.15,0.04
+151241,Matteo Ruggeri,Aston Villa,Defence,0,0,0,0,0.15,0.04
+276000,Modou Keba Cisse,Aston Villa,Defence,0,0,0,0,0.15,0.04
+3181,Leon Goretzka,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+7817,Ross Barkley,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+8346,Boubacar Kamara,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+31941,Emiliano Buendía,Aston Villa,Midfield,1,0,0,10,0.95,0.115
+34646,John McGinn,Aston Villa,Midfield,2,4,1,10,0.95,0.2575
+114024,Amadou Onana,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+138034,João Gomes,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+172899,Lamare Bogarde,Aston Villa,Midfield,0,0,0,0,0.15,0.112
+212309,Johan Manzambi,Aston Villa,Midfield,2,3,0,7,0.7,0.2185
+7985,Tammy Abraham,Aston Villa,Offence,0,0,0,0,0.15,0.256
+152515,Nicolas Jackson,Aston Villa,Offence,6,1,0,9,0.9,0.528
+181901,Alejandro Garnacho,Aston Villa,Offence,0,0,0,0,0.15,0.256
+260718,Alysson,Aston Villa,Offence,2,0,0,9,0.9,0.2613
+265040,Ibrahim M'Baye,Aston Villa,Offence,0,0,0,0,0.15,0.256
+280446,Brian Madjo,Aston Villa,Offence,0,0,0,0,0.15,0.256
+289528,George Hemmings,Aston Villa,Offence,0,0,0,0,0.15,0.256
+3141,Emiliano Martínez,Chelsea,Goalkeeper,0,0,0,0,0.03,0.001
+137544,Gabriel Slonina,Chelsea,Goalkeeper,0,0,0,0,0.03,0.001
+175910,Teddy Sharman-Lowe,Chelsea,Goalkeeper,0,0,0,0,0.03,0.001
+191068,Mike Penders,Chelsea,Goalkeeper,0,0,0,0,0.03,0.001
+8545,Wesley Fofana,Chelsea,Defence,0,0,0,0,0.15,0.04
+56628,Reece James,Chelsea,Defence,0,0,0,0,0.15,0.04
+82351,Maxence Lacroix,Chelsea,Defence,0,0,0,0,0.15,0.04
+151251,Pep Chavarría,Chelsea,Defence,0,0,0,0,0.15,0.04
+152498,Malo Gusto,Chelsea,Defence,0,0,0,0,0.15,0.04
+170440,Levi Colwill,Chelsea,Defence,0,0,0,0,0.15,0.04
+189477,Jorrel Hato,Chelsea,Defence,0,0,0,0,0.15,0.04
+206136,Marco Palestra,Chelsea,Defence,0,0,0,0,0.15,0.04
+209148,Aaron Anselmino,Chelsea,Defence,0,0,0,0,0.15,0.04
+249320,Josh Acheampong,Chelsea,Defence,0,0,0,0,0.15,0.04
+3320,Jordan Henderson,Chelsea,Midfield,2,1,0,5,0.5,0.2582
+82140,Morgan Rogers,Chelsea,Midfield,5,1,0,10,0.95,0.365
+121103,Moisés Caicedo,Chelsea,Midfield,0,0,0,0,0.15,0.112
+144892,Cole Palmer,Chelsea,Midfield,3,3,1,10,0.95,0.32
+170261,Valentin Barco,Chelsea,Midfield,0,0,0,0,0.15,0.112
+172738,Romeo Lavia,Chelsea,Midfield,1,1,0,10,0.95,0.115
+301113,Mahdi Nicoll-Jazuli,Chelsea,Midfield,0,0,0,0,0.15,0.112
+2074,Pedro Neto,Chelsea,Offence,3,1,0,10,0.95,0.3075
+3328,Danny Welbeck,Chelsea,Offence,0,0,0,0,0.15,0.256
+103125,João Pedro,Chelsea,Offence,5,3,0,6,0.6,0.5767
+150599,Emanuel Emegha,Chelsea,Offence,0,0,0,0,0.15,0.256
+179460,Jamie Bynoe-Gittens,Chelsea,Offence,0,0,0,0,0.15,0.256
+229421,Geovany Quenda,Chelsea,Offence,0,0,0,0,0.15,0.256
+244778,Estevao,Chelsea,Offence,0,0,0,0,0.15,0.256
+3309,Jordan Pickford,Everton,Goalkeeper,0,0,0,0,0.03,0.001
+6180,Thomas King,Everton,Goalkeeper,0,0,0,0,0.03,0.001
+82135,Mark Travers,Everton,Goalkeeper,0,0,0,0,0.03,0.001
+3316,James Tarkowski,Everton,Defence,1,1,0,10,0.95,0.0813
+7792,Ainsley Maitland-Niles,Everton,Defence,1,1,0,8,0.8,0.0929
+7829,Michael Keane,Everton,Defence,0,0,0,0,0.15,0.04
+16165,Vitalii Mykolenko,Everton,Defence,0,0,0,0,0.15,0.04
+114120,Jarrad Branthwaite,Everton,Defence,0,0,0,0,0.15,0.04
+131569,Jake O'Brien,Everton,Defence,0,0,0,0,0.15,0.04
+24102,Christian Nørgaard,Everton,Midfield,0,0,0,0,0.15,0.112
+101076,James Garner,Everton,Midfield,0,0,0,0,0.15,0.112
+136284,Hayden Hackney,Everton,Midfield,0,0,0,0,0.15,0.112
+140194,Kiernan Dewsbury Hall,Everton,Midfield,3,1,0,10,0.95,0.24
+140269,Carlos Alcaraz,Everton,Midfield,0,0,0,0,0.15,0.112
+156552,Merlin Röhl,Everton,Midfield,0,0,0,0,0.15,0.112
+264281,Harrison Armstrong,Everton,Midfield,0,0,0,0,0.15,0.112
+3895,Jack Grealish,Everton,Offence,0,0,0,0,0.15,0.256
+124694,Brennan Johnson,Everton,Offence,0,0,0,0,0.15,0.256
+171995,Thierno Barry,Everton,Offence,6,1,0,10,0.95,0.495
+218525,Tyler Dibling,Everton,Offence,0,0,0,0,0.15,0.256
+244747,Briaden Graham,Everton,Offence,0,0,0,0,0.15,0.256
+250436,Tyrique George,Everton,Offence,1,0,0,10,0.95,0.1825
+3174,Bernd Leno,Fulham,Goalkeeper,0,0,0,0,0.03,0.001
+8366,Benjamin Lecomte,Fulham,Goalkeeper,0,0,0,0,0.03,0.001
+300279,Alex Borto,Fulham,Goalkeeper,0,0,0,0,0.03,0.001
+1836,Timothy Castagne,Fulham,Defence,0,0,0,0,0.15,0.04
+2253,Joachim Andersen,Fulham,Defence,0,0,0,0,0.15,0.04
+3927,Antonee Robinson,Fulham,Defence,0,0,0,0,0.15,0.04
+3959,Ryan Sessegnon,Fulham,Defence,0,0,0,0,0.15,0.04
+8460,Kenny Tete,Fulham,Defence,0,0,0,0,0.15,0.04
+98750,Jorge Cuenca,Fulham,Defence,0,0,0,0,0.15,0.04
+123212,David Affengruber,Fulham,Defence,0,0,0,0,0.15,0.04
+146154,Calvin Bassey,Fulham,Defence,0,0,0,0,0.15,0.04
+3392,Alex Iwobi,Fulham,Midfield,0,0,0,0,0.15,0.112
+3965,Tom Cairney,Fulham,Midfield,0,0,0,0,0.15,0.112
+3995,Harrison Reed,Fulham,Midfield,0,0,0,0,0.15,0.112
+8973,Sander Berge,Fulham,Midfield,0,0,0,0,0.15,0.112
+85570,Emile Smith Rowe,Fulham,Midfield,0,0,0,0,0.15,0.112
+180563,Hugo Larsson,Fulham,Midfield,0,0,0,0,0.15,0.112
+192108,Shea Charles,Fulham,Midfield,0,0,0,0,0.15,0.112
+246418,Joshua King,Fulham,Midfield,2,1,0,10,0.95,0.1775
+290848,César Palacios,Fulham,Midfield,1,0,0,10,0.95,0.115
+291727,Manuel Angel,Fulham,Midfield,0,0,0,0,0.15,0.112
+138036,Rodrigo Muniz,Fulham,Offence,0,0,0,0,0.15,0.256
+179122,Kevin Santos,Fulham,Offence,0,0,0,0,0.15,0.256
+179716,Oscar Bobb,Fulham,Offence,0,0,0,0,0.15,0.256
+217577,Jonah Kusi-Asare,Fulham,Offence,0,0,0,0,0.15,0.256
+217658,Gonzalo García,Fulham,Offence,1,0,0,10,0.95,0.1825
+1795,Alisson Becker,Liverpool,Goalkeeper,0,0,0,0,0.03,0.001
+11629,Freddie Woodman,Liverpool,Goalkeeper,0,0,0,0,0.03,0.001
+84506,Giorgi Mamardashvili,Liverpool,Goalkeeper,0,0,0,0,0.03,0.001
+152579,Vítězslav Jaroš,Liverpool,Goalkeeper,0,0,0,0,0.03,0.001
+165154,Harvey Davies,Liverpool,Goalkeeper,0,0,0,0,0.03,0.001
+7383,Kostas Tsimikas,Liverpool,Defence,0,0,0,0,0.15,0.04
+7862,Joe Gomez,Liverpool,Defence,0,0,0,0,0.15,0.04
+7869,Virgil van Dijk,Liverpool,Defence,0,0,0,0,0.15,0.04
+28292,Ronald Araújo,Liverpool,Defence,0,0,0,0,0.15,0.04
+128954,Jeremie Frimpong,Liverpool,Defence,0,0,0,0,0.15,0.04
+171141,Milos Kerkez,Liverpool,Defence,0,0,0,0,0.15,0.04
+175865,Conor Bradley,Liverpool,Defence,0,0,0,0,0.15,0.04
+192563,Giovanni Leoni,Liverpool,Defence,0,0,0,0,0.15,0.04
+206127,Jeremy Jacquet,Liverpool,Defence,0,0,0,0,0.15,0.04
+3269,Wataru Endō,Liverpool,Midfield,0,0,0,0,0.15,0.112
+16347,Dominik Szoboszlai,Liverpool,Midfield,1,1,1,8,0.8,0.2114
+19334,Florian Wirtz,Liverpool,Midfield,0,0,0,0,0.15,0.112
+45681,Alexis Mac Allister,Liverpool,Midfield,0,0,0,0,0.15,0.112
+81793,Ryan Gravenberch,Liverpool,Midfield,0,0,0,0,0.15,0.112
+214502,James McConnell,Liverpool,Midfield,0,0,0,0,0.15,0.112
+230517,Trey Nyoni,Liverpool,Midfield,0,0,0,0,0.15,0.112
+1780,Federico Chiesa,Liverpool,Offence,0,0,0,0,0.15,0.256
+6486,Alexander Isak,Liverpool,Offence,7,0,0,9,0.9,0.5947
+7459,Cody Gakpo,Liverpool,Offence,1,3,0,9,0.9,0.1947
+152454,Hugo Ekitike,Liverpool,Offence,0,0,0,0,0.15,0.256
+172762,Bradley Barcola,Liverpool,Offence,0,0,0,0,0.15,0.256
+244989,Lewis Koumas,Liverpool,Offence,0,0,0,0,0.15,0.256
+273423,Víctor Muñoz,Liverpool,Offence,2,0,0,9,0.9,0.2613
+273453,Rio Ngumoha,Liverpool,Offence,0,0,0,0,0.15,0.256
+302268,Joshua Sonni-Lambie,Liverpool,Midfield,0,0,0,0,0.15,0.112
+6,Géronimo Rulli,Manchester City,Goalkeeper,0,0,0,0,0.03,0.001
+1731,Gianluigi Donnarumma,Manchester City,Goalkeeper,0,0,0,0,0.03,0.001
+3953,Marcus Bettinelli,Manchester City,Goalkeeper,0,0,0,0,0.03,0.001
+8642,Rayan Aït Nouri,Manchester City,Defence,0,0,0,0,0.15,0.04
+10183,Rúben Dias,Manchester City,Defence,0,0,0,0,0.15,0.04
+91512,Matheus Nunes,Manchester City,Defence,0,0,0,0,0.15,0.04
+118489,Marc Guéhi,Manchester City,Defence,1,1,0,10,0.95,0.0813
+122266,Joško Gvardiol,Manchester City,Defence,1,3,0,10,0.95,0.0813
+187202,Rico Lewis,Manchester City,Defence,0,0,0,0,0.15,0.04
+206743,Nico O'Reilly,Manchester City,Defence,0,0,0,0,0.15,0.04
+212868,Abdukodir Khusanov,Manchester City,Defence,0,0,0,0,0.15,0.04
+249196,Vitor Reis,Manchester City,Defence,0,0,0,0,0.15,0.04
+65,Mateo Kovačić,Manchester City,Midfield,0,0,0,0,0.15,0.112
+7888,Phil Foden,Manchester City,Midfield,0,0,0,0,0.15,0.112
+102603,Enzo Fernández,Manchester City,Midfield,1,0,0,9,0.9,0.1227
+107330,Elliot Anderson,Manchester City,Midfield,0,0,0,0,0.15,0.112
+133242,Rayan Cherki,Manchester City,Midfield,5,2,0,10,0.95,0.365
+221819,Ayyoub Bouaddi,Manchester City,Midfield,0,0,0,0,0.15,0.112
+4417,Antoine Semenyo,Manchester City,Offence,2,3,0,7,0.7,0.3015
+38101,Erling Haaland,Manchester City,Offence,9,0,0,10,0.95,0.6825
+94091,Iliman Ndiaye,Manchester City,Offence,0,0,0,0,0.15,0.256
+99775,Jeremy Doku,Manchester City,Offence,0,0,0,0,0.15,0.256
+274216,Allan,Manchester City,Offence,0,0,0,0,0.15,0.256
+286950,Ryan McAidoo,Manchester City,Offence,0,0,0,0,0.15,0.256
+7913,Karl Darlow,Manchester United,Goalkeeper,0,0,0,0,0.03,0.001
+8035,Tom Heaton,Manchester United,Goalkeeper,0,0,0,0,0.03,0.001
+129946,Senne Lammens,Manchester United,Goalkeeper,0,0,0,0,0.03,0.001
+210730,Dermot Mee,Manchester United,Goalkeeper,0,0,0,0,0.03,0.001
+3326,Harry Maguire,Manchester United,Defence,0,0,0,0,0.15,0.04
+7549,Matthijs de Ligt,Manchester United,Defence,0,0,0,0,0.15,0.04
+7553,Noussair Mazraoui,Manchester United,Defence,0,0,0,0,0.15,0.04
+7898,Luke Shaw,Manchester United,Defence,0,0,0,0,0.15,0.04
+15905,Diogo Dalot,Manchester United,Defence,0,0,0,0,0.15,0.04
+46451,Lisandro Martínez,Manchester United,Defence,0,0,0,0,0.15,0.04
+181933,Leny Yoro,Manchester United,Defence,0,0,0,0,0.15,0.04
+210150,Harry Amass,Manchester United,Defence,0,0,0,0,0.15,0.04
+247644,Ayden Heaven,Manchester United,Defence,0,0,0,0,0.15,0.04
+3257,Bruno Fernandes,Manchester United,Midfield,4,2,2,10,0.95,0.3825
+3658,Youri Tielemans,Manchester United,Midfield,0,0,0,0,0.15,0.112
+7599,Mason Mount,Manchester United,Midfield,0,0,0,0,0.15,0.112
+28549,Manuel Ugarte,Manchester United,Midfield,0,0,0,0,0.15,0.112
+166366,Andrey Santos,Manchester United,Midfield,0,0,0,0,0.15,0.112
+178604,Carlos Baleba,Manchester United,Midfield,0,0,0,0,0.15,0.112
+190797,Kobbie Mainoo,Manchester United,Midfield,0,0,0,0,0.15,0.112
+290139,Tyler Fletcher,Manchester United,Midfield,0,0,0,0,0.15,0.112
+3331,Marcus Rashford,Manchester United,Offence,0,0,0,0,0.15,0.256
+8626,Bryan Mbeumo,Manchester United,Offence,4,0,0,10,0.95,0.37
+30842,Matheus Cunha,Manchester United,Offence,1,2,0,10,0.95,0.1825
+99731,Joshua Zirkzee,Manchester United,Offence,0,0,0,0,0.15,0.256
+124244,Benjamin Šeško,Manchester United,Offence,1,0,0,4,0.4,0.292
+133584,Amad Diallo,Manchester United,Offence,0,0,0,0,0.15,0.256
+211559,Patrick Dorgu,Manchester United,Offence,0,0,0,0,0.15,0.256
+289557,Shea Lacey,Manchester United,Offence,0,0,0,0,0.15,0.256
+302252,Daniel Armer,Manchester United,Midfield,0,0,0,0,0.15,0.112
+3310,Nick Pope,Newcastle,Goalkeeper,0,0,0,0,0.03,0.001
+5048,Mark Gillespie,Newcastle,Goalkeeper,0,0,0,0,0.03,0.001
+146753,Lukáš Horníček,Newcastle,Goalkeeper,0,0,0,0,0.03,0.001
+191388,Ewen Jaouen,Newcastle,Goalkeeper,0,0,0,0,0.03,0.001
+88,Fabian Schär,Newcastle,Defence,0,0,0,0,0.15,0.04
+4870,Dan Burn,Newcastle,Defence,0,0,0,0,0.15,0.04
+81082,Sven Botman,Newcastle,Defence,0,0,0,0,0.15,0.04
+81816,Amar Dedić,Newcastle,Defence,0,0,0,0,0.15,0.04
+142732,Malick Thiaw,Newcastle,Defence,0,0,0,0,0.15,0.04
+168712,Valentino Livramento,Newcastle,Defence,0,0,0,0,0.15,0.04
+191140,Lewis Hall,Newcastle,Defence,1,1,0,10,0.95,0.0813
+7798,Joe Willock,Newcastle,Midfield,2,0,0,10,0.95,0.1775
+10653,Joelinton,Newcastle,Midfield,0,0,0,0,0.15,0.112
+111437,Jacob Ramsey,Newcastle,Midfield,1,0,0,6,0.6,0.1533
+171986,Nico Gonzalez,Newcastle,Midfield,0,0,0,0,0.15,0.112
+191939,Lewis Miley,Newcastle,Midfield,0,0,0,0,0.15,0.112
+251265,Sean Steur,Newcastle,Midfield,0,0,0,0,0.15,0.112
+272943,Aladji Bamba,Newcastle,Midfield,0,0,0,0,0.15,0.112
+612,Yoane Wissa,Newcastle,Offence,1,1,0,10,0.95,0.1825
+7934,Jacob Murphy,Newcastle,Offence,0,0,0,0,0.15,0.256
+8076,Harvey Barnes,Newcastle,Offence,2,2,0,10,0.95,0.245
+166376,Anthony Elanga,Newcastle,Offence,2,0,0,6,0.6,0.3267
+169324,William Osula,Newcastle,Offence,0,0,0,0,0.15,0.256
+213511,Matias Fernandez-Pardo,Newcastle,Offence,0,0,0,0,0.15,0.256
+249312,Bazoumana Touré,Newcastle,Offence,1,0,0,10,0.95,0.1825
+4292,Simon Moore,Sunderland,Goalkeeper,0,0,0,0,0.03,0.001
+137691,Robin Roefs,Sunderland,Goalkeeper,0,0,0,0,0.03,0.001
+150893,Melker Ellborg,Sunderland,Goalkeeper,0,0,0,0,0.03,0.001
+3650,Thomas Meunier,Sunderland,Defence,0,0,0,0,0.15,0.04
+6259,Luke O'Nien,Sunderland,Defence,0,0,0,0,0.15,0.04
+6655,Kevin Danso,Sunderland,Defence,0,0,0,0,0.15,0.04
+8371,Nordi Mukiele,Sunderland,Defence,0,0,0,0,0.15,0.04
+37094,Reinildo,Sunderland,Defence,0,0,0,0,0.15,0.04
+46491,Omar Alderete,Sunderland,Defence,0,0,0,0,0.15,0.04
+117687,Trai Hume,Sunderland,Defence,0,0,0,0,0.15,0.04
+121109,Daniel Ballard,Sunderland,Defence,0,0,0,0,0.15,0.04
+161270,Aji Alese,Sunderland,Defence,0,0,0,0,0.15,0.04
+264401,Dayann Methalie,Sunderland,Defence,0,0,0,0,0.15,0.04
+3477,Granit Xhaka,Sunderland,Midfield,0,0,0,0,0.15,0.112
+11362,Alan Browne,Sunderland,Midfield,0,0,0,0,0.15,0.112
+99664,Enzo Le Fée,Sunderland,Midfield,3,1,3,10,0.95,0.32
+171876,Habib Diarra,Sunderland,Midfield,0,0,0,0,0.15,0.112
+182273,Noah Sadiki,Sunderland,Midfield,0,0,0,0,0.15,0.112
+190817,Chris Rigg,Sunderland,Midfield,0,0,0,0,0.15,0.112
+286011,Jules Ahoka,Sunderland,Midfield,0,0,0,0,0.15,0.112
+83599,Wilson Isidor,Sunderland,Offence,1,0,0,8,0.8,0.2086
+97535,Brian Brobbey,Sunderland,Offence,3,0,0,8,0.8,0.3514
+165311,Abdoullah Ba,Sunderland,Offence,0,0,0,0,0.15,0.256
+172275,Romaine Mundle,Sunderland,Offence,0,0,0,0,0.15,0.256
+187065,Malick Fofana,Sunderland,Offence,0,0,0,0,0.15,0.256
+187375,Nilson Angulo,Sunderland,Offence,1,1,0,10,0.95,0.1825
+192313,Chemsdine Talbi,Sunderland,Offence,0,0,0,0,0.15,0.256
+290809,Jocelin Bi,Sunderland,Offence,0,0,0,0,0.15,0.256
+7914,Martin Dúbravka,Tottenham,Goalkeeper,0,0,0,0,0.03,0.001
+133229,Brandon Austin,Tottenham,Goalkeeper,0,0,0,0,0.03,0.001
+255239,Antonín Kinský,Tottenham,Goalkeeper,0,0,0,0,0.03,0.001
+7868,Andrew Robertson,Tottenham,Defence,0,0,0,0,0.15,0.04
+7880,Tosin Adarabioyo,Tottenham,Defence,0,0,0,0,0.15,0.04
+7994,Ben Davies,Tottenham,Defence,0,0,0,0,0.15,0.04
+46046,Marcos Senesi,Tottenham,Defence,0,0,0,0,0.15,0.04
+81037,Pedro Porro,Tottenham,Defence,0,0,0,0,0.15,0.04
+98566,Jan Paul van Hecke,Tottenham,Defence,2,0,0,10,0.95,0.1437
+131177,Mickey van de Ven,Tottenham,Defence,0,0,0,0,0.15,0.04
+170378,Destiny Udogie,Tottenham,Defence,0,0,0,0,0.15,0.04
+177040,Archie Gray,Tottenham,Defence,0,0,0,0,0.15,0.04
+1859,Dejan Kulusevski,Tottenham,Midfield,0,0,0,0,0.15,0.112
+2041,Rodrigo Bentancur,Tottenham,Midfield,0,0,0,0,0.15,0.112
+2563,Sandro Tonali,Tottenham,Midfield,0,0,0,0,0.15,0.112
+3992,James Maddison,Tottenham,Midfield,0,0,0,0,0.15,0.112
+119265,Conor Gallagher,Tottenham,Midfield,1,0,0,10,0.95,0.115
+148289,Xavi Simons,Tottenham,Midfield,0,0,0,0,0.15,0.112
+187216,Mateus Fernandes,Tottenham,Midfield,0,0,0,0,0.15,0.112
+193622,Lucas Bergvall,Tottenham,Midfield,0,0,0,0,0.15,0.112
+7878,Dominic Solanke,Tottenham,Offence,0,0,0,0,0.15,0.256
+8133,Richarlison,Tottenham,Offence,0,0,0,0,0.15,0.256
+66896,Omar Marmoush,Tottenham,Offence,0,0,0,0,0.15,0.256
+77399,Mohammed Kudus,Tottenham,Offence,0,0,0,0,0.15,0.256
+98978,Mykhailo Mudryk,Tottenham,Offence,0,0,0,0,0.15,0.256
+146352,Sávio,Tottenham,Offence,0,0,0,0,0.15,0.256
+171977,Mathys Tel,Tottenham,Offence,0,0,0,0,0.15,0.256
+184999,Wilson Odobert,Tottenham,Offence,0,0,0,0,0.15,0.256
+3308,Jack Butland,Hull City,Goalkeeper,0,0,0,0,0.03,0.001
+6300,Dillon Phillips,Hull City,Goalkeeper,0,0,0,0,0.03,0.001
+170812,Konstantinos Tzolakis,Hull City,Goalkeeper,0,0,0,0,0.03,0.001
+3962,Matt Targett,Hull City,Defence,0,0,0,0,0.15,0.04
+4058,Paddy McNair,Hull City,Defence,0,0,0,0,0.15,0.04
+4425,John Egan,Hull City,Defence,0,0,0,0,0.15,0.04
+5322,Lewie Coyle,Hull City,Defence,0,0,0,0,0.15,0.04
+6451,Semi Ajayi,Hull City,Defence,1,0,0,10,0.95,0.0813
+82148,Ryan John Giles,Hull City,Defence,0,0,0,0,0.15,0.04
+177169,Brooke Norton-Cuffy,Hull City,Defence,0,0,0,0,0.15,0.04
+189278,Charlie Hughes,Hull City,Defence,0,0,0,0,0.15,0.04
+190558,Nobel Mendy,Hull City,Defence,1,0,0,7,0.7,0.1
+270733,Lucas Herrington,Hull City,Defence,0,0,0,0,0.15,0.04
+4309,Regan Slater,Hull City,Midfield,0,0,0,0,0.15,0.112
+11306,Kieran Dowell,Hull City,Midfield,0,0,0,0,0.15,0.112
+49092,Hidemasa Morita,Hull City,Midfield,0,0,0,0,0.15,0.112
+147914,Eliot Matazo,Hull City,Midfield,0,0,0,0,0.15,0.112
+169326,Tim Iroegbunam,Hull City,Midfield,0,0,0,0,0.15,0.112
+179603,Lucas Gourna-Douath,Hull City,Midfield,0,0,0,0,0.15,0.112
+184963,Darko Gyabi,Hull City,Midfield,0,0,0,0,0.15,0.112
+193627,Jens Hjertö-Dahl,Hull City,Midfield,0,0,0,0,0.15,0.112
+230388,Óscar Zambrano,Hull City,Midfield,0,0,0,0,0.15,0.112
+264301,Christos Mouzakitis,Hull City,Midfield,0,0,0,0,0.15,0.112
+4359,Oliver McBurnie,Hull City,Offence,2,2,1,10,0.95,0.325
+26444,Sorba Thomas,Hull City,Offence,0,0,0,0,0.15,0.256
+30298,Abdülkadir Ömür,Hull City,Offence,0,0,0,0,0.15,0.256
+80761,Joe Gelhardt,Hull City,Offence,0,0,0,0,0.15,0.256
+149129,Mohamed Ali Cho,Hull City,Offence,0,0,0,0,0.15,0.256
+192811,Elliot Stroud,Hull City,Offence,0,0,0,0,0.15,0.256
+211740,Ilyas Ansah,Hull City,Offence,0,0,0,0,0.15,0.256
+213033,Robinio Vaz,Hull City,Offence,0,0,0,0,0.15,0.256
+213072,Mohamed Belloumi,Hull City,Offence,3,2,0,9,0.9,0.328
+5315,Alex Cairns,Leeds,Goalkeeper,0,0,0,0,0.03,0.001
+9438,Michael Zetterer,Leeds,Goalkeeper,0,0,0,0,0.03,0.001
+153874,James Trafford,Leeds,Goalkeeper,0,0,0,0,0.03,0.001
+3475,Nico Elvedi,Leeds,Defence,0,0,0,0,0.15,0.04
+4184,Jayden Bogle,Leeds,Defence,2,0,0,10,0.95,0.1437
+5613,James Justin,Leeds,Defence,1,0,0,10,0.95,0.0813
+5714,Joe Rodon,Leeds,Defence,0,0,0,0,0.15,0.04
+31531,Gabriel Gudmundsson,Leeds,Defence,0,0,0,0,0.15,0.04
+74688,Jaka Bijol,Leeds,Defence,0,0,0,0,0.15,0.04
+136721,Melvin Bard,Leeds,Defence,0,0,0,0,0.15,0.04
+189153,Tarik Muharemović,Leeds,Defence,0,0,0,0,0.15,0.04
+4955,Sean Longstaff,Leeds,Midfield,0,0,0,0,0.15,0.112
+7815,Ethan Ampadu,Leeds,Midfield,0,0,0,0,0.15,0.112
+49105,Ao Tanaka,Leeds,Midfield,0,0,0,0,0.15,0.112
+65843,Anton Stach,Leeds,Midfield,1,0,0,9,0.9,0.1227
+75284,Ilia Gruev,Leeds,Midfield,0,0,0,0,0.15,0.112
+113262,Brenden Aaronson,Leeds,Midfield,0,0,0,0,0.15,0.112
+7839,Dominic Calvert-Lewin,Leeds,Offence,3,1,0,10,0.95,0.3075
+7892,Lukas Nmecha,Leeds,Offence,0,0,0,0,0.15,0.256
+7974,Daniel James,Leeds,Offence,0,0,0,0,0.15,0.256
+11777,Harry Wilson,Leeds,Offence,0,0,0,0,0.15,0.256
+16058,Noah Okafor,Leeds,Offence,2,0,0,9,0.9,0.2613
+185178,Mateo Fernandez,Leeds,Offence,0,0,0,0,0.15,0.256
+185882,Jean Bahoya,Leeds,Offence,0,0,0,0,0.15,0.256
+3954,David Button,Ipswich,Goalkeeper,0,0,0,0,0.03,0.001
+4867,Christian Walton,Ipswich,Goalkeeper,0,0,0,0,0.03,0.001
+8011,Alex Palmer,Ipswich,Goalkeeper,0,0,0,0,0.03,0.001
+9814,Kjell Scherpen,Ipswich,Goalkeeper,0,0,0,0,0.03,0.001
+4017,Darnell Furlong,Ipswich,Defence,0,0,0,0,0.15,0.04
+8296,Issa Diop,Ipswich,Defence,0,0,0,0,0.15,0.04
+25650,Dara O'Shea,Ipswich,Defence,0,0,0,0,0.15,0.04
+34871,Cédric Kipré,Ipswich,Defence,0,0,0,0,0.15,0.04
+99120,Leif Davis,Ipswich,Defence,2,1,0,10,0.95,0.1437
+125651,Jacob Greaves,Ipswich,Defence,0,0,0,0,0.15,0.04
+270889,Abdoul Ouattara,Ipswich,Defence,0,0,0,0,0.15,0.04
+5999,Jack Taylor,Ipswich,Midfield,0,0,0,0,0.15,0.112
+7566,Azor Matusiwa,Ipswich,Midfield,0,0,0,0,0.15,0.112
+11720,Exequiel Palacios,Ipswich,Midfield,0,0,0,0,0.15,0.112
+32938,Saša Lukić,Ipswich,Midfield,0,0,0,0,0.15,0.112
+37560,Florentino,Ipswich,Midfield,0,0,0,0,0.15,0.112
+140245,Marcelino Núñez,Ipswich,Midfield,0,0,0,0,0.15,0.112
+152437,Anis Mehmeti,Ipswich,Midfield,0,0,0,0,0.15,0.112
+168949,Julio Enciso,Ipswich,Midfield,2,2,0,10,0.95,0.1775
+4158,Jack Clarke,Ipswich,Offence,2,1,1,10,0.95,0.325
+9053,Chuba Akpom,Ipswich,Offence,1,0,0,9,0.9,0.1947
+44017,Daizen Maeda,Ipswich,Offence,0,0,0,0,0.15,0.256
+67893,Zian Flemming,Ipswich,Offence,2,0,1,8,0.8,0.36
+172632,Jaden Philogene-Bidace,Ipswich,Offence,0,0,0,0,0.15,0.256
+176628,Emersonn,Ipswich,Offence,2,1,0,10,0.95,0.245
+176777,Kasey McAteer,Ipswich,Offence,0,0,0,0,0.15,0.256
+187162,Abdul Issahaku,Ipswich,Offence,0,0,0,0,0.15,0.256
+230057,Sindre Egeli,Ipswich,Offence,0,0,0,0,0.15,0.256
+1299,John,Nottingham Forest,Goalkeeper,0,0,0,0,0.03,0.001
+3643,Matz Sels,Nottingham Forest,Goalkeeper,0,0,0,0,0.03,0.001
+81055,Steven Benda,Nottingham Forest,Goalkeeper,0,0,0,0,0.03,0.001
+1775,Nikola Milenković,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+3386,Ola Aina,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+22010,Daniel Muñoz,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+133765,Neco Williams,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+144361,Luca Netz,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+179782,Jair Paula,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+191730,Nicolò Savona,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+192637,Murillo,Nottingham Forest,Defence,0,0,0,0,0.15,0.04
+4091,Morgan Gibbs-White,Nottingham Forest,Midfield,1,3,1,9,0.9,0.2027
+5435,Ryan Yates,Nottingham Forest,Midfield,0,0,0,0,0.15,0.112
+8307,Ibrahim Sangaré,Nottingham Forest,Midfield,0,0,0,0,0.15,0.112
+16344,Xaver Schlager,Nottingham Forest,Midfield,0,0,0,0,0.15,0.112
+46346,Nicolás Domínguez,Nottingham Forest,Midfield,0,0,0,0,0.15,0.112
+172956,James McAtee,Nottingham Forest,Midfield,0,0,0,0,0.15,0.112
+7816,Callum Hudson-Odoi,Nottingham Forest,Offence,0,0,0,0,0.15,0.256
+8057,Chris Wood,Nottingham Forest,Offence,0,0,0,0,0.15,0.256
+77641,Dan Ndoye,Nottingham Forest,Offence,2,0,0,10,0.95,0.245
+130668,Arnaud Kalimuendo,Nottingham Forest,Offence,0,0,0,0,0.15,0.256
+151095,Liam Delap,Nottingham Forest,Offence,3,0,0,9,0.9,0.328
+256339,Igor Jesus,Nottingham Forest,Offence,1,0,0,6,0.6,0.2433
+5457,Dean Henderson,Crystal Palace,Goalkeeper,0,0,0,0,0.03,0.001
+6413,Remi Matthews,Crystal Palace,Goalkeeper,0,0,0,0,0.03,0.001
+8420,Walter Benítez,Crystal Palace,Goalkeeper,0,0,0,0,0.03,0.001
+813,Axel Disasi,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+8065,Ben Chilwell,Crystal Palace,Defence,1,0,0,6,0.6,0.1083
+9034,Takehiro Tomiyasu,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+99856,Chris Richards,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+137068,Tyrick Mitchell,Crystal Palace,Defence,2,0,0,10,0.95,0.1437
+146986,Óscar Mingueza,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+150948,Chadi Riad,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+213425,Anan Khalaili,Crystal Palace,Defence,1,0,0,10,0.95,0.0813
+260271,Jaydee Canvot,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+263661,Honest Ahanor,Crystal Palace,Defence,0,0,0,0,0.15,0.04
+3737,Jefferson Lerma,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+6716,Daichi Kamada,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+8124,Will Hughes,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+74677,Cheick Doucouré,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+97536,Quinten Timber,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+191396,Adam Wharton,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+303053,Nathanael Kalembo,Crystal Palace,Midfield,0,0,0,0,0.15,0.112
+641,Jean-Philippe Mateta,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+3638,Ismaïla Sarr,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+7800,Eddie Nketiah,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+11623,Dwight McNeil,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+128710,Evann Guessand,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+152505,Yeremi Pino,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+179319,Darío Osorio,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+213269,Jørgen Strand Larsen,Crystal Palace,Offence,1,0,0,8,0.8,0.2086
+224618,Zavier Gozo,Crystal Palace,Offence,0,0,0,0,0.15,0.256
+4040,Jason Steele,Brighton,Goalkeeper,0,0,0,0,0.03,0.001
+126870,Bart Verbruggen,Brighton,Goalkeeper,0,0,0,0,0.03,0.001
+140203,Thomas McGill,Brighton,Goalkeeper,0,0,0,0,0.03,0.001
+846,Olivier Boscagli,Brighton,Defence,0,0,0,0,0.15,0.04
+4146,Pascal Struijk,Brighton,Defence,0,0,0,0,0.15,0.04
+8259,Lewis Dunk,Brighton,Defence,1,0,0,9,0.9,0.0867
+9869,Ferdi Kadıoğlu,Brighton,Defence,0,0,0,0,0.15,0.04
+61968,Michael Svoboda,Brighton,Defence,0,0,0,0,0.15,0.04
+97505,Mats Wieffer,Brighton,Defence,0,0,0,0,0.15,0.04
+142075,Maxim De Cuyper,Brighton,Defence,2,3,0,10,0.95,0.1437
+147891,Jaouen Hadjam,Brighton,Defence,1,0,0,9,0.9,0.0867
+185116,Costinha,Brighton,Defence,0,0,0,0,0.15,0.04
+216835,Luka Vušković,Brighton,Defence,1,0,0,10,0.95,0.0813
+3974,Matt O'Riley,Brighton,Midfield,0,0,0,0,0.15,0.112
+8273,Pascal Groß,Brighton,Midfield,4,4,2,10,0.95,0.3825
+145613,Yasin Ayari,Brighton,Midfield,3,1,0,9,0.9,0.256
+178951,Diego Gómez,Brighton,Midfield,2,2,0,10,0.95,0.1775
+190851,Jack Hinshelwood,Brighton,Midfield,3,0,0,5,0.5,0.3491
+246670,Malick Yalcouyé,Brighton,Midfield,2,0,0,10,0.95,0.1775
+270273,Chema Andrés,Brighton,Midfield,1,1,0,8,0.8,0.1314
+29319,Femi Azeez,Brighton,Offence,0,0,0,0,0.15,0.256
+81189,Georginio Rutter,Brighton,Offence,0,0,0,0,0.15,0.256
+130809,Evan Ferguson,Brighton,Offence,0,0,0,0,0.15,0.256
+132707,Kaoru Mitoma,Brighton,Offence,0,0,0,0,0.15,0.256
+187482,Yankubah Minteh,Brighton,Offence,0,0,0,0,0.15,0.256
+205531,Ibrahim Osman,Brighton,Offence,0,0,0,0,0.15,0.256
+209504,Stefanos Tzimas,Brighton,Offence,0,0,0,0,0.15,0.256
+260992,Promise Akinpelu,Brighton,Offence,0,0,0,0,0.15,0.256
+264300,Charalampos Kostoulas,Brighton,Offence,3,2,0,10,0.95,0.3075
+279784,Zadok Yohanna,Brighton,Offence,0,0,0,0,0.15,0.256
+4419,Ellery Balcombe,Brentford,Goalkeeper,0,0,0,0,0.03,0.001
+102046,Caoimhin Kelleher,Brentford,Goalkeeper,0,0,0,0,0.03,0.001
+144530,Hákon Rafn Valdimarsson,Brentford,Goalkeeper,0,0,0,0,0.03,0.001
+4426,Rico Henry,Brentford,Defence,0,0,0,0,0.15,0.04
+7720,Sepp van den Berg,Brentford,Defence,0,0,0,0,0.15,0.04
+16068,Kristoffer Ajer,Brentford,Defence,0,0,0,0,0.15,0.04
+101111,Aaron Hickey,Brentford,Defence,0,0,0,0,0.15,0.04
+101910,Keane Lewis-Potter,Brentford,Defence,2,1,0,10,0.95,0.1437
+115642,Nathan Collins,Brentford,Defence,0,0,0,0,0.15,0.04
+193633,El Hadji Malick Diouf,Brentford,Defence,0,0,0,0,0.15,0.04
+204348,Michael Kayode,Brentford,Defence,1,0,0,10,0.95,0.0813
+221783,Ji-soo Kim,Brentford,Defence,0,0,0,0,0.15,0.04
+227064,Jannik Schuster,Brentford,Defence,0,0,0,0,0.15,0.04
+245364,Benjamin Fredrick,Brentford,Defence,0,0,0,0,0.15,0.04
+7796,Josh Dasilva,Brentford,Midfield,0,0,0,0,0.15,0.112
+10000,Vitaly Janelt,Brentford,Midfield,2,0,0,9,0.9,0.1893
+10194,Mathias Jensen,Brentford,Midfield,0,0,0,0,0.15,0.112
+24238,Mikkel Damsgaard,Brentford,Midfield,0,0,0,0,0.15,0.112
+150964,Mamadou Sangare,Brentford,Midfield,0,0,0,0,0.15,0.112
+151119,Fabio Carvalho,Brentford,Midfield,1,0,0,6,0.6,0.1533
+171965,Antoni Milambo,Brentford,Midfield,0,0,0,0,0.15,0.112
+204421,Yegor Yarmolyuk,Brentford,Midfield,0,0,0,0,0.15,0.112
+8251,Callum Wilson,Brentford,Offence,0,0,0,0,0.15,0.256
+123286,Kevin Schade,Brentford,Offence,3,0,0,10,0.95,0.3075
+138230,Thiago,Brentford,Offence,2,2,0,10,0.95,0.245
+150778,Jaidon Anthony,Brentford,Offence,1,2,0,10,0.95,0.1825
+177305,Dango Ouattara,Brentford,Offence,0,0,0,0,0.15,0.256
+213296,Gustavo Gomes,Brentford,Offence,0,0,0,0,0.15,0.256
+213518,Kaye Furo,Brentford,Offence,0,0,0,0,0.15,0.256
+8079,Fraser Forster,Bournemouth,Goalkeeper,0,0,0,0,0.03,0.001
+41381,Michele Di Gregorio,Bournemouth,Goalkeeper,0,0,0,0,0.03,0.001
+121765,Đorđe Petrović,Bournemouth,Goalkeeper,0,0,0,0,0.03,0.001
+8231,Adam Smith,Bournemouth,Defence,0,0,0,0,0.15,0.04
+80765,Max Aarons,Bournemouth,Defence,0,0,0,0,0.15,0.04
+82145,James Hill,Bournemouth,Defence,0,0,0,0,0.15,0.04
+98745,Bafodé Diakité,Bournemouth,Defence,0,0,0,0,0.15,0.04
+113335,Julian Araujo,Bournemouth,Defence,0,0,0,0,0.15,0.04
+135482,Adrien Truffert,Bournemouth,Defence,0,0,0,0,0.15,0.04
+180038,Juanlu,Bournemouth,Defence,0,0,0,0,0.15,0.04
+183583,Julio Soler,Bournemouth,Defence,0,0,0,0,0.15,0.04
+185610,Antonio Silva,Bournemouth,Defence,0,0,0,0,0.15,0.04
+227046,Veljko Milosavljević,Bournemouth,Defence,0,0,0,0,0.15,0.04
+3327,Lewis Cook,Bournemouth,Midfield,0,0,0,0,0.15,0.112
+7561,Justin Kluivert,Bournemouth,Midfield,1,2,0,8,0.8,0.1314
+34495,Ryan Christie,Bournemouth,Midfield,0,0,0,0,0.15,0.112
+77596,Tyler Adams,Bournemouth,Midfield,0,0,0,0,0.15,0.112
+161088,Alex Scott,Bournemouth,Midfield,1,0,0,6,0.6,0.1533
+192316,Alex Toth,Bournemouth,Midfield,0,0,0,0,0.15,0.112
+4321,David Brooks,Bournemouth,Offence,0,0,0,0,0.15,0.256
+6396,Marcus Tavernier,Bournemouth,Offence,5,0,0,10,0.95,0.4325
+131260,Evanilson,Bournemouth,Offence,5,4,0,10,0.95,0.4325
+137047,Amine Adli,Bournemouth,Offence,0,0,0,0,0.15,0.256
+169191,Daniel Jebbison,Bournemouth,Offence,0,0,0,0,0.15,0.256
+176789,Ben Doak,Bournemouth,Offence,0,0,0,0,0.15,0.256
+189369,Alvaro Rodriguez,Bournemouth,Offence,0,0,0,0,0.15,0.256
+203356,Rayan,Bournemouth,Offence,0,0,0,0,0.15,0.256
+204241,Eli Kroupi,Bournemouth,Offence,0,0,0,0,0.15,0.256
+4418,Daniel Bentley,Coventry,Goalkeeper,0,0,0,0,0.03,0.001
+5347,Ben Wilson,Coventry,Goalkeeper,0,0,0,0,0.03,0.001
+171498,Carl Rushworth,Coventry,Goalkeeper,0,0,0,0,0.03,0.001
+4015,Jake Bidwell,Coventry,Defence,0,0,0,0,0.15,0.04
+4235,Luke Woolfenden,Coventry,Defence,0,0,0,0,0.15,0.04
+4334,Ethan Pinnock,Coventry,Defence,0,0,0,0,0.15,0.04
+6308,Jay Dasilva,Coventry,Defence,1,1,0,10,0.95,0.0813
+55048,Milan van Ewijk,Coventry,Defence,0,0,0,0,0.15,0.04
+130044,Joel Latibeaudiere,Coventry,Defence,0,0,0,0,0.15,0.04
+144782,Bobby Thomas,Coventry,Defence,0,0,0,0,0.15,0.04
+169297,Aurele Amenda,Coventry,Defence,0,0,0,0,0.15,0.04
+171509,Kaine Kesler,Coventry,Defence,0,0,0,0,0.15,0.04
+286320,Stephen Mfuni,Coventry,Defence,0,0,0,0,0.15,0.04
+6358,Matt Grimes,Coventry,Midfield,0,0,0,0,0.15,0.112
+9623,Gustavo Hamer,Coventry,Midfield,0,0,0,0,0.15,0.112
+24207,Victor Torp,Coventry,Midfield,0,0,0,0,0.15,0.112
+24210,Frank Onyeka,Coventry,Midfield,0,0,0,0,0.15,0.112
+83372,Josh Eccles,Coventry,Midfield,0,0,0,0,0.15,0.112
+114123,Jack Rudoni,Coventry,Midfield,3,0,1,10,0.95,0.32
+262187,Caleb Yirenkyi,Coventry,Midfield,0,0,0,0,0.15,0.112
+6009,Ephron Mason-Clark,Coventry,Offence,0,0,0,0,0.15,0.256
+6389,Brandon Thomas-Asante,Coventry,Offence,0,0,0,0,0.15,0.256
+9218,Taiwo Awoniyi,Coventry,Offence,0,0,0,0,0.15,0.256
+10076,Haji Wright,Coventry,Offence,0,0,0,0,0.15,0.256
+80175,Yann Gboho,Coventry,Offence,0,0,0,0,0.15,0.256
+113632,Tatsuhiro Sakamoto,Coventry,Offence,0,0,0,0,0.15,0.256
+146122,Ellis Simms,Coventry,Offence,0,0,0,0,0.15,0.256
+170394,Loum Tchaouna,Coventry,Offence,0,0,0,0,0.15,0.256
+213712,Sidiki Cherif,Coventry,Offence,0,0,0,0,0.15,0.256

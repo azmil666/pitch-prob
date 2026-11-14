@@ -1,0 +1,12 @@
+match_id,date,home_team,away_team,logged_at,status,pred_home_prob,pred_draw_prob,pred_away_prob,pred_outcome,pred_scoreline,pred_xg_home,pred_xg_away,pred_top_scorer,pred_scorer_prob,actual_home_goals,actual_away_goals,actual_result,outcome_hit,scoreline_hit,match_log_loss
+2026-11-21_Manchester City_vs_Fulham,2026-11-21T12:30:00+00:00,Manchester City,Fulham,2026-11-14T07:06:30.123396+00:00,PENDING,0.6648,0.2053,0.1299,H,2-0,2.11,0.83,Erling Haaland,0.5457,,,,,,
+2026-11-21_Chelsea_vs_Leeds,2026-11-21T15:00:00+00:00,Chelsea,Leeds,2026-11-14T07:06:30.123396+00:00,PENDING,0.499,0.2578,0.2432,H,1-1,1.65,1.09,Morgan Rogers,0.2685,,,,,,
+2026-11-21_Aston Villa_vs_Sunderland,2026-11-21T15:00:00+00:00,Aston Villa,Sunderland,2026-11-14T07:06:30.123396+00:00,PENDING,0.5371,0.2585,0.2044,H,1-1,1.65,0.93,Nicolas Jackson,0.3943,,,,,,
+2026-11-21_Bournemouth_vs_Nottingham Forest,2026-11-21T15:00:00+00:00,Bournemouth,Nottingham Forest,2026-11-14T07:06:30.123396+00:00,PENDING,0.4692,0.2662,0.2646,H,1-1,1.56,1.11,Evanilson,0.3643,,,,,,
+2026-11-21_Tottenham_vs_Ipswich,2026-11-21T15:00:00+00:00,Tottenham,Ipswich,2026-11-14T07:06:30.123396+00:00,PENDING,0.6063,0.2087,0.185,H,2-1,2.2,1.15,Jan Paul van Hecke,0.3416,,,,,,
+2026-11-21_Coventry_vs_Crystal Palace,2026-11-21T15:00:00+00:00,Coventry,Crystal Palace,2026-11-14T07:06:30.123396+00:00,PENDING,0.3703,0.2733,0.3564,H,1-1,1.36,1.33,Jack Rudoni,0.3743,,,,,,
+2026-11-21_Newcastle_vs_Arsenal,2026-11-21T17:30:00+00:00,Newcastle,Arsenal,2026-11-14T07:06:30.123396+00:00,PENDING,0.2124,0.2578,0.5297,A,1-1,0.96,1.66,Bukayo Saka,0.3193,,,,,,
+2026-11-22_Hull City_vs_Brighton,2026-11-22T14:00:00+00:00,Hull City,Brighton,2026-11-14T07:06:30.123396+00:00,PENDING,0.3122,0.3021,0.3858,A,1-1,1.05,1.2,Oliver McBurnie,0.2307,,,,,,
+2026-11-22_Liverpool_vs_Manchester United,2026-11-22T16:30:00+00:00,Liverpool,Manchester United,2026-11-14T07:06:30.123396+00:00,PENDING,0.5658,0.2227,0.2115,H,1-1,2.05,1.19,Alexander Isak,0.5239,,,,,,
+2026-11-23_Brentford_vs_Everton,2026-11-23T20:00:00+00:00,Brentford,Everton,2026-11-14T07:06:30.123396+00:00,PENDING,0.4743,0.2767,0.2491,H,1-1,1.48,1.0,Thierno Barry,0.3032,,,,,,
+2026-11-27_Nottingham Forest_vs_Chelsea,2026-11-27T20:00:00+00:00,Nottingham Forest,Chelsea,2026-11-14T07:06:30.123396+00:00,PENDING,0.3655,0.2687,0.3658,A,1-1,1.38,1.38,Liam Delap,0.3087,,,,,,

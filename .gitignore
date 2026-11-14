@@ -3,8 +3,4 @@ venv/
 __pycache__/
 *.pyc
 .DS_Store
-data/raw/*
-data/processed/*
-data/features/*
-saved_models/*
 .ipynb_checkpoints/

@@ -1,0 +1,1621 @@
+source,apifb_fixture_id,season,date,matchday,status,home_team,away_team,home_goals,away_goals,result
+api_football,867946,2022,2022-08-05 19:00:00+00:00,Regular Season - 1,FINISHED,Crystal Palace,Arsenal,0.0,2.0,A
+api_football,867947,2022,2022-08-06 11:30:00+00:00,Regular Season - 1,FINISHED,Fulham,Liverpool,2.0,2.0,D
+api_football,867951,2022,2022-08-06 14:00:00+00:00,Regular Season - 1,FINISHED,Newcastle,Nottingham Forest,2.0,0.0,H
+api_football,867948,2022,2022-08-06 14:00:00+00:00,Regular Season - 1,FINISHED,Bournemouth,Aston Villa,2.0,0.0,H
+api_football,867952,2022,2022-08-06 14:00:00+00:00,Regular Season - 1,FINISHED,Tottenham,Southampton,4.0,1.0,H
+api_football,867949,2022,2022-08-06 14:00:00+00:00,Regular Season - 1,FINISHED,Leeds,Wolves,2.0,1.0,H
+api_football,867953,2022,2022-08-06 16:30:00+00:00,Regular Season - 1,FINISHED,Everton,Chelsea,0.0,1.0,A
+api_football,867954,2022,2022-08-07 13:00:00+00:00,Regular Season - 1,FINISHED,Manchester United,Brighton,1.0,2.0,A
+api_football,867950,2022,2022-08-07 13:00:00+00:00,Regular Season - 1,FINISHED,Leicester,Brentford,2.0,2.0,D
+api_football,867955,2022,2022-08-07 15:30:00+00:00,Regular Season - 1,FINISHED,West Ham,Manchester City,0.0,2.0,A
+api_football,867957,2022,2022-08-13 11:30:00+00:00,Regular Season - 2,FINISHED,Aston Villa,Everton,2.0,1.0,H
+api_football,867959,2022,2022-08-13 14:00:00+00:00,Regular Season - 2,FINISHED,Brighton,Newcastle,0.0,0.0,D
+api_football,867956,2022,2022-08-13 14:00:00+00:00,Regular Season - 2,FINISHED,Arsenal,Leicester,4.0,2.0,H
+api_football,867962,2022,2022-08-13 14:00:00+00:00,Regular Season - 2,FINISHED,Manchester City,Bournemouth,4.0,0.0,H
+api_football,867965,2022,2022-08-13 14:00:00+00:00,Regular Season - 2,FINISHED,Wolves,Fulham,0.0,0.0,D
+api_football,867964,2022,2022-08-13 14:00:00+00:00,Regular Season - 2,FINISHED,Southampton,Leeds,2.0,2.0,D
+api_football,867958,2022,2022-08-13 16:30:00+00:00,Regular Season - 2,FINISHED,Brentford,Manchester United,4.0,0.0,H
+api_football,867963,2022,2022-08-14 13:00:00+00:00,Regular Season - 2,FINISHED,Nottingham Forest,West Ham,1.0,0.0,H
+api_football,867960,2022,2022-08-14 15:30:00+00:00,Regular Season - 2,FINISHED,Chelsea,Tottenham,2.0,2.0,D
+api_football,867961,2022,2022-08-15 19:00:00+00:00,Regular Season - 2,FINISHED,Liverpool,Crystal Palace,1.0,1.0,D
+api_football,867974,2022,2022-08-20 11:30:00+00:00,Regular Season - 3,FINISHED,Tottenham,Wolves,1.0,0.0,H
+api_football,867969,2022,2022-08-20 14:00:00+00:00,Regular Season - 3,FINISHED,Fulham,Brentford,3.0,2.0,H
+api_football,867968,2022,2022-08-20 14:00:00+00:00,Regular Season - 3,FINISHED,Everton,Nottingham Forest,1.0,1.0,D
+api_football,867971,2022,2022-08-20 14:00:00+00:00,Regular Season - 3,FINISHED,Leicester,Southampton,1.0,2.0,A
+api_football,867967,2022,2022-08-20 14:00:00+00:00,Regular Season - 3,FINISHED,Crystal Palace,Aston Villa,3.0,1.0,H
+api_football,867966,2022,2022-08-20 16:30:00+00:00,Regular Season - 3,FINISHED,Bournemouth,Arsenal,0.0,3.0,A
+api_football,867970,2022,2022-08-21 13:00:00+00:00,Regular Season - 3,FINISHED,Leeds,Chelsea,3.0,0.0,H
+api_football,867975,2022,2022-08-21 13:00:00+00:00,Regular Season - 3,FINISHED,West Ham,Brighton,0.0,2.0,A
+api_football,867973,2022,2022-08-21 15:30:00+00:00,Regular Season - 3,FINISHED,Newcastle,Manchester City,3.0,3.0,D
+api_football,867972,2022,2022-08-22 19:00:00+00:00,Regular Season - 3,FINISHED,Manchester United,Liverpool,2.0,1.0,H
+api_football,867984,2022,2022-08-27 11:30:00+00:00,Regular Season - 4,FINISHED,Southampton,Manchester United,0.0,1.0,A
+api_football,867981,2022,2022-08-27 14:00:00+00:00,Regular Season - 4,FINISHED,Liverpool,Bournemouth,9.0,0.0,H
+api_football,867980,2022,2022-08-27 14:00:00+00:00,Regular Season - 4,FINISHED,Chelsea,Leicester,2.0,1.0,H
+api_football,867982,2022,2022-08-27 14:00:00+00:00,Regular Season - 4,FINISHED,Manchester City,Crystal Palace,4.0,2.0,H
+api_football,867979,2022,2022-08-27 14:00:00+00:00,Regular Season - 4,FINISHED,Brighton,Leeds,1.0,0.0,H
+api_football,867978,2022,2022-08-27 14:00:00+00:00,Regular Season - 4,FINISHED,Brentford,Everton,1.0,1.0,D
+api_football,867976,2022,2022-08-27 16:30:00+00:00,Regular Season - 4,FINISHED,Arsenal,Fulham,2.0,1.0,H
+api_football,867985,2022,2022-08-28 13:00:00+00:00,Regular Season - 4,FINISHED,Wolves,Newcastle,1.0,1.0,D
+api_football,867977,2022,2022-08-28 13:00:00+00:00,Regular Season - 4,FINISHED,Aston Villa,West Ham,0.0,1.0,A
+api_football,867983,2022,2022-08-28 15:30:00+00:00,Regular Season - 4,FINISHED,Nottingham Forest,Tottenham,0.0,2.0,A
+api_football,867988,2022,2022-08-30 18:30:00+00:00,Regular Season - 5,FINISHED,Fulham,Brighton,2.0,1.0,H
+api_football,867992,2022,2022-08-30 18:30:00+00:00,Regular Season - 5,FINISHED,Crystal Palace,Brentford,1.0,1.0,D
+api_football,867993,2022,2022-08-30 18:45:00+00:00,Regular Season - 5,FINISHED,Southampton,Chelsea,2.0,1.0,H
+api_football,867989,2022,2022-08-30 19:00:00+00:00,Regular Season - 5,FINISHED,Leeds,Everton,1.0,1.0,D
+api_football,867995,2022,2022-08-31 18:30:00+00:00,Regular Season - 5,FINISHED,Manchester City,Nottingham Forest,6.0,0.0,H
+api_football,867986,2022,2022-08-31 18:30:00+00:00,Regular Season - 5,FINISHED,Bournemouth,Wolves,0.0,0.0,D
+api_football,867987,2022,2022-08-31 18:30:00+00:00,Regular Season - 5,FINISHED,Arsenal,Aston Villa,2.0,1.0,H
+api_football,867991,2022,2022-08-31 18:45:00+00:00,Regular Season - 5,FINISHED,West Ham,Tottenham,1.0,1.0,D
+api_football,867994,2022,2022-08-31 19:00:00+00:00,Regular Season - 5,FINISHED,Liverpool,Newcastle,2.0,1.0,H
+api_football,867990,2022,2022-09-01 19:00:00+00:00,Regular Season - 5,FINISHED,Leicester,Manchester United,0.0,1.0,A
+api_football,868000,2022,2022-09-03 11:30:00+00:00,Regular Season - 6,FINISHED,Everton,Liverpool,0.0,0.0,D
+api_football,868002,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Newcastle,Crystal Palace,0.0,0.0,D
+api_football,868005,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Wolves,Southampton,1.0,0.0,H
+api_football,868004,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Tottenham,Fulham,2.0,1.0,H
+api_football,867999,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Chelsea,West Ham,2.0,1.0,H
+api_football,867997,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Brentford,Leeds,5.0,2.0,H
+api_football,868003,2022,2022-09-03 14:00:00+00:00,Regular Season - 6,FINISHED,Nottingham Forest,Bournemouth,2.0,3.0,A
+api_football,867996,2022,2022-09-03 16:30:00+00:00,Regular Season - 6,FINISHED,Aston Villa,Manchester City,1.0,1.0,D
+api_football,867998,2022,2022-09-04 13:00:00+00:00,Regular Season - 6,FINISHED,Brighton,Leicester,5.0,2.0,H
+api_football,868001,2022,2022-09-04 15:30:00+00:00,Regular Season - 6,FINISHED,Manchester United,Arsenal,3.0,1.0,H
+api_football,868023,2022,2022-09-16 19:00:00+00:00,Regular Season - 8,FINISHED,Nottingham Forest,Fulham,2.0,3.0,A
+api_football,868016,2022,2022-09-16 19:00:00+00:00,Regular Season - 8,FINISHED,Aston Villa,Southampton,1.0,0.0,H
+api_football,868025,2022,2022-09-17 11:30:00+00:00,Regular Season - 8,FINISHED,Wolves,Manchester City,0.0,3.0,A
+api_football,868022,2022,2022-09-17 14:00:00+00:00,Regular Season - 8,FINISHED,Newcastle,Bournemouth,1.0,1.0,D
+api_football,868024,2022,2022-09-17 16:30:00+00:00,Regular Season - 8,FINISHED,Tottenham,Leicester,6.0,2.0,H
+api_football,868017,2022,2022-09-18 11:00:00+00:00,Regular Season - 8,FINISHED,Brentford,Arsenal,0.0,3.0,A
+api_football,868020,2022,2022-09-18 13:15:00+00:00,Regular Season - 8,FINISHED,Everton,West Ham,1.0,0.0,H
+api_football,868027,2022,2022-10-01 11:30:00+00:00,Regular Season - 9,FINISHED,Arsenal,Tottenham,3.0,1.0,H
+api_football,868026,2022,2022-10-01 14:00:00+00:00,Regular Season - 9,FINISHED,Bournemouth,Brentford,0.0,0.0,D
+api_football,868029,2022,2022-10-01 14:00:00+00:00,Regular Season - 9,FINISHED,Fulham,Newcastle,1.0,4.0,A
+api_football,868032,2022,2022-10-01 14:00:00+00:00,Regular Season - 9,FINISHED,Liverpool,Brighton,3.0,3.0,D
+api_football,868034,2022,2022-10-01 14:00:00+00:00,Regular Season - 9,FINISHED,Southampton,Everton,1.0,2.0,A
+api_football,868028,2022,2022-10-01 14:00:00+00:00,Regular Season - 9,FINISHED,Crystal Palace,Chelsea,1.0,2.0,A
+api_football,868035,2022,2022-10-01 16:30:00+00:00,Regular Season - 9,FINISHED,West Ham,Wolves,2.0,0.0,H
+api_football,868033,2022,2022-10-02 13:00:00+00:00,Regular Season - 9,FINISHED,Manchester City,Manchester United,6.0,3.0,H
+api_football,868030,2022,2022-10-02 15:30:00+00:00,Regular Season - 9,FINISHED,Leeds,Aston Villa,0.0,0.0,D
+api_football,868031,2022,2022-10-03 19:00:00+00:00,Regular Season - 9,FINISHED,Leicester,Nottingham Forest,4.0,0.0,H
+api_football,868043,2022,2022-10-08 14:00:00+00:00,Regular Season - 10,FINISHED,Newcastle,Brentford,5.0,1.0,H
+api_football,868036,2022,2022-10-08 14:00:00+00:00,Regular Season - 10,FINISHED,Bournemouth,Leicester,2.0,1.0,H
+api_football,868039,2022,2022-10-08 14:00:00+00:00,Regular Season - 10,FINISHED,Chelsea,Wolves,3.0,0.0,H
+api_football,868042,2022,2022-10-08 14:00:00+00:00,Regular Season - 10,FINISHED,Manchester City,Southampton,4.0,0.0,H
+api_football,868038,2022,2022-10-08 16:30:00+00:00,Regular Season - 10,FINISHED,Brighton,Tottenham,0.0,1.0,A
+api_football,868045,2022,2022-10-09 13:00:00+00:00,Regular Season - 10,FINISHED,West Ham,Fulham,3.0,1.0,H
+api_football,868040,2022,2022-10-09 13:00:00+00:00,Regular Season - 10,FINISHED,Crystal Palace,Leeds,2.0,1.0,H
+api_football,868037,2022,2022-10-09 15:30:00+00:00,Regular Season - 10,FINISHED,Arsenal,Liverpool,3.0,2.0,H
+api_football,868041,2022,2022-10-09 18:00:00+00:00,Regular Season - 10,FINISHED,Everton,Manchester United,1.0,2.0,A
+api_football,868044,2022,2022-10-10 19:00:00+00:00,Regular Season - 10,FINISHED,Nottingham Forest,Aston Villa,1.0,1.0,D
+api_football,868047,2022,2022-10-14 19:00:00+00:00,Regular Season - 11,FINISHED,Brentford,Brighton,2.0,0.0,H
+api_football,868050,2022,2022-10-15 11:30:00+00:00,Regular Season - 11,FINISHED,Leicester,Crystal Palace,0.0,0.0,D
+api_football,868055,2022,2022-10-15 14:00:00+00:00,Regular Season - 11,FINISHED,Wolves,Nottingham Forest,1.0,0.0,H
+api_football,868048,2022,2022-10-15 14:00:00+00:00,Regular Season - 11,FINISHED,Fulham,Bournemouth,2.0,2.0,D
+api_football,868054,2022,2022-10-15 16:30:00+00:00,Regular Season - 11,FINISHED,Tottenham,Everton,2.0,0.0,H
+api_football,868052,2022,2022-10-16 13:00:00+00:00,Regular Season - 11,FINISHED,Manchester United,Newcastle,0.0,0.0,D
+api_football,868053,2022,2022-10-16 13:00:00+00:00,Regular Season - 11,FINISHED,Southampton,West Ham,1.0,1.0,D
+api_football,868049,2022,2022-10-16 13:00:00+00:00,Regular Season - 11,FINISHED,Leeds,Arsenal,0.0,1.0,A
+api_football,868046,2022,2022-10-16 13:00:00+00:00,Regular Season - 11,FINISHED,Aston Villa,Chelsea,0.0,2.0,A
+api_football,868051,2022,2022-10-16 15:30:00+00:00,Regular Season - 11,FINISHED,Liverpool,Manchester City,1.0,0.0,H
+api_football,868059,2022,2022-10-18 18:30:00+00:00,Regular Season - 12,FINISHED,Brighton,Nottingham Forest,0.0,0.0,D
+api_football,868062,2022,2022-10-18 19:15:00+00:00,Regular Season - 12,FINISHED,Crystal Palace,Wolves,2.0,1.0,H
+api_football,868063,2022,2022-10-19 18:30:00+00:00,Regular Season - 12,FINISHED,Newcastle,Everton,1.0,0.0,H
+api_football,868056,2022,2022-10-19 18:30:00+00:00,Regular Season - 12,FINISHED,Bournemouth,Southampton,0.0,1.0,A
+api_football,868064,2022,2022-10-19 18:30:00+00:00,Regular Season - 12,FINISHED,Liverpool,West Ham,1.0,0.0,H
+api_football,868058,2022,2022-10-19 18:30:00+00:00,Regular Season - 12,FINISHED,Brentford,Chelsea,0.0,0.0,D
+api_football,868065,2022,2022-10-19 19:15:00+00:00,Regular Season - 12,FINISHED,Manchester United,Tottenham,2.0,0.0,H
+api_football,868060,2022,2022-10-20 18:30:00+00:00,Regular Season - 12,FINISHED,Fulham,Aston Villa,3.0,0.0,H
+api_football,868061,2022,2022-10-20 19:15:00+00:00,Regular Season - 12,FINISHED,Leicester,Leeds,2.0,0.0,H
+api_football,868071,2022,2022-10-22 11:30:00+00:00,Regular Season - 13,FINISHED,Nottingham Forest,Liverpool,1.0,0.0,H
+api_football,868068,2022,2022-10-22 14:00:00+00:00,Regular Season - 13,FINISHED,Everton,Crystal Palace,3.0,0.0,H
+api_football,868070,2022,2022-10-22 14:00:00+00:00,Regular Season - 13,FINISHED,Manchester City,Brighton,3.0,1.0,H
+api_football,868067,2022,2022-10-22 16:30:00+00:00,Regular Season - 13,FINISHED,Chelsea,Manchester United,1.0,1.0,D
+api_football,868075,2022,2022-10-23 13:00:00+00:00,Regular Season - 13,FINISHED,Wolves,Leicester,0.0,4.0,A
+api_football,868072,2022,2022-10-23 13:00:00+00:00,Regular Season - 13,FINISHED,Southampton,Arsenal,1.0,1.0,D
+api_football,868069,2022,2022-10-23 13:00:00+00:00,Regular Season - 13,FINISHED,Leeds,Fulham,2.0,3.0,A
+api_football,868066,2022,2022-10-23 13:00:00+00:00,Regular Season - 13,FINISHED,Aston Villa,Brentford,4.0,0.0,H
+api_football,868073,2022,2022-10-23 15:30:00+00:00,Regular Season - 13,FINISHED,Tottenham,Newcastle,1.0,2.0,A
+api_football,868074,2022,2022-10-24 19:00:00+00:00,Regular Season - 13,FINISHED,West Ham,Bournemouth,2.0,0.0,H
+api_football,868082,2022,2022-10-29 11:30:00+00:00,Regular Season - 14,FINISHED,Leicester,Manchester City,0.0,1.0,A
+api_football,868078,2022,2022-10-29 14:00:00+00:00,Regular Season - 14,FINISHED,Brentford,Wolves,1.0,1.0,D
+api_football,868080,2022,2022-10-29 14:00:00+00:00,Regular Season - 14,FINISHED,Crystal Palace,Southampton,1.0,0.0,H
+api_football,868085,2022,2022-10-29 14:00:00+00:00,Regular Season - 14,FINISHED,Newcastle,Aston Villa,4.0,0.0,H
+api_football,868076,2022,2022-10-29 14:00:00+00:00,Regular Season - 14,FINISHED,Bournemouth,Tottenham,2.0,3.0,A
+api_football,868079,2022,2022-10-29 14:00:00+00:00,Regular Season - 14,FINISHED,Brighton,Chelsea,4.0,1.0,H
+api_football,868081,2022,2022-10-29 16:30:00+00:00,Regular Season - 14,FINISHED,Fulham,Everton,0.0,0.0,D
+api_football,868083,2022,2022-10-29 18:45:00+00:00,Regular Season - 14,FINISHED,Liverpool,Leeds,1.0,2.0,A
+api_football,868077,2022,2022-10-30 14:00:00+00:00,Regular Season - 14,FINISHED,Arsenal,Nottingham Forest,5.0,0.0,H
+api_football,868084,2022,2022-10-30 16:15:00+00:00,Regular Season - 14,FINISHED,Manchester United,West Ham,1.0,0.0,H
+api_football,868095,2022,2022-11-05 15:00:00+00:00,Regular Season - 15,FINISHED,Wolves,Brighton,2.0,3.0,A
+api_football,868090,2022,2022-11-05 15:00:00+00:00,Regular Season - 15,FINISHED,Manchester City,Fulham,2.0,1.0,H
+api_football,868089,2022,2022-11-05 15:00:00+00:00,Regular Season - 15,FINISHED,Leeds,Bournemouth,4.0,3.0,H
+api_football,868091,2022,2022-11-05 15:00:00+00:00,Regular Season - 15,FINISHED,Nottingham Forest,Brentford,2.0,2.0,D
+api_football,868088,2022,2022-11-05 17:30:00+00:00,Regular Season - 15,FINISHED,Everton,Leicester,0.0,2.0,A
+api_football,868087,2022,2022-11-06 12:00:00+00:00,Regular Season - 15,FINISHED,Chelsea,Arsenal,0.0,1.0,A
+api_football,868094,2022,2022-11-06 14:00:00+00:00,Regular Season - 15,FINISHED,West Ham,Crystal Palace,1.0,2.0,A
+api_football,868086,2022,2022-11-06 14:00:00+00:00,Regular Season - 15,FINISHED,Aston Villa,Manchester United,3.0,1.0,H
+api_football,868092,2022,2022-11-06 14:00:00+00:00,Regular Season - 15,FINISHED,Southampton,Newcastle,1.0,4.0,A
+api_football,868093,2022,2022-11-06 16:30:00+00:00,Regular Season - 15,FINISHED,Tottenham,Liverpool,1.0,2.0,A
+api_football,868100,2022,2022-11-12 12:30:00+00:00,Regular Season - 16,FINISHED,Manchester City,Brentford,1.0,2.0,A
+api_football,868096,2022,2022-11-12 15:00:00+00:00,Regular Season - 16,FINISHED,Bournemouth,Everton,3.0,0.0,H
+api_football,868099,2022,2022-11-12 15:00:00+00:00,Regular Season - 16,FINISHED,Liverpool,Southampton,3.0,1.0,H
+api_football,868103,2022,2022-11-12 15:00:00+00:00,Regular Season - 16,FINISHED,Tottenham,Leeds,4.0,3.0,H
+api_football,868104,2022,2022-11-12 15:00:00+00:00,Regular Season - 16,FINISHED,West Ham,Leicester,0.0,2.0,A
+api_football,868102,2022,2022-11-12 15:00:00+00:00,Regular Season - 16,FINISHED,Nottingham Forest,Crystal Palace,1.0,0.0,H
+api_football,868101,2022,2022-11-12 17:30:00+00:00,Regular Season - 16,FINISHED,Newcastle,Chelsea,1.0,0.0,H
+api_football,868105,2022,2022-11-12 19:45:00+00:00,Regular Season - 16,FINISHED,Wolves,Arsenal,0.0,2.0,A
+api_football,868097,2022,2022-11-13 14:00:00+00:00,Regular Season - 16,FINISHED,Brighton,Aston Villa,1.0,2.0,A
+api_football,868098,2022,2022-11-13 16:30:00+00:00,Regular Season - 16,FINISHED,Fulham,Manchester United,1.0,2.0,A
+api_football,868108,2022,2022-12-26 12:30:00+00:00,Regular Season - 17,FINISHED,Brentford,Tottenham,2.0,2.0,D
+api_football,868110,2022,2022-12-26 15:00:00+00:00,Regular Season - 17,FINISHED,Crystal Palace,Fulham,0.0,3.0,A
+api_football,868113,2022,2022-12-26 15:00:00+00:00,Regular Season - 17,FINISHED,Leicester,Newcastle,0.0,3.0,A
+api_football,868111,2022,2022-12-26 15:00:00+00:00,Regular Season - 17,FINISHED,Everton,Wolves,1.0,2.0,A
+api_football,868115,2022,2022-12-26 15:00:00+00:00,Regular Season - 17,FINISHED,Southampton,Brighton,1.0,3.0,A
+api_football,868107,2022,2022-12-26 17:30:00+00:00,Regular Season - 17,FINISHED,Aston Villa,Liverpool,1.0,3.0,A
+api_football,868106,2022,2022-12-26 20:00:00+00:00,Regular Season - 17,FINISHED,Arsenal,West Ham,3.0,1.0,H
+api_football,868109,2022,2022-12-27 17:30:00+00:00,Regular Season - 17,FINISHED,Chelsea,Bournemouth,2.0,0.0,H
+api_football,868114,2022,2022-12-27 20:00:00+00:00,Regular Season - 17,FINISHED,Manchester United,Nottingham Forest,3.0,0.0,H
+api_football,868112,2022,2022-12-28 20:00:00+00:00,Regular Season - 17,FINISHED,Leeds,Manchester City,1.0,3.0,A
+api_football,868124,2022,2022-12-30 19:45:00+00:00,Regular Season - 18,FINISHED,West Ham,Brentford,0.0,2.0,A
+api_football,868119,2022,2022-12-30 20:00:00+00:00,Regular Season - 18,FINISHED,Liverpool,Leicester,2.0,1.0,H
+api_football,868125,2022,2022-12-31 12:30:00+00:00,Regular Season - 18,FINISHED,Wolves,Manchester United,0.0,1.0,A
+api_football,868121,2022,2022-12-31 15:00:00+00:00,Regular Season - 18,FINISHED,Newcastle,Leeds,0.0,0.0,D
+api_football,868116,2022,2022-12-31 15:00:00+00:00,Regular Season - 18,FINISHED,Bournemouth,Crystal Palace,0.0,2.0,A
+api_football,868118,2022,2022-12-31 15:00:00+00:00,Regular Season - 18,FINISHED,Fulham,Southampton,2.0,1.0,H
+api_football,868120,2022,2022-12-31 15:00:00+00:00,Regular Season - 18,FINISHED,Manchester City,Everton,1.0,1.0,D
+api_football,868117,2022,2022-12-31 17:30:00+00:00,Regular Season - 18,FINISHED,Brighton,Arsenal,2.0,4.0,A
+api_football,868123,2022,2023-01-01 14:00:00+00:00,Regular Season - 18,FINISHED,Tottenham,Aston Villa,0.0,2.0,A
+api_football,868122,2022,2023-01-01 16:30:00+00:00,Regular Season - 18,FINISHED,Nottingham Forest,Chelsea,1.0,1.0,D
+api_football,868128,2022,2023-01-02 17:30:00+00:00,Regular Season - 19,FINISHED,Brentford,Liverpool,3.0,1.0,H
+api_football,868126,2022,2023-01-03 19:45:00+00:00,Regular Season - 19,FINISHED,Arsenal,Newcastle,0.0,0.0,D
+api_football,868131,2022,2023-01-03 19:45:00+00:00,Regular Season - 19,FINISHED,Everton,Brighton,1.0,4.0,A
+api_football,868133,2022,2023-01-03 19:45:00+00:00,Regular Season - 19,FINISHED,Leicester,Fulham,0.0,1.0,A
+api_football,868134,2022,2023-01-03 20:00:00+00:00,Regular Season - 19,FINISHED,Manchester United,Bournemouth,3.0,0.0,H
+api_football,868135,2022,2023-01-04 19:30:00+00:00,Regular Season - 19,FINISHED,Southampton,Nottingham Forest,0.0,1.0,A
+api_football,868132,2022,2023-01-04 19:45:00+00:00,Regular Season - 19,FINISHED,Leeds,West Ham,2.0,2.0,D
+api_football,868130,2022,2023-01-04 20:00:00+00:00,Regular Season - 19,FINISHED,Crystal Palace,Tottenham,0.0,4.0,A
+api_football,868127,2022,2023-01-04 20:00:00+00:00,Regular Season - 19,FINISHED,Aston Villa,Wolves,1.0,1.0,D
+api_football,868129,2022,2023-01-05 20:00:00+00:00,Regular Season - 19,FINISHED,Chelsea,Manchester City,0.0,1.0,A
+api_football,868009,2022,2023-01-12 20:00:00+00:00,Regular Season - 7,FINISHED,Fulham,Chelsea,2.0,1.0,H
+api_football,868136,2022,2023-01-13 20:00:00+00:00,Regular Season - 20,FINISHED,Aston Villa,Leeds,2.0,1.0,H
+api_football,868141,2022,2023-01-14 12:30:00+00:00,Regular Season - 20,FINISHED,Manchester United,Manchester City,2.0,1.0,H
+api_football,868145,2022,2023-01-14 15:00:00+00:00,Regular Season - 20,FINISHED,Wolves,West Ham,1.0,0.0,H
+api_football,868140,2022,2023-01-14 15:00:00+00:00,Regular Season - 20,FINISHED,Everton,Southampton,1.0,2.0,A
+api_football,868138,2022,2023-01-14 15:00:00+00:00,Regular Season - 20,FINISHED,Brighton,Liverpool,3.0,0.0,H
+api_football,868143,2022,2023-01-14 15:00:00+00:00,Regular Season - 20,FINISHED,Nottingham Forest,Leicester,2.0,0.0,H
+api_football,868137,2022,2023-01-14 17:30:00+00:00,Regular Season - 20,FINISHED,Brentford,Bournemouth,2.0,0.0,H
+api_football,868142,2022,2023-01-15 14:00:00+00:00,Regular Season - 20,FINISHED,Newcastle,Fulham,1.0,0.0,H
+api_football,868139,2022,2023-01-15 14:00:00+00:00,Regular Season - 20,FINISHED,Chelsea,Crystal Palace,1.0,0.0,H
+api_football,868144,2022,2023-01-15 16:30:00+00:00,Regular Season - 20,FINISHED,Tottenham,Arsenal,0.0,2.0,A
+api_football,868008,2022,2023-01-18 20:00:00+00:00,Regular Season - 7,FINISHED,Crystal Palace,Manchester United,1.0,1.0,D
+api_football,868013,2022,2023-01-19 20:00:00+00:00,Regular Season - 7,FINISHED,Manchester City,Tottenham,4.0,2.0,H
+api_football,868152,2022,2023-01-21 12:30:00+00:00,Regular Season - 21,FINISHED,Liverpool,Chelsea,0.0,0.0,D
+api_football,868155,2022,2023-01-21 15:00:00+00:00,Regular Season - 21,FINISHED,West Ham,Everton,2.0,0.0,H
+api_football,868151,2022,2023-01-21 15:00:00+00:00,Regular Season - 21,FINISHED,Leicester,Brighton,2.0,2.0,D
+api_football,868154,2022,2023-01-21 15:00:00+00:00,Regular Season - 21,FINISHED,Southampton,Aston Villa,0.0,1.0,A
+api_football,868146,2022,2023-01-21 15:00:00+00:00,Regular Season - 21,FINISHED,Bournemouth,Nottingham Forest,1.0,1.0,D
+api_football,868148,2022,2023-01-21 17:30:00+00:00,Regular Season - 21,FINISHED,Crystal Palace,Newcastle,0.0,0.0,D
+api_football,868153,2022,2023-01-22 14:00:00+00:00,Regular Season - 21,FINISHED,Manchester City,Wolves,3.0,0.0,H
+api_football,868150,2022,2023-01-22 14:00:00+00:00,Regular Season - 21,FINISHED,Leeds,Brentford,0.0,0.0,D
+api_football,868147,2022,2023-01-22 16:30:00+00:00,Regular Season - 21,FINISHED,Arsenal,Manchester United,3.0,2.0,H
+api_football,868149,2022,2023-01-23 20:00:00+00:00,Regular Season - 21,FINISHED,Fulham,Tottenham,0.0,1.0,A
+api_football,868159,2022,2023-02-03 20:00:00+00:00,Regular Season - 22,FINISHED,Chelsea,Fulham,0.0,0.0,D
+api_football,868160,2022,2023-02-04 12:30:00+00:00,Regular Season - 22,FINISHED,Everton,Arsenal,1.0,0.0,H
+api_football,868161,2022,2023-02-04 15:00:00+00:00,Regular Season - 22,FINISHED,Manchester United,Crystal Palace,2.0,1.0,H
+api_football,868165,2022,2023-02-04 15:00:00+00:00,Regular Season - 22,FINISHED,Wolves,Liverpool,3.0,0.0,H
+api_football,868158,2022,2023-02-04 15:00:00+00:00,Regular Season - 22,FINISHED,Brighton,Bournemouth,1.0,0.0,H
+api_football,868157,2022,2023-02-04 15:00:00+00:00,Regular Season - 22,FINISHED,Brentford,Southampton,3.0,0.0,H
+api_football,868156,2022,2023-02-04 15:00:00+00:00,Regular Season - 22,FINISHED,Aston Villa,Leicester,2.0,4.0,A
+api_football,868162,2022,2023-02-04 17:30:00+00:00,Regular Season - 22,FINISHED,Newcastle,West Ham,1.0,1.0,D
+api_football,868163,2022,2023-02-05 14:00:00+00:00,Regular Season - 22,FINISHED,Nottingham Forest,Leeds,1.0,0.0,H
+api_football,868164,2022,2023-02-05 16:30:00+00:00,Regular Season - 22,FINISHED,Tottenham,Manchester City,1.0,0.0,H
+api_football,868021,2022,2023-02-08 20:00:00+00:00,Regular Season - 8,FINISHED,Manchester United,Leeds,2.0,2.0,D
+api_football,868175,2022,2023-02-11 12:30:00+00:00,Regular Season - 23,FINISHED,West Ham,Chelsea,1.0,1.0,D
+api_football,868169,2022,2023-02-11 15:00:00+00:00,Regular Season - 23,FINISHED,Fulham,Nottingham Forest,2.0,0.0,H
+api_football,868174,2022,2023-02-11 15:00:00+00:00,Regular Season - 23,FINISHED,Southampton,Wolves,1.0,2.0,A
+api_football,868167,2022,2023-02-11 15:00:00+00:00,Regular Season - 23,FINISHED,Arsenal,Brentford,1.0,1.0,D
+api_football,868171,2022,2023-02-11 15:00:00+00:00,Regular Season - 23,FINISHED,Leicester,Tottenham,4.0,1.0,H
+api_football,868168,2022,2023-02-11 15:00:00+00:00,Regular Season - 23,FINISHED,Crystal Palace,Brighton,1.0,1.0,D
+api_football,868166,2022,2023-02-11 17:30:00+00:00,Regular Season - 23,FINISHED,Bournemouth,Newcastle,1.0,1.0,D
+api_football,868170,2022,2023-02-12 14:00:00+00:00,Regular Season - 23,FINISHED,Leeds,Manchester United,0.0,2.0,A
+api_football,868173,2022,2023-02-12 16:30:00+00:00,Regular Season - 23,FINISHED,Manchester City,Aston Villa,3.0,1.0,H
+api_football,868172,2022,2023-02-13 20:00:00+00:00,Regular Season - 23,FINISHED,Liverpool,Everton,2.0,0.0,H
+api_football,868057,2022,2023-02-15 19:30:00+00:00,Regular Season - 12,FINISHED,Arsenal,Manchester City,1.0,3.0,A
+api_football,868176,2022,2023-02-18 12:30:00+00:00,Regular Season - 24,FINISHED,Aston Villa,Arsenal,2.0,4.0,A
+api_football,868185,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Wolves,Bournemouth,0.0,1.0,A
+api_football,868180,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Everton,Leeds,1.0,0.0,H
+api_football,868179,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Chelsea,Southampton,0.0,1.0,A
+api_football,868178,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Brighton,Fulham,0.0,1.0,A
+api_football,868177,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Brentford,Crystal Palace,1.0,1.0,D
+api_football,868183,2022,2023-02-18 15:00:00+00:00,Regular Season - 24,FINISHED,Nottingham Forest,Manchester City,1.0,1.0,D
+api_football,868182,2022,2023-02-18 17:30:00+00:00,Regular Season - 24,FINISHED,Newcastle,Liverpool,0.0,2.0,A
+api_football,868181,2022,2023-02-19 14:00:00+00:00,Regular Season - 24,FINISHED,Manchester United,Leicester,3.0,0.0,H
+api_football,868184,2022,2023-02-19 16:30:00+00:00,Regular Season - 24,FINISHED,Tottenham,West Ham,2.0,0.0,H
+api_football,868189,2022,2023-02-24 20:00:00+00:00,Regular Season - 25,FINISHED,Fulham,Wolves,1.0,1.0,D
+api_football,868188,2022,2023-02-25 15:00:00+00:00,Regular Season - 25,FINISHED,Everton,Aston Villa,0.0,2.0,A
+api_football,868191,2022,2023-02-25 15:00:00+00:00,Regular Season - 25,FINISHED,Leicester,Arsenal,0.0,1.0,A
+api_football,868195,2022,2023-02-25 15:00:00+00:00,Regular Season - 25,FINISHED,West Ham,Nottingham Forest,4.0,0.0,H
+api_football,868190,2022,2023-02-25 15:00:00+00:00,Regular Season - 25,FINISHED,Leeds,Southampton,1.0,0.0,H
+api_football,868186,2022,2023-02-25 17:30:00+00:00,Regular Season - 25,FINISHED,Bournemouth,Manchester City,1.0,4.0,A
+api_football,868187,2022,2023-02-25 19:45:00+00:00,Regular Season - 25,FINISHED,Crystal Palace,Liverpool,0.0,0.0,D
+api_football,868194,2022,2023-02-26 13:30:00+00:00,Regular Season - 25,FINISHED,Tottenham,Chelsea,2.0,0.0,H
+api_football,868007,2022,2023-03-01 19:45:00+00:00,Regular Season - 7,FINISHED,Arsenal,Everton,4.0,0.0,H
+api_football,868012,2022,2023-03-01 20:00:00+00:00,Regular Season - 7,FINISHED,Liverpool,Wolves,2.0,0.0,H
+api_football,868202,2022,2023-03-04 12:30:00+00:00,Regular Season - 26,FINISHED,Manchester City,Newcastle,2.0,0.0,H
+api_football,868205,2022,2023-03-04 15:00:00+00:00,Regular Season - 26,FINISHED,Wolves,Tottenham,1.0,0.0,H
+api_football,868196,2022,2023-03-04 15:00:00+00:00,Regular Season - 26,FINISHED,Arsenal,Bournemouth,3.0,2.0,H
+api_football,868200,2022,2023-03-04 15:00:00+00:00,Regular Season - 26,FINISHED,Chelsea,Leeds,1.0,0.0,H
+api_football,868199,2022,2023-03-04 15:00:00+00:00,Regular Season - 26,FINISHED,Brighton,West Ham,4.0,0.0,H
+api_football,868197,2022,2023-03-04 15:00:00+00:00,Regular Season - 26,FINISHED,Aston Villa,Crystal Palace,1.0,0.0,H
+api_football,868204,2022,2023-03-04 17:30:00+00:00,Regular Season - 26,FINISHED,Southampton,Leicester,1.0,0.0,H
+api_football,868203,2022,2023-03-05 14:00:00+00:00,Regular Season - 26,FINISHED,Nottingham Forest,Everton,2.0,2.0,D
+api_football,868201,2022,2023-03-05 16:30:00+00:00,Regular Season - 26,FINISHED,Liverpool,Manchester United,7.0,0.0,H
+api_football,868198,2022,2023-03-06 20:00:00+00:00,Regular Season - 26,FINISHED,Brentford,Fulham,3.0,2.0,H
+api_football,868206,2022,2023-03-11 12:30:00+00:00,Regular Season - 27,FINISHED,Bournemouth,Liverpool,1.0,0.0,H
+api_football,868208,2022,2023-03-11 15:00:00+00:00,Regular Season - 27,FINISHED,Everton,Brentford,1.0,0.0,H
+api_football,868211,2022,2023-03-11 15:00:00+00:00,Regular Season - 27,FINISHED,Leicester,Chelsea,1.0,3.0,A
+api_football,868214,2022,2023-03-11 15:00:00+00:00,Regular Season - 27,FINISHED,Tottenham,Nottingham Forest,3.0,1.0,H
+api_football,868210,2022,2023-03-11 15:00:00+00:00,Regular Season - 27,FINISHED,Leeds,Brighton,2.0,2.0,D
+api_football,868207,2022,2023-03-11 17:30:00+00:00,Regular Season - 27,FINISHED,Crystal Palace,Manchester City,0.0,1.0,A
+api_football,868212,2022,2023-03-12 14:00:00+00:00,Regular Season - 27,FINISHED,Manchester United,Southampton,0.0,0.0,D
+api_football,868209,2022,2023-03-12 14:00:00+00:00,Regular Season - 27,FINISHED,Fulham,Arsenal,0.0,3.0,A
+api_football,868215,2022,2023-03-12 14:00:00+00:00,Regular Season - 27,FINISHED,West Ham,Aston Villa,1.0,1.0,D
+api_football,868213,2022,2023-03-12 16:30:00+00:00,Regular Season - 27,FINISHED,Newcastle,Wolves,2.0,1.0,H
+api_football,868014,2022,2023-03-15 19:30:00+00:00,Regular Season - 7,FINISHED,Southampton,Brentford,0.0,2.0,A
+api_football,868018,2022,2023-03-15 19:30:00+00:00,Regular Season - 8,FINISHED,Brighton,Crystal Palace,1.0,0.0,H
+api_football,868223,2022,2023-03-17 20:00:00+00:00,Regular Season - 28,FINISHED,Nottingham Forest,Newcastle,1.0,2.0,A
+api_football,868217,2022,2023-03-18 15:00:00+00:00,Regular Season - 28,FINISHED,Aston Villa,Bournemouth,3.0,0.0,H
+api_football,868218,2022,2023-03-18 15:00:00+00:00,Regular Season - 28,FINISHED,Brentford,Leicester,1.0,1.0,D
+api_football,868224,2022,2023-03-18 15:00:00+00:00,Regular Season - 28,FINISHED,Southampton,Tottenham,3.0,3.0,D
+api_football,868225,2022,2023-03-18 15:00:00+00:00,Regular Season - 28,FINISHED,Wolves,Leeds,2.0,4.0,A
+api_football,868220,2022,2023-03-18 17:30:00+00:00,Regular Season - 28,FINISHED,Chelsea,Everton,2.0,2.0,D
+api_football,868216,2022,2023-03-19 14:00:00+00:00,Regular Season - 28,FINISHED,Arsenal,Crystal Palace,4.0,1.0,H
+api_football,868232,2022,2023-04-01 11:30:00+00:00,Regular Season - 29,FINISHED,Manchester City,Liverpool,4.0,1.0,H
+api_football,868226,2022,2023-04-01 14:00:00+00:00,Regular Season - 29,FINISHED,Bournemouth,Fulham,2.0,1.0,H
+api_football,868227,2022,2023-04-01 14:00:00+00:00,Regular Season - 29,FINISHED,Arsenal,Leeds,4.0,1.0,H
+api_football,868228,2022,2023-04-01 14:00:00+00:00,Regular Season - 29,FINISHED,Brighton,Brentford,3.0,3.0,D
+api_football,868230,2022,2023-04-01 14:00:00+00:00,Regular Season - 29,FINISHED,Crystal Palace,Leicester,2.0,1.0,H
+api_football,868234,2022,2023-04-01 14:00:00+00:00,Regular Season - 29,FINISHED,Nottingham Forest,Wolves,1.0,1.0,D
+api_football,868229,2022,2023-04-01 16:30:00+00:00,Regular Season - 29,FINISHED,Chelsea,Aston Villa,0.0,2.0,A
+api_football,868235,2022,2023-04-02 13:00:00+00:00,Regular Season - 29,FINISHED,West Ham,Southampton,1.0,0.0,H
+api_football,868233,2022,2023-04-02 15:30:00+00:00,Regular Season - 29,FINISHED,Newcastle,Manchester United,2.0,0.0,H
+api_football,868231,2022,2023-04-03 19:00:00+00:00,Regular Season - 29,FINISHED,Everton,Tottenham,1.0,1.0,D
+api_football,868010,2022,2023-04-04 18:45:00+00:00,Regular Season - 7,FINISHED,Leeds,Nottingham Forest,2.0,1.0,H
+api_football,868006,2022,2023-04-04 18:45:00+00:00,Regular Season - 7,FINISHED,Bournemouth,Brighton,0.0,2.0,A
+api_football,868011,2022,2023-04-04 18:45:00+00:00,Regular Season - 7,FINISHED,Leicester,Aston Villa,1.0,2.0,A
+api_football,868019,2022,2023-04-04 19:00:00+00:00,Regular Season - 8,FINISHED,Chelsea,Liverpool,0.0,0.0,D
+api_football,868192,2022,2023-04-05 19:00:00+00:00,Regular Season - 25,FINISHED,Manchester United,Brentford,1.0,0.0,H
+api_football,868015,2022,2023-04-05 19:00:00+00:00,Regular Season - 7,FINISHED,West Ham,Newcastle,1.0,5.0,A
+api_football,868242,2022,2023-04-08 11:30:00+00:00,Regular Season - 30,FINISHED,Manchester United,Everton,2.0,0.0,H
+api_football,868238,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Fulham,West Ham,0.0,1.0,A
+api_football,868245,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Wolves,Chelsea,1.0,0.0,H
+api_football,868240,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Leicester,Bournemouth,0.0,1.0,A
+api_football,868244,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Tottenham,Brighton,2.0,1.0,H
+api_football,868237,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Brentford,Newcastle,1.0,2.0,A
+api_football,868236,2022,2023-04-08 14:00:00+00:00,Regular Season - 30,FINISHED,Aston Villa,Nottingham Forest,2.0,0.0,H
+api_football,868243,2022,2023-04-08 16:30:00+00:00,Regular Season - 30,FINISHED,Southampton,Manchester City,1.0,4.0,A
+api_football,868239,2022,2023-04-09 13:00:00+00:00,Regular Season - 30,FINISHED,Leeds,Crystal Palace,1.0,5.0,A
+api_football,868241,2022,2023-04-09 15:30:00+00:00,Regular Season - 30,FINISHED,Liverpool,Arsenal,2.0,2.0,D
+api_football,868246,2022,2023-04-15 11:30:00+00:00,Regular Season - 31,FINISHED,Aston Villa,Newcastle,3.0,0.0,H
+api_football,868255,2022,2023-04-15 14:00:00+00:00,Regular Season - 31,FINISHED,Wolves,Brentford,2.0,0.0,H
+api_football,868252,2022,2023-04-15 14:00:00+00:00,Regular Season - 31,FINISHED,Southampton,Crystal Palace,0.0,2.0,A
+api_football,868248,2022,2023-04-15 14:00:00+00:00,Regular Season - 31,FINISHED,Everton,Fulham,1.0,3.0,A
+api_football,868247,2022,2023-04-15 14:00:00+00:00,Regular Season - 31,FINISHED,Chelsea,Brighton,1.0,2.0,A
+api_football,868253,2022,2023-04-15 14:15:00+00:00,Regular Season - 31,FINISHED,Tottenham,Bournemouth,2.0,3.0,A
+api_football,868250,2022,2023-04-15 16:30:00+00:00,Regular Season - 31,FINISHED,Manchester City,Leicester,3.0,1.0,H
+api_football,868254,2022,2023-04-16 13:00:00+00:00,Regular Season - 31,FINISHED,West Ham,Arsenal,2.0,2.0,D
+api_football,868251,2022,2023-04-16 15:30:00+00:00,Regular Season - 31,FINISHED,Nottingham Forest,Manchester United,0.0,2.0,A
+api_football,868249,2022,2023-04-17 19:00:00+00:00,Regular Season - 31,FINISHED,Leeds,Liverpool,1.0,6.0,A
+api_football,868257,2022,2023-04-21 19:00:00+00:00,Regular Season - 32,FINISHED,Arsenal,Southampton,3.0,3.0,D
+api_football,868261,2022,2023-04-22 11:30:00+00:00,Regular Season - 32,FINISHED,Fulham,Leeds,2.0,1.0,H
+api_football,868258,2022,2023-04-22 14:00:00+00:00,Regular Season - 32,FINISHED,Brentford,Aston Villa,1.0,1.0,D
+api_football,868260,2022,2023-04-22 14:00:00+00:00,Regular Season - 32,FINISHED,Crystal Palace,Everton,0.0,0.0,D
+api_football,868263,2022,2023-04-22 14:00:00+00:00,Regular Season - 32,FINISHED,Liverpool,Nottingham Forest,3.0,2.0,H
+api_football,868262,2022,2023-04-22 14:00:00+00:00,Regular Season - 32,FINISHED,Leicester,Wolves,2.0,1.0,H
+api_football,868265,2022,2023-04-23 13:00:00+00:00,Regular Season - 32,FINISHED,Newcastle,Tottenham,6.0,1.0,H
+api_football,868256,2022,2023-04-23 13:00:00+00:00,Regular Season - 32,FINISHED,Bournemouth,West Ham,0.0,4.0,A
+api_football,868271,2022,2023-04-25 18:30:00+00:00,Regular Season - 33,FINISHED,Wolves,Crystal Palace,2.0,0.0,H
+api_football,868272,2022,2023-04-25 18:45:00+00:00,Regular Season - 33,FINISHED,Aston Villa,Fulham,1.0,0.0,H
+api_football,868267,2022,2023-04-25 19:00:00+00:00,Regular Season - 33,FINISHED,Leeds,Leicester,1.0,1.0,D
+api_football,868268,2022,2023-04-26 18:30:00+00:00,Regular Season - 33,FINISHED,Nottingham Forest,Brighton,3.0,1.0,H
+api_football,868270,2022,2023-04-26 18:45:00+00:00,Regular Season - 33,FINISHED,West Ham,Liverpool,1.0,2.0,A
+api_football,868273,2022,2023-04-26 18:45:00+00:00,Regular Season - 33,FINISHED,Chelsea,Brentford,0.0,2.0,A
+api_football,868275,2022,2023-04-26 19:00:00+00:00,Regular Season - 33,FINISHED,Manchester City,Arsenal,4.0,1.0,H
+api_football,868274,2022,2023-04-27 18:45:00+00:00,Regular Season - 33,FINISHED,Southampton,Bournemouth,0.0,1.0,A
+api_football,868266,2022,2023-04-27 18:45:00+00:00,Regular Season - 33,FINISHED,Everton,Newcastle,1.0,4.0,A
+api_football,868269,2022,2023-04-27 19:15:00+00:00,Regular Season - 33,FINISHED,Tottenham,Manchester United,2.0,2.0,D
+api_football,868280,2022,2023-04-29 11:30:00+00:00,Regular Season - 34,FINISHED,Crystal Palace,West Ham,4.0,3.0,H
+api_football,868278,2022,2023-04-29 14:00:00+00:00,Regular Season - 34,FINISHED,Brentford,Nottingham Forest,2.0,1.0,H
+api_football,868279,2022,2023-04-29 14:00:00+00:00,Regular Season - 34,FINISHED,Brighton,Wolves,6.0,0.0,H
+api_football,868284,2022,2023-04-30 13:00:00+00:00,Regular Season - 34,FINISHED,Manchester United,Aston Villa,1.0,0.0,H
+api_football,868285,2022,2023-04-30 13:00:00+00:00,Regular Season - 34,FINISHED,Newcastle,Southampton,3.0,1.0,H
+api_football,868276,2022,2023-04-30 13:00:00+00:00,Regular Season - 34,FINISHED,Bournemouth,Leeds,4.0,1.0,H
+api_football,868281,2022,2023-04-30 13:00:00+00:00,Regular Season - 34,FINISHED,Fulham,Manchester City,1.0,2.0,A
+api_football,868283,2022,2023-04-30 15:30:00+00:00,Regular Season - 34,FINISHED,Liverpool,Tottenham,4.0,3.0,H
+api_football,868282,2022,2023-05-01 19:00:00+00:00,Regular Season - 34,FINISHED,Leicester,Everton,2.0,2.0,D
+api_football,868277,2022,2023-05-02 19:00:00+00:00,Regular Season - 34,FINISHED,Arsenal,Chelsea,3.0,1.0,H
+api_football,868221,2022,2023-05-03 19:00:00+00:00,Regular Season - 28,FINISHED,Liverpool,Fulham,1.0,0.0,H
+api_football,868222,2022,2023-05-03 19:00:00+00:00,Regular Season - 28,FINISHED,Manchester City,West Ham,3.0,0.0,H
+api_football,868219,2022,2023-05-04 19:00:00+00:00,Regular Season - 28,FINISHED,Brighton,Manchester United,1.0,0.0,H
+api_football,868293,2022,2023-05-06 14:00:00+00:00,Regular Season - 35,FINISHED,Tottenham,Crystal Palace,1.0,0.0,H
+api_football,868290,2022,2023-05-06 14:00:00+00:00,Regular Season - 35,FINISHED,Manchester City,Leeds,2.0,1.0,H
+api_football,868286,2022,2023-05-06 14:00:00+00:00,Regular Season - 35,FINISHED,Bournemouth,Chelsea,1.0,3.0,A
+api_football,868295,2022,2023-05-06 14:00:00+00:00,Regular Season - 35,FINISHED,Wolves,Aston Villa,1.0,0.0,H
+api_football,868289,2022,2023-05-06 16:30:00+00:00,Regular Season - 35,FINISHED,Liverpool,Brentford,1.0,0.0,H
+api_football,868291,2022,2023-05-07 15:30:00+00:00,Regular Season - 35,FINISHED,Newcastle,Arsenal,0.0,2.0,A
+api_football,868294,2022,2023-05-07 18:00:00+00:00,Regular Season - 35,FINISHED,West Ham,Manchester United,1.0,0.0,H
+api_football,868288,2022,2023-05-08 14:00:00+00:00,Regular Season - 35,FINISHED,Fulham,Leicester,5.0,3.0,H
+api_football,868287,2022,2023-05-08 16:30:00+00:00,Regular Season - 35,FINISHED,Brighton,Everton,1.0,5.0,A
+api_football,868292,2022,2023-05-08 19:00:00+00:00,Regular Season - 35,FINISHED,Nottingham Forest,Southampton,4.0,3.0,H
+api_football,868302,2022,2023-05-13 11:30:00+00:00,Regular Season - 36,FINISHED,Leeds,Newcastle,2.0,2.0,D
+api_football,868304,2022,2023-05-13 14:00:00+00:00,Regular Season - 36,FINISHED,Manchester United,Wolves,2.0,0.0,H
+api_football,868305,2022,2023-05-13 14:00:00+00:00,Regular Season - 36,FINISHED,Southampton,Fulham,0.0,2.0,A
+api_football,868299,2022,2023-05-13 14:00:00+00:00,Regular Season - 36,FINISHED,Chelsea,Nottingham Forest,2.0,2.0,D
+api_football,868300,2022,2023-05-13 14:00:00+00:00,Regular Season - 36,FINISHED,Crystal Palace,Bournemouth,2.0,0.0,H
+api_football,868297,2022,2023-05-13 14:00:00+00:00,Regular Season - 36,FINISHED,Aston Villa,Tottenham,2.0,1.0,H
+api_football,868301,2022,2023-05-14 13:00:00+00:00,Regular Season - 36,FINISHED,Everton,Manchester City,0.0,3.0,A
+api_football,868298,2022,2023-05-14 13:00:00+00:00,Regular Season - 36,FINISHED,Brentford,West Ham,2.0,0.0,H
+api_football,868296,2022,2023-05-14 15:30:00+00:00,Regular Season - 36,FINISHED,Arsenal,Brighton,0.0,3.0,A
+api_football,868303,2022,2023-05-15 19:00:00+00:00,Regular Season - 36,FINISHED,Leicester,Liverpool,0.0,3.0,A
+api_football,868193,2022,2023-05-18 18:30:00+00:00,Regular Season - 25,FINISHED,Newcastle,Brighton,4.0,1.0,H
+api_football,868313,2022,2023-05-20 11:30:00+00:00,Regular Season - 37,FINISHED,Tottenham,Brentford,1.0,3.0,A
+api_football,868306,2022,2023-05-20 14:00:00+00:00,Regular Season - 37,FINISHED,Bournemouth,Manchester United,0.0,1.0,A
+api_football,868308,2022,2023-05-20 14:00:00+00:00,Regular Season - 37,FINISHED,Fulham,Crystal Palace,2.0,2.0,D
+api_football,868315,2022,2023-05-20 14:00:00+00:00,Regular Season - 37,FINISHED,Wolves,Everton,1.0,1.0,D
+api_football,868309,2022,2023-05-20 14:00:00+00:00,Regular Season - 37,FINISHED,Liverpool,Aston Villa,1.0,1.0,D
+api_football,868312,2022,2023-05-20 16:30:00+00:00,Regular Season - 37,FINISHED,Nottingham Forest,Arsenal,1.0,0.0,H
+api_football,868314,2022,2023-05-21 12:30:00+00:00,Regular Season - 37,FINISHED,West Ham,Leeds,3.0,1.0,H
+api_football,868307,2022,2023-05-21 13:00:00+00:00,Regular Season - 37,FINISHED,Brighton,Southampton,3.0,1.0,H
+api_football,868310,2022,2023-05-21 15:00:00+00:00,Regular Season - 37,FINISHED,Manchester City,Chelsea,1.0,0.0,H
+api_football,868311,2022,2023-05-22 19:00:00+00:00,Regular Season - 37,FINISHED,Newcastle,Leicester,0.0,0.0,D
+api_football,868259,2022,2023-05-24 19:00:00+00:00,Regular Season - 32,FINISHED,Brighton,Manchester City,1.0,1.0,D
+api_football,868264,2022,2023-05-25 19:00:00+00:00,Regular Season - 32,FINISHED,Manchester United,Chelsea,4.0,1.0,H
+api_football,868324,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Manchester United,Fulham,2.0,1.0,H
+api_football,868325,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Southampton,Liverpool,4.0,4.0,D
+api_football,868316,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Arsenal,Wolves,5.0,0.0,H
+api_football,868321,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Everton,Bournemouth,1.0,0.0,H
+api_football,868323,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Leicester,West Ham,2.0,1.0,H
+api_football,868319,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Chelsea,Newcastle,1.0,1.0,D
+api_football,868320,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Crystal Palace,Nottingham Forest,1.0,1.0,D
+api_football,868318,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Brentford,Manchester City,1.0,0.0,H
+api_football,868322,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Leeds,Tottenham,1.0,4.0,A
+api_football,868317,2022,2023-05-28 15:30:00+00:00,Regular Season - 38,FINISHED,Aston Villa,Brighton,2.0,1.0,H
+api_football,1035037,2023,2023-08-11 19:00:00+00:00,Regular Season - 1,FINISHED,Burnley,Manchester City,0.0,3.0,A
+api_football,1035038,2023,2023-08-12 11:30:00+00:00,Regular Season - 1,FINISHED,Arsenal,Nottingham Forest,2.0,1.0,H
+api_football,1035042,2023,2023-08-12 14:00:00+00:00,Regular Season - 1,FINISHED,Sheffield Utd,Crystal Palace,0.0,1.0,A
+api_football,1035040,2023,2023-08-12 14:00:00+00:00,Regular Season - 1,FINISHED,Brighton,Luton,4.0,1.0,H
+api_football,1035041,2023,2023-08-12 14:00:00+00:00,Regular Season - 1,FINISHED,Everton,Fulham,0.0,1.0,A
+api_football,1035039,2023,2023-08-12 14:00:00+00:00,Regular Season - 1,FINISHED,Bournemouth,West Ham,1.0,1.0,D
+api_football,1035043,2023,2023-08-12 16:30:00+00:00,Regular Season - 1,FINISHED,Newcastle,Aston Villa,5.0,1.0,H
+api_football,1035044,2023,2023-08-13 13:00:00+00:00,Regular Season - 1,FINISHED,Brentford,Tottenham,2.0,2.0,D
+api_football,1035045,2023,2023-08-13 15:30:00+00:00,Regular Season - 1,FINISHED,Chelsea,Liverpool,1.0,1.0,D
+api_football,1035046,2023,2023-08-14 19:00:00+00:00,Regular Season - 1,FINISHED,Manchester United,Wolves,1.0,0.0,H
+api_football,1035053,2023,2023-08-18 18:45:00+00:00,Regular Season - 2,FINISHED,Nottingham Forest,Sheffield Utd,2.0,1.0,H
+api_football,1035049,2023,2023-08-19 14:00:00+00:00,Regular Season - 2,FINISHED,Fulham,Brentford,0.0,3.0,A
+api_football,1035056,2023,2023-08-19 14:00:00+00:00,Regular Season - 2,FINISHED,Wolves,Brighton,1.0,4.0,A
+api_football,1035050,2023,2023-08-19 14:00:00+00:00,Regular Season - 2,FINISHED,Liverpool,Bournemouth,3.0,1.0,H
+api_football,1035054,2023,2023-08-19 16:30:00+00:00,Regular Season - 2,FINISHED,Tottenham,Manchester United,2.0,0.0,H
+api_football,1035052,2023,2023-08-19 19:00:00+00:00,Regular Season - 2,FINISHED,Manchester City,Newcastle,1.0,0.0,H
+api_football,1035047,2023,2023-08-20 13:00:00+00:00,Regular Season - 2,FINISHED,Aston Villa,Everton,4.0,0.0,H
+api_football,1035055,2023,2023-08-20 15:30:00+00:00,Regular Season - 2,FINISHED,West Ham,Chelsea,3.0,1.0,H
+api_football,1035048,2023,2023-08-21 19:00:00+00:00,Regular Season - 2,FINISHED,Crystal Palace,Arsenal,0.0,1.0,A
+api_football,1035062,2023,2023-08-25 19:00:00+00:00,Regular Season - 3,FINISHED,Chelsea,Luton,3.0,0.0,H
+api_football,1035057,2023,2023-08-26 11:30:00+00:00,Regular Season - 3,FINISHED,Bournemouth,Tottenham,0.0,2.0,A
+api_football,1035064,2023,2023-08-26 14:00:00+00:00,Regular Season - 3,FINISHED,Manchester United,Nottingham Forest,3.0,2.0,H
+api_football,1035058,2023,2023-08-26 14:00:00+00:00,Regular Season - 3,FINISHED,Arsenal,Fulham,2.0,2.0,D
+api_football,1035063,2023,2023-08-26 14:00:00+00:00,Regular Season - 3,FINISHED,Everton,Wolves,0.0,1.0,A
+api_football,1035059,2023,2023-08-26 14:00:00+00:00,Regular Season - 3,FINISHED,Brentford,Crystal Palace,1.0,1.0,D
+api_football,1035060,2023,2023-08-26 16:30:00+00:00,Regular Season - 3,FINISHED,Brighton,West Ham,1.0,3.0,A
+api_football,1035061,2023,2023-08-27 13:00:00+00:00,Regular Season - 3,FINISHED,Burnley,Aston Villa,1.0,3.0,A
+api_football,1035066,2023,2023-08-27 13:00:00+00:00,Regular Season - 3,FINISHED,Sheffield Utd,Manchester City,1.0,2.0,A
+api_football,1035065,2023,2023-08-27 15:30:00+00:00,Regular Season - 3,FINISHED,Newcastle,Liverpool,1.0,2.0,A
+api_football,1035074,2023,2023-09-01 19:00:00+00:00,Regular Season - 4,FINISHED,Luton,West Ham,1.0,2.0,A
+api_football,1035076,2023,2023-09-02 11:30:00+00:00,Regular Season - 4,FINISHED,Sheffield Utd,Everton,2.0,2.0,D
+api_football,1035075,2023,2023-09-02 14:00:00+00:00,Regular Season - 4,FINISHED,Manchester City,Fulham,5.0,1.0,H
+api_football,1035068,2023,2023-09-02 14:00:00+00:00,Regular Season - 4,FINISHED,Brentford,Bournemouth,2.0,2.0,D
+api_football,1035070,2023,2023-09-02 14:00:00+00:00,Regular Season - 4,FINISHED,Burnley,Tottenham,2.0,5.0,A
+api_football,1035071,2023,2023-09-02 14:00:00+00:00,Regular Season - 4,FINISHED,Chelsea,Nottingham Forest,0.0,1.0,A
+api_football,1035069,2023,2023-09-02 16:30:00+00:00,Regular Season - 4,FINISHED,Brighton,Newcastle,3.0,1.0,H
+api_football,1035073,2023,2023-09-03 13:00:00+00:00,Regular Season - 4,FINISHED,Liverpool,Aston Villa,3.0,0.0,H
+api_football,1035072,2023,2023-09-03 13:00:00+00:00,Regular Season - 4,FINISHED,Crystal Palace,Wolves,3.0,2.0,H
+api_football,1035067,2023,2023-09-03 15:30:00+00:00,Regular Season - 4,FINISHED,Arsenal,Manchester United,3.0,1.0,H
+api_football,1035086,2023,2023-09-16 11:30:00+00:00,Regular Season - 5,FINISHED,Wolves,Liverpool,1.0,3.0,A
+api_football,1035081,2023,2023-09-16 14:00:00+00:00,Regular Season - 5,FINISHED,Manchester United,Brighton,1.0,3.0,A
+api_football,1035080,2023,2023-09-16 14:00:00+00:00,Regular Season - 5,FINISHED,Fulham,Luton,1.0,0.0,H
+api_football,1035084,2023,2023-09-16 14:00:00+00:00,Regular Season - 5,FINISHED,Tottenham,Sheffield Utd,2.0,1.0,H
+api_football,1035085,2023,2023-09-16 14:00:00+00:00,Regular Season - 5,FINISHED,West Ham,Manchester City,1.0,3.0,A
+api_football,1035078,2023,2023-09-16 14:00:00+00:00,Regular Season - 5,FINISHED,Aston Villa,Crystal Palace,3.0,1.0,H
+api_football,1035082,2023,2023-09-16 16:30:00+00:00,Regular Season - 5,FINISHED,Newcastle,Brentford,1.0,0.0,H
+api_football,1035077,2023,2023-09-17 13:00:00+00:00,Regular Season - 5,FINISHED,Bournemouth,Chelsea,0.0,0.0,D
+api_football,1035079,2023,2023-09-17 15:30:00+00:00,Regular Season - 5,FINISHED,Everton,Arsenal,0.0,1.0,A
+api_football,1035083,2023,2023-09-18 18:45:00+00:00,Regular Season - 5,FINISHED,Nottingham Forest,Burnley,1.0,1.0,D
+api_football,1035095,2023,2023-09-23 14:00:00+00:00,Regular Season - 6,FINISHED,Manchester City,Nottingham Forest,2.0,0.0,H
+api_football,1035092,2023,2023-09-23 14:00:00+00:00,Regular Season - 6,FINISHED,Crystal Palace,Fulham,0.0,0.0,D
+api_football,1035094,2023,2023-09-23 14:00:00+00:00,Regular Season - 6,FINISHED,Luton,Wolves,1.0,1.0,D
+api_football,1035088,2023,2023-09-23 16:30:00+00:00,Regular Season - 6,FINISHED,Brentford,Everton,1.0,3.0,A
+api_football,1035090,2023,2023-09-23 19:00:00+00:00,Regular Season - 6,FINISHED,Burnley,Manchester United,0.0,1.0,A
+api_football,1035093,2023,2023-09-24 13:00:00+00:00,Regular Season - 6,FINISHED,Liverpool,West Ham,3.0,1.0,H
+api_football,1035087,2023,2023-09-24 13:00:00+00:00,Regular Season - 6,FINISHED,Arsenal,Tottenham,2.0,2.0,D
+api_football,1035091,2023,2023-09-24 13:00:00+00:00,Regular Season - 6,FINISHED,Chelsea,Aston Villa,0.0,1.0,A
+api_football,1035089,2023,2023-09-24 13:00:00+00:00,Regular Season - 6,FINISHED,Brighton,Bournemouth,3.0,1.0,H
+api_football,1035096,2023,2023-09-24 15:30:00+00:00,Regular Season - 6,FINISHED,Sheffield Utd,Newcastle,0.0,8.0,A
+api_football,1035098,2023,2023-09-30 11:30:00+00:00,Regular Season - 7,FINISHED,Aston Villa,Brighton,6.0,1.0,H
+api_football,1035105,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,West Ham,Sheffield Utd,2.0,0.0,H
+api_football,1035099,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,Everton,Luton,1.0,2.0,A
+api_football,1035106,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,Wolves,Manchester City,2.0,1.0,H
+api_football,1035102,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,Newcastle,Burnley,2.0,0.0,H
+api_football,1035101,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,Manchester United,Crystal Palace,0.0,1.0,A
+api_football,1035097,2023,2023-09-30 14:00:00+00:00,Regular Season - 7,FINISHED,Bournemouth,Arsenal,0.0,4.0,A
+api_football,1035104,2023,2023-09-30 16:30:00+00:00,Regular Season - 7,FINISHED,Tottenham,Liverpool,2.0,1.0,H
+api_football,1035103,2023,2023-10-01 13:00:00+00:00,Regular Season - 7,FINISHED,Nottingham Forest,Brentford,1.0,1.0,D
+api_football,1035100,2023,2023-10-02 19:00:00+00:00,Regular Season - 7,FINISHED,Fulham,Chelsea,0.0,2.0,A
+api_football,1035051,2023,2023-10-03 18:30:00+00:00,Regular Season - 2,FINISHED,Luton,Burnley,1.0,2.0,A
+api_football,1035113,2023,2023-10-07 11:30:00+00:00,Regular Season - 8,FINISHED,Luton,Tottenham,0.0,1.0,A
+api_football,1035114,2023,2023-10-07 14:00:00+00:00,Regular Season - 8,FINISHED,Manchester United,Brentford,2.0,1.0,H
+api_football,1035112,2023,2023-10-07 14:00:00+00:00,Regular Season - 8,FINISHED,Fulham,Sheffield Utd,3.0,1.0,H
+api_football,1035109,2023,2023-10-07 14:00:00+00:00,Regular Season - 8,FINISHED,Burnley,Chelsea,1.0,4.0,A
+api_football,1035111,2023,2023-10-07 14:00:00+00:00,Regular Season - 8,FINISHED,Everton,Bournemouth,3.0,0.0,H
+api_football,1035110,2023,2023-10-07 16:30:00+00:00,Regular Season - 8,FINISHED,Crystal Palace,Nottingham Forest,0.0,0.0,D
+api_football,1035115,2023,2023-10-08 13:00:00+00:00,Regular Season - 8,FINISHED,West Ham,Newcastle,2.0,2.0,D
+api_football,1035108,2023,2023-10-08 13:00:00+00:00,Regular Season - 8,FINISHED,Brighton,Liverpool,2.0,2.0,D
+api_football,1035116,2023,2023-10-08 13:00:00+00:00,Regular Season - 8,FINISHED,Wolves,Aston Villa,1.0,1.0,D
+api_football,1035107,2023,2023-10-08 15:30:00+00:00,Regular Season - 8,FINISHED,Arsenal,Manchester City,1.0,0.0,H
+api_football,1035121,2023,2023-10-21 11:30:00+00:00,Regular Season - 9,FINISHED,Liverpool,Everton,2.0,0.0,H
+api_football,1035123,2023,2023-10-21 14:00:00+00:00,Regular Season - 9,FINISHED,Newcastle,Crystal Palace,4.0,0.0,H
+api_football,1035117,2023,2023-10-21 14:00:00+00:00,Regular Season - 9,FINISHED,Bournemouth,Wolves,1.0,2.0,A
+api_football,1035122,2023,2023-10-21 14:00:00+00:00,Regular Season - 9,FINISHED,Manchester City,Brighton,2.0,1.0,H
+api_football,1035119,2023,2023-10-21 14:00:00+00:00,Regular Season - 9,FINISHED,Brentford,Burnley,3.0,0.0,H
+api_football,1035124,2023,2023-10-21 14:00:00+00:00,Regular Season - 9,FINISHED,Nottingham Forest,Luton,2.0,2.0,D
+api_football,1035120,2023,2023-10-21 16:30:00+00:00,Regular Season - 9,FINISHED,Chelsea,Arsenal,2.0,2.0,D
+api_football,1035125,2023,2023-10-21 19:00:00+00:00,Regular Season - 9,FINISHED,Sheffield Utd,Manchester United,1.0,2.0,A
+api_football,1035118,2023,2023-10-22 15:30:00+00:00,Regular Season - 9,FINISHED,Aston Villa,West Ham,4.0,1.0,H
+api_football,1035126,2023,2023-10-23 19:00:00+00:00,Regular Season - 9,FINISHED,Tottenham,Fulham,2.0,0.0,H
+api_football,1035132,2023,2023-10-27 19:00:00+00:00,Regular Season - 10,FINISHED,Crystal Palace,Tottenham,1.0,2.0,A
+api_football,1035131,2023,2023-10-28 11:30:00+00:00,Regular Season - 10,FINISHED,Chelsea,Brentford,0.0,2.0,A
+api_football,1035127,2023,2023-10-28 14:00:00+00:00,Regular Season - 10,FINISHED,Bournemouth,Burnley,2.0,1.0,H
+api_football,1035128,2023,2023-10-28 14:00:00+00:00,Regular Season - 10,FINISHED,Arsenal,Sheffield Utd,5.0,0.0,H
+api_football,1035136,2023,2023-10-28 16:30:00+00:00,Regular Season - 10,FINISHED,Wolves,Newcastle,2.0,2.0,D
+api_football,1035135,2023,2023-10-29 13:00:00+00:00,Regular Season - 10,FINISHED,West Ham,Everton,0.0,1.0,A
+api_football,1035133,2023,2023-10-29 14:00:00+00:00,Regular Season - 10,FINISHED,Liverpool,Nottingham Forest,3.0,0.0,H
+api_football,1035130,2023,2023-10-29 14:00:00+00:00,Regular Season - 10,FINISHED,Brighton,Fulham,1.0,1.0,D
+api_football,1035129,2023,2023-10-29 14:00:00+00:00,Regular Season - 10,FINISHED,Aston Villa,Luton,3.0,1.0,H
+api_football,1035134,2023,2023-10-29 15:30:00+00:00,Regular Season - 10,FINISHED,Manchester United,Manchester City,0.0,3.0,A
+api_football,1035140,2023,2023-11-04 12:30:00+00:00,Regular Season - 11,FINISHED,Fulham,Manchester United,0.0,1.0,A
+api_football,1035138,2023,2023-11-04 15:00:00+00:00,Regular Season - 11,FINISHED,Burnley,Crystal Palace,0.0,2.0,A
+api_football,1035139,2023,2023-11-04 15:00:00+00:00,Regular Season - 11,FINISHED,Everton,Brighton,1.0,1.0,D
+api_football,1035142,2023,2023-11-04 15:00:00+00:00,Regular Season - 11,FINISHED,Manchester City,Bournemouth,6.0,1.0,H
+api_football,1035137,2023,2023-11-04 15:00:00+00:00,Regular Season - 11,FINISHED,Brentford,West Ham,3.0,2.0,H
+api_football,1035145,2023,2023-11-04 15:00:00+00:00,Regular Season - 11,FINISHED,Sheffield Utd,Wolves,2.0,1.0,H
+api_football,1035143,2023,2023-11-04 17:30:00+00:00,Regular Season - 11,FINISHED,Newcastle,Arsenal,1.0,0.0,H
+api_football,1035144,2023,2023-11-05 14:00:00+00:00,Regular Season - 11,FINISHED,Nottingham Forest,Aston Villa,2.0,0.0,H
+api_football,1035141,2023,2023-11-05 16:30:00+00:00,Regular Season - 11,FINISHED,Luton,Liverpool,1.0,1.0,D
+api_football,1035146,2023,2023-11-06 20:00:00+00:00,Regular Season - 11,FINISHED,Tottenham,Chelsea,1.0,4.0,A
+api_football,1035156,2023,2023-11-11 12:30:00+00:00,Regular Season - 12,FINISHED,Wolves,Tottenham,2.0,1.0,H
+api_football,1035154,2023,2023-11-11 15:00:00+00:00,Regular Season - 12,FINISHED,Manchester United,Luton,1.0,0.0,H
+api_football,1035148,2023,2023-11-11 15:00:00+00:00,Regular Season - 12,FINISHED,Arsenal,Burnley,3.0,1.0,H
+api_football,1035152,2023,2023-11-11 15:00:00+00:00,Regular Season - 12,FINISHED,Crystal Palace,Everton,2.0,3.0,A
+api_football,1035147,2023,2023-11-11 17:30:00+00:00,Regular Season - 12,FINISHED,Bournemouth,Newcastle,2.0,0.0,H
+api_football,1035153,2023,2023-11-12 14:00:00+00:00,Regular Season - 12,FINISHED,Liverpool,Brentford,3.0,0.0,H
+api_football,1035155,2023,2023-11-12 14:00:00+00:00,Regular Season - 12,FINISHED,West Ham,Nottingham Forest,3.0,2.0,H
+api_football,1035150,2023,2023-11-12 14:00:00+00:00,Regular Season - 12,FINISHED,Brighton,Sheffield Utd,1.0,1.0,D
+api_football,1035149,2023,2023-11-12 14:00:00+00:00,Regular Season - 12,FINISHED,Aston Villa,Fulham,3.0,1.0,H
+api_football,1035151,2023,2023-11-12 16:30:00+00:00,Regular Season - 12,FINISHED,Chelsea,Manchester City,4.0,4.0,D
+api_football,1035299,2023,2023-11-25 12:30:00+00:00,Regular Season - 13,FINISHED,Manchester City,Liverpool,1.0,1.0,D
+api_football,1035298,2023,2023-11-25 15:00:00+00:00,Regular Season - 13,FINISHED,Luton,Crystal Palace,2.0,1.0,H
+api_football,1035301,2023,2023-11-25 15:00:00+00:00,Regular Season - 13,FINISHED,Nottingham Forest,Brighton,2.0,3.0,A
+api_football,1035302,2023,2023-11-25 15:00:00+00:00,Regular Season - 13,FINISHED,Sheffield Utd,Bournemouth,1.0,3.0,A
+api_football,1035295,2023,2023-11-25 15:00:00+00:00,Regular Season - 13,FINISHED,Burnley,West Ham,1.0,2.0,A
+api_football,1035300,2023,2023-11-25 15:00:00+00:00,Regular Season - 13,FINISHED,Newcastle,Chelsea,4.0,1.0,H
+api_football,1035294,2023,2023-11-25 17:30:00+00:00,Regular Season - 13,FINISHED,Brentford,Arsenal,0.0,1.0,A
+api_football,1035303,2023,2023-11-26 14:00:00+00:00,Regular Season - 13,FINISHED,Tottenham,Aston Villa,1.0,2.0,A
+api_football,1035296,2023,2023-11-26 16:30:00+00:00,Regular Season - 13,FINISHED,Everton,Manchester United,0.0,3.0,A
+api_football,1035297,2023,2023-11-27 20:00:00+00:00,Regular Season - 13,FINISHED,Fulham,Wolves,3.0,2.0,H
+api_football,1035305,2023,2023-12-02 15:00:00+00:00,Regular Season - 14,FINISHED,Arsenal,Wolves,2.0,1.0,H
+api_football,1035307,2023,2023-12-02 15:00:00+00:00,Regular Season - 14,FINISHED,Burnley,Sheffield Utd,5.0,0.0,H
+api_football,1035306,2023,2023-12-02 15:00:00+00:00,Regular Season - 14,FINISHED,Brentford,Luton,3.0,1.0,H
+api_football,1035312,2023,2023-12-02 17:30:00+00:00,Regular Season - 14,FINISHED,Nottingham Forest,Everton,0.0,1.0,A
+api_football,1035311,2023,2023-12-02 20:00:00+00:00,Regular Season - 14,FINISHED,Newcastle,Manchester United,1.0,0.0,H
+api_football,1035308,2023,2023-12-03 14:00:00+00:00,Regular Season - 14,FINISHED,Chelsea,Brighton,3.0,2.0,H
+api_football,1035313,2023,2023-12-03 14:00:00+00:00,Regular Season - 14,FINISHED,West Ham,Crystal Palace,1.0,1.0,D
+api_football,1035304,2023,2023-12-03 14:00:00+00:00,Regular Season - 14,FINISHED,Bournemouth,Aston Villa,2.0,2.0,D
+api_football,1035309,2023,2023-12-03 14:00:00+00:00,Regular Season - 14,FINISHED,Liverpool,Fulham,4.0,3.0,H
+api_football,1035310,2023,2023-12-03 16:30:00+00:00,Regular Season - 14,FINISHED,Manchester City,Tottenham,3.0,3.0,D
+api_football,1035321,2023,2023-12-05 19:30:00+00:00,Regular Season - 15,FINISHED,Wolves,Burnley,1.0,0.0,H
+api_football,1035318,2023,2023-12-05 20:15:00+00:00,Regular Season - 15,FINISHED,Luton,Arsenal,3.0,4.0,A
+api_football,1035317,2023,2023-12-06 19:30:00+00:00,Regular Season - 15,FINISHED,Fulham,Nottingham Forest,5.0,0.0,H
+api_football,1035315,2023,2023-12-06 19:30:00+00:00,Regular Season - 15,FINISHED,Brighton,Brentford,2.0,1.0,H
+api_football,1035322,2023,2023-12-06 19:30:00+00:00,Regular Season - 15,FINISHED,Crystal Palace,Bournemouth,0.0,2.0,A
+api_football,1035319,2023,2023-12-06 19:30:00+00:00,Regular Season - 15,FINISHED,Sheffield Utd,Liverpool,0.0,2.0,A
+api_football,1035323,2023,2023-12-06 20:15:00+00:00,Regular Season - 15,FINISHED,Manchester United,Chelsea,2.0,1.0,H
+api_football,1035314,2023,2023-12-06 20:15:00+00:00,Regular Season - 15,FINISHED,Aston Villa,Manchester City,1.0,0.0,H
+api_football,1035316,2023,2023-12-07 19:30:00+00:00,Regular Season - 15,FINISHED,Everton,Newcastle,3.0,0.0,H
+api_football,1035320,2023,2023-12-07 20:15:00+00:00,Regular Season - 15,FINISHED,Tottenham,West Ham,1.0,2.0,A
+api_football,1035326,2023,2023-12-09 12:30:00+00:00,Regular Season - 16,FINISHED,Crystal Palace,Liverpool,1.0,2.0,A
+api_football,1035331,2023,2023-12-09 15:00:00+00:00,Regular Season - 16,FINISHED,Sheffield Utd,Brentford,1.0,0.0,H
+api_football,1035325,2023,2023-12-09 15:00:00+00:00,Regular Season - 16,FINISHED,Brighton,Burnley,1.0,1.0,D
+api_football,1035330,2023,2023-12-09 15:00:00+00:00,Regular Season - 16,FINISHED,Manchester United,Bournemouth,0.0,3.0,A
+api_football,1035333,2023,2023-12-09 15:00:00+00:00,Regular Season - 16,FINISHED,Wolves,Nottingham Forest,1.0,1.0,D
+api_football,1035324,2023,2023-12-09 17:30:00+00:00,Regular Season - 16,FINISHED,Aston Villa,Arsenal,1.0,0.0,H
+api_football,1035328,2023,2023-12-10 14:00:00+00:00,Regular Season - 16,FINISHED,Fulham,West Ham,5.0,0.0,H
+api_football,1035327,2023,2023-12-10 14:00:00+00:00,Regular Season - 16,FINISHED,Everton,Chelsea,2.0,0.0,H
+api_football,1035329,2023,2023-12-10 14:00:00+00:00,Regular Season - 16,FINISHED,Luton,Manchester City,1.0,2.0,A
+api_football,1035332,2023,2023-12-10 16:30:00+00:00,Regular Season - 16,FINISHED,Tottenham,Newcastle,4.0,1.0,H
+api_football,1035342,2023,2023-12-15 20:00:00+00:00,Regular Season - 17,FINISHED,Nottingham Forest,Tottenham,0.0,2.0,A
+api_football,1035341,2023,2023-12-16 15:00:00+00:00,Regular Season - 17,FINISHED,Newcastle,Fulham,3.0,0.0,H
+api_football,1035338,2023,2023-12-16 15:00:00+00:00,Regular Season - 17,FINISHED,Chelsea,Sheffield Utd,2.0,0.0,H
+api_football,1035340,2023,2023-12-16 15:00:00+00:00,Regular Season - 17,FINISHED,Manchester City,Crystal Palace,2.0,2.0,D
+api_football,1035337,2023,2023-12-16 17:30:00+00:00,Regular Season - 17,FINISHED,Burnley,Everton,0.0,2.0,A
+api_football,1035336,2023,2023-12-17 14:00:00+00:00,Regular Season - 17,FINISHED,Brentford,Aston Villa,1.0,2.0,A
+api_football,1035335,2023,2023-12-17 14:00:00+00:00,Regular Season - 17,FINISHED,Arsenal,Brighton,2.0,0.0,H
+api_football,1035343,2023,2023-12-17 14:00:00+00:00,Regular Season - 17,FINISHED,West Ham,Wolves,3.0,0.0,H
+api_football,1035339,2023,2023-12-17 16:30:00+00:00,Regular Season - 17,FINISHED,Liverpool,Manchester United,0.0,0.0,D
+api_football,1035345,2023,2023-12-21 20:00:00+00:00,Regular Season - 18,FINISHED,Crystal Palace,Brighton,1.0,1.0,D
+api_football,1035344,2023,2023-12-22 20:00:00+00:00,Regular Season - 18,FINISHED,Aston Villa,Sheffield Utd,1.0,1.0,D
+api_football,1035352,2023,2023-12-23 12:30:00+00:00,Regular Season - 18,FINISHED,West Ham,Manchester United,2.0,0.0,H
+api_football,1035346,2023,2023-12-23 15:00:00+00:00,Regular Season - 18,FINISHED,Fulham,Burnley,0.0,2.0,A
+api_football,1035351,2023,2023-12-23 15:00:00+00:00,Regular Season - 18,FINISHED,Tottenham,Everton,2.0,1.0,H
+api_football,1035350,2023,2023-12-23 15:00:00+00:00,Regular Season - 18,FINISHED,Nottingham Forest,Bournemouth,2.0,3.0,A
+api_football,1035348,2023,2023-12-23 15:00:00+00:00,Regular Season - 18,FINISHED,Luton,Newcastle,1.0,0.0,H
+api_football,1035347,2023,2023-12-23 17:30:00+00:00,Regular Season - 18,FINISHED,Liverpool,Arsenal,1.0,1.0,D
+api_football,1035353,2023,2023-12-24 13:00:00+00:00,Regular Season - 18,FINISHED,Wolves,Chelsea,2.0,1.0,H
+api_football,1035362,2023,2023-12-26 12:30:00+00:00,Regular Season - 19,FINISHED,Newcastle,Nottingham Forest,1.0,3.0,A
+api_football,1035363,2023,2023-12-26 15:00:00+00:00,Regular Season - 19,FINISHED,Sheffield Utd,Luton,2.0,3.0,A
+api_football,1035354,2023,2023-12-26 15:00:00+00:00,Regular Season - 19,FINISHED,Bournemouth,Fulham,3.0,0.0,H
+api_football,1035358,2023,2023-12-26 17:30:00+00:00,Regular Season - 19,FINISHED,Burnley,Liverpool,0.0,2.0,A
+api_football,1035361,2023,2023-12-26 20:00:00+00:00,Regular Season - 19,FINISHED,Manchester United,Aston Villa,3.0,2.0,H
+api_football,1035359,2023,2023-12-27 19:30:00+00:00,Regular Season - 19,FINISHED,Chelsea,Crystal Palace,2.0,1.0,H
+api_football,1035356,2023,2023-12-27 19:30:00+00:00,Regular Season - 19,FINISHED,Brentford,Wolves,1.0,4.0,A
+api_football,1035360,2023,2023-12-27 20:15:00+00:00,Regular Season - 19,FINISHED,Everton,Manchester City,1.0,3.0,A
+api_football,1035357,2023,2023-12-28 19:30:00+00:00,Regular Season - 19,FINISHED,Brighton,Tottenham,4.0,2.0,H
+api_football,1035355,2023,2023-12-28 20:15:00+00:00,Regular Season - 19,FINISHED,Arsenal,West Ham,0.0,2.0,A
+api_football,1035368,2023,2023-12-30 12:30:00+00:00,Regular Season - 20,FINISHED,Luton,Chelsea,2.0,3.0,A
+api_football,1035373,2023,2023-12-30 15:00:00+00:00,Regular Season - 20,FINISHED,Wolves,Everton,3.0,0.0,H
+api_football,1035369,2023,2023-12-30 15:00:00+00:00,Regular Season - 20,FINISHED,Manchester City,Sheffield Utd,2.0,0.0,H
+api_football,1035365,2023,2023-12-30 15:00:00+00:00,Regular Season - 20,FINISHED,Crystal Palace,Brentford,3.0,1.0,H
+api_football,1035364,2023,2023-12-30 15:00:00+00:00,Regular Season - 20,FINISHED,Aston Villa,Burnley,3.0,2.0,H
+api_football,1035370,2023,2023-12-30 17:30:00+00:00,Regular Season - 20,FINISHED,Nottingham Forest,Manchester United,2.0,1.0,H
+api_football,1035371,2023,2023-12-31 14:00:00+00:00,Regular Season - 20,FINISHED,Tottenham,Bournemouth,3.0,1.0,H
+api_football,1035366,2023,2023-12-31 14:00:00+00:00,Regular Season - 20,FINISHED,Fulham,Arsenal,2.0,1.0,H
+api_football,1035367,2023,2024-01-01 20:00:00+00:00,Regular Season - 20,FINISHED,Liverpool,Newcastle,4.0,2.0,H
+api_football,1035372,2023,2024-01-02 19:30:00+00:00,Regular Season - 20,FINISHED,West Ham,Brighton,0.0,0.0,D
+api_football,1035378,2023,2024-01-12 19:45:00+00:00,Regular Season - 21,FINISHED,Burnley,Luton,1.0,1.0,D
+api_football,1035379,2023,2024-01-13 12:30:00+00:00,Regular Season - 21,FINISHED,Chelsea,Fulham,1.0,0.0,H
+api_football,1035382,2023,2024-01-13 17:30:00+00:00,Regular Season - 21,FINISHED,Newcastle,Manchester City,2.0,3.0,A
+api_football,1035380,2023,2024-01-14 14:00:00+00:00,Regular Season - 21,FINISHED,Everton,Aston Villa,0.0,0.0,D
+api_football,1035381,2023,2024-01-14 16:30:00+00:00,Regular Season - 21,FINISHED,Manchester United,Tottenham,2.0,2.0,D
+api_football,1035375,2023,2024-01-20 12:30:00+00:00,Regular Season - 21,FINISHED,Arsenal,Crystal Palace,5.0,0.0,H
+api_football,1035376,2023,2024-01-20 17:30:00+00:00,Regular Season - 21,FINISHED,Brentford,Nottingham Forest,3.0,2.0,H
+api_football,1035383,2023,2024-01-21 14:00:00+00:00,Regular Season - 21,FINISHED,Sheffield Utd,West Ham,2.0,2.0,D
+api_football,1035374,2023,2024-01-21 16:30:00+00:00,Regular Season - 21,FINISHED,Bournemouth,Liverpool,0.0,4.0,A
+api_football,1035377,2023,2024-01-22 19:45:00+00:00,Regular Season - 21,FINISHED,Brighton,Wolves,0.0,0.0,D
+api_football,1035387,2023,2024-01-30 19:30:00+00:00,Regular Season - 22,FINISHED,Nottingham Forest,Arsenal,1.0,2.0,A
+api_football,1035386,2023,2024-01-30 19:45:00+00:00,Regular Season - 22,FINISHED,Luton,Brighton,4.0,0.0,H
+api_football,1035385,2023,2024-01-30 19:45:00+00:00,Regular Season - 22,FINISHED,Fulham,Everton,0.0,0.0,D
+api_football,1035391,2023,2024-01-30 20:00:00+00:00,Regular Season - 22,FINISHED,Crystal Palace,Sheffield Utd,3.0,2.0,H
+api_football,1035384,2023,2024-01-30 20:15:00+00:00,Regular Season - 22,FINISHED,Aston Villa,Newcastle,1.0,3.0,A
+api_football,1035388,2023,2024-01-31 19:30:00+00:00,Regular Season - 22,FINISHED,Tottenham,Brentford,3.0,2.0,H
+api_football,1035393,2023,2024-01-31 19:30:00+00:00,Regular Season - 22,FINISHED,Manchester City,Burnley,3.0,1.0,H
+api_football,1035392,2023,2024-01-31 20:15:00+00:00,Regular Season - 22,FINISHED,Liverpool,Chelsea,4.0,1.0,H
+api_football,1035389,2023,2024-02-01 19:30:00+00:00,Regular Season - 22,FINISHED,West Ham,Bournemouth,1.0,1.0,D
+api_football,1035390,2023,2024-02-01 20:15:00+00:00,Regular Season - 22,FINISHED,Wolves,Manchester United,3.0,4.0,A
+api_football,1035400,2023,2024-02-03 12:30:00+00:00,Regular Season - 23,FINISHED,Everton,Tottenham,2.0,2.0,D
+api_football,1035402,2023,2024-02-03 15:00:00+00:00,Regular Season - 23,FINISHED,Newcastle,Luton,4.0,4.0,D
+api_football,1035398,2023,2024-02-03 15:00:00+00:00,Regular Season - 23,FINISHED,Burnley,Fulham,2.0,2.0,D
+api_football,1035397,2023,2024-02-03 15:00:00+00:00,Regular Season - 23,FINISHED,Brighton,Crystal Palace,4.0,1.0,H
+api_football,1035403,2023,2024-02-03 17:30:00+00:00,Regular Season - 23,FINISHED,Sheffield Utd,Aston Villa,0.0,5.0,A
+api_football,1035401,2023,2024-02-04 14:00:00+00:00,Regular Season - 23,FINISHED,Manchester United,West Ham,3.0,0.0,H
+api_football,1035394,2023,2024-02-04 14:00:00+00:00,Regular Season - 23,FINISHED,Bournemouth,Nottingham Forest,1.0,1.0,D
+api_football,1035399,2023,2024-02-04 14:00:00+00:00,Regular Season - 23,FINISHED,Chelsea,Wolves,2.0,4.0,A
+api_football,1035395,2023,2024-02-04 16:30:00+00:00,Regular Season - 23,FINISHED,Arsenal,Liverpool,3.0,1.0,H
+api_football,1035396,2023,2024-02-05 20:00:00+00:00,Regular Season - 23,FINISHED,Brentford,Manchester City,1.0,3.0,A
+api_football,1035409,2023,2024-02-10 12:30:00+00:00,Regular Season - 24,FINISHED,Manchester City,Everton,2.0,0.0,H
+api_football,1035406,2023,2024-02-10 15:00:00+00:00,Regular Season - 24,FINISHED,Fulham,Bournemouth,3.0,1.0,H
+api_football,1035413,2023,2024-02-10 15:00:00+00:00,Regular Season - 24,FINISHED,Wolves,Brentford,0.0,2.0,A
+api_football,1035407,2023,2024-02-10 15:00:00+00:00,Regular Season - 24,FINISHED,Liverpool,Burnley,3.0,1.0,H
+api_football,1035411,2023,2024-02-10 15:00:00+00:00,Regular Season - 24,FINISHED,Tottenham,Brighton,2.0,1.0,H
+api_football,1035408,2023,2024-02-10 15:00:00+00:00,Regular Season - 24,FINISHED,Luton,Sheffield Utd,1.0,3.0,A
+api_football,1035410,2023,2024-02-10 17:30:00+00:00,Regular Season - 24,FINISHED,Nottingham Forest,Newcastle,2.0,3.0,A
+api_football,1035412,2023,2024-02-11 14:00:00+00:00,Regular Season - 24,FINISHED,West Ham,Arsenal,0.0,6.0,A
+api_football,1035404,2023,2024-02-11 16:30:00+00:00,Regular Season - 24,FINISHED,Aston Villa,Manchester United,1.0,2.0,A
+api_football,1035405,2023,2024-02-12 20:00:00+00:00,Regular Season - 24,FINISHED,Crystal Palace,Chelsea,1.0,3.0,A
+api_football,1035414,2023,2024-02-17 12:30:00+00:00,Regular Season - 25,FINISHED,Brentford,Liverpool,1.0,4.0,A
+api_football,1035421,2023,2024-02-17 15:00:00+00:00,Regular Season - 25,FINISHED,Nottingham Forest,West Ham,2.0,0.0,H
+api_football,1035423,2023,2024-02-17 15:00:00+00:00,Regular Season - 25,FINISHED,Tottenham,Wolves,1.0,2.0,A
+api_football,1035415,2023,2024-02-17 15:00:00+00:00,Regular Season - 25,FINISHED,Burnley,Arsenal,0.0,5.0,A
+api_football,1035417,2023,2024-02-17 15:00:00+00:00,Regular Season - 25,FINISHED,Fulham,Aston Villa,1.0,2.0,A
+api_football,1035420,2023,2024-02-17 15:00:00+00:00,Regular Season - 25,FINISHED,Newcastle,Bournemouth,2.0,2.0,D
+api_football,1035419,2023,2024-02-17 17:30:00+00:00,Regular Season - 25,FINISHED,Manchester City,Chelsea,1.0,1.0,D
+api_football,1035422,2023,2024-02-18 14:00:00+00:00,Regular Season - 25,FINISHED,Sheffield Utd,Brighton,0.0,5.0,A
+api_football,1035418,2023,2024-02-18 16:30:00+00:00,Regular Season - 25,FINISHED,Luton,Manchester United,1.0,2.0,A
+api_football,1035416,2023,2024-02-19 20:00:00+00:00,Regular Season - 25,FINISHED,Everton,Crystal Palace,1.0,1.0,D
+api_football,1035349,2023,2024-02-20 19:30:00+00:00,Regular Season - 18,FINISHED,Manchester City,Brentford,1.0,0.0,H
+api_football,1035430,2023,2024-02-21 19:30:00+00:00,Regular Season - 26,FINISHED,Liverpool,Luton,4.0,1.0,H
+api_football,1035431,2023,2024-02-24 15:00:00+00:00,Regular Season - 26,FINISHED,Manchester United,Fulham,1.0,2.0,A
+api_football,1035427,2023,2024-02-24 15:00:00+00:00,Regular Season - 26,FINISHED,Brighton,Everton,1.0,1.0,D
+api_football,1035429,2023,2024-02-24 15:00:00+00:00,Regular Season - 26,FINISHED,Crystal Palace,Burnley,3.0,0.0,H
+api_football,1035426,2023,2024-02-24 15:00:00+00:00,Regular Season - 26,FINISHED,Aston Villa,Nottingham Forest,4.0,2.0,H
+api_football,1035424,2023,2024-02-24 17:30:00+00:00,Regular Season - 26,FINISHED,Bournemouth,Manchester City,0.0,1.0,A
+api_football,1035425,2023,2024-02-24 20:00:00+00:00,Regular Season - 26,FINISHED,Arsenal,Newcastle,4.0,1.0,H
+api_football,1035433,2023,2024-02-25 13:30:00+00:00,Regular Season - 26,FINISHED,Wolves,Sheffield Utd,1.0,0.0,H
+api_football,1035432,2023,2024-02-26 20:00:00+00:00,Regular Season - 26,FINISHED,West Ham,Brentford,4.0,2.0,H
+api_football,1035440,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Newcastle,Wolves,3.0,0.0,H
+api_football,1035437,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Fulham,Brighton,3.0,0.0,H
+api_football,1035436,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Everton,West Ham,1.0,3.0,A
+api_football,1035443,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Tottenham,Crystal Palace,3.0,1.0,H
+api_football,1035434,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Brentford,Chelsea,2.0,2.0,D
+api_football,1035441,2023,2024-03-02 15:00:00+00:00,Regular Season - 27,FINISHED,Nottingham Forest,Liverpool,0.0,1.0,A
+api_football,1035438,2023,2024-03-02 17:30:00+00:00,Regular Season - 27,FINISHED,Luton,Aston Villa,2.0,3.0,A
+api_football,1035435,2023,2024-03-03 13:00:00+00:00,Regular Season - 27,FINISHED,Burnley,Bournemouth,0.0,2.0,A
+api_football,1035439,2023,2024-03-03 15:30:00+00:00,Regular Season - 27,FINISHED,Manchester City,Manchester United,3.0,1.0,H
+api_football,1035442,2023,2024-03-04 20:00:00+00:00,Regular Season - 27,FINISHED,Sheffield Utd,Arsenal,0.0,6.0,A
+api_football,1035451,2023,2024-03-09 12:30:00+00:00,Regular Season - 28,FINISHED,Manchester United,Everton,2.0,0.0,H
+api_football,1035453,2023,2024-03-09 15:00:00+00:00,Regular Season - 28,FINISHED,Wolves,Fulham,2.0,1.0,H
+api_football,1035449,2023,2024-03-09 15:00:00+00:00,Regular Season - 28,FINISHED,Crystal Palace,Luton,1.0,1.0,D
+api_football,1035444,2023,2024-03-09 15:00:00+00:00,Regular Season - 28,FINISHED,Bournemouth,Sheffield Utd,2.0,2.0,D
+api_football,1035445,2023,2024-03-09 17:30:00+00:00,Regular Season - 28,FINISHED,Arsenal,Brentford,2.0,1.0,H
+api_football,1035446,2023,2024-03-10 13:00:00+00:00,Regular Season - 28,FINISHED,Aston Villa,Tottenham,0.0,4.0,A
+api_football,1035452,2023,2024-03-10 14:00:00+00:00,Regular Season - 28,FINISHED,West Ham,Burnley,2.0,2.0,D
+api_football,1035447,2023,2024-03-10 14:00:00+00:00,Regular Season - 28,FINISHED,Brighton,Nottingham Forest,1.0,0.0,H
+api_football,1035450,2023,2024-03-10 15:45:00+00:00,Regular Season - 28,FINISHED,Liverpool,Manchester City,1.0,1.0,D
+api_football,1035448,2023,2024-03-11 20:00:00+00:00,Regular Season - 28,FINISHED,Chelsea,Newcastle,3.0,2.0,H
+api_football,1035334,2023,2024-03-13 19:30:00+00:00,Regular Season - 17,FINISHED,Bournemouth,Luton,4.0,3.0,H
+api_football,1035456,2023,2024-03-16 15:00:00+00:00,Regular Season - 29,FINISHED,Burnley,Brentford,2.0,1.0,H
+api_football,1035460,2023,2024-03-16 15:00:00+00:00,Regular Season - 29,FINISHED,Luton,Nottingham Forest,1.0,1.0,D
+api_football,1035459,2023,2024-03-16 17:30:00+00:00,Regular Season - 29,FINISHED,Fulham,Tottenham,3.0,0.0,H
+api_football,1035462,2023,2024-03-17 14:00:00+00:00,Regular Season - 29,FINISHED,West Ham,Aston Villa,1.0,1.0,D
+api_football,1035470,2023,2024-03-30 12:30:00+00:00,Regular Season - 30,FINISHED,Newcastle,West Ham,4.0,3.0,H
+api_football,1035471,2023,2024-03-30 15:00:00+00:00,Regular Season - 30,FINISHED,Nottingham Forest,Crystal Palace,1.0,1.0,D
+api_football,1035472,2023,2024-03-30 15:00:00+00:00,Regular Season - 30,FINISHED,Sheffield Utd,Fulham,3.0,3.0,D
+api_football,1035473,2023,2024-03-30 15:00:00+00:00,Regular Season - 30,FINISHED,Tottenham,Luton,2.0,1.0,H
+api_football,1035464,2023,2024-03-30 15:00:00+00:00,Regular Season - 30,FINISHED,Bournemouth,Everton,2.0,1.0,H
+api_football,1035467,2023,2024-03-30 15:00:00+00:00,Regular Season - 30,FINISHED,Chelsea,Burnley,2.0,2.0,D
+api_football,1035465,2023,2024-03-30 17:30:00+00:00,Regular Season - 30,FINISHED,Aston Villa,Wolves,2.0,0.0,H
+api_football,1035466,2023,2024-03-30 20:00:00+00:00,Regular Season - 30,FINISHED,Brentford,Manchester United,1.0,1.0,D
+api_football,1035468,2023,2024-03-31 13:00:00+00:00,Regular Season - 30,FINISHED,Liverpool,Brighton,2.0,1.0,H
+api_football,1035469,2023,2024-03-31 15:30:00+00:00,Regular Season - 30,FINISHED,Manchester City,Arsenal,0.0,0.0,D
+api_football,1035481,2023,2024-04-02 18:30:00+00:00,Regular Season - 31,FINISHED,Newcastle,Everton,1.0,1.0,D
+api_football,1035478,2023,2024-04-02 18:30:00+00:00,Regular Season - 31,FINISHED,Nottingham Forest,Fulham,3.0,1.0,H
+api_football,1035474,2023,2024-04-02 18:45:00+00:00,Regular Season - 31,FINISHED,Bournemouth,Crystal Palace,1.0,0.0,H
+api_football,1035477,2023,2024-04-02 18:45:00+00:00,Regular Season - 31,FINISHED,Burnley,Wolves,1.0,1.0,D
+api_football,1035479,2023,2024-04-02 19:15:00+00:00,Regular Season - 31,FINISHED,West Ham,Tottenham,1.0,1.0,D
+api_football,1035475,2023,2024-04-03 18:30:00+00:00,Regular Season - 31,FINISHED,Arsenal,Luton,2.0,0.0,H
+api_football,1035476,2023,2024-04-03 18:30:00+00:00,Regular Season - 31,FINISHED,Brentford,Brighton,0.0,0.0,D
+api_football,1035483,2023,2024-04-03 19:15:00+00:00,Regular Season - 31,FINISHED,Manchester City,Aston Villa,4.0,1.0,H
+api_football,1035482,2023,2024-04-04 18:30:00+00:00,Regular Season - 31,FINISHED,Liverpool,Sheffield Utd,3.0,1.0,H
+api_football,1035480,2023,2024-04-04 19:15:00+00:00,Regular Season - 31,FINISHED,Chelsea,Manchester United,4.0,3.0,H
+api_football,1035486,2023,2024-04-06 11:30:00+00:00,Regular Season - 32,FINISHED,Crystal Palace,Manchester City,2.0,4.0,A
+api_football,1035488,2023,2024-04-06 14:00:00+00:00,Regular Season - 32,FINISHED,Fulham,Newcastle,0.0,1.0,A
+api_football,1035493,2023,2024-04-06 14:00:00+00:00,Regular Season - 32,FINISHED,Wolves,West Ham,1.0,2.0,A
+api_football,1035487,2023,2024-04-06 14:00:00+00:00,Regular Season - 32,FINISHED,Everton,Burnley,1.0,0.0,H
+api_football,1035484,2023,2024-04-06 14:00:00+00:00,Regular Season - 32,FINISHED,Aston Villa,Brentford,3.0,3.0,D
+api_football,1035489,2023,2024-04-06 14:00:00+00:00,Regular Season - 32,FINISHED,Luton,Bournemouth,2.0,1.0,H
+api_football,1035485,2023,2024-04-06 16:30:00+00:00,Regular Season - 32,FINISHED,Brighton,Arsenal,0.0,3.0,A
+api_football,1035490,2023,2024-04-07 14:30:00+00:00,Regular Season - 32,FINISHED,Manchester United,Liverpool,2.0,2.0,D
+api_football,1035491,2023,2024-04-07 16:30:00+00:00,Regular Season - 32,FINISHED,Sheffield Utd,Chelsea,2.0,2.0,D
+api_football,1035492,2023,2024-04-07 17:00:00+00:00,Regular Season - 32,FINISHED,Tottenham,Nottingham Forest,3.0,1.0,H
+api_football,1035501,2023,2024-04-13 11:30:00+00:00,Regular Season - 33,FINISHED,Newcastle,Tottenham,4.0,0.0,H
+api_football,1035502,2023,2024-04-13 14:00:00+00:00,Regular Season - 33,FINISHED,Nottingham Forest,Wolves,2.0,2.0,D
+api_football,1035496,2023,2024-04-13 14:00:00+00:00,Regular Season - 33,FINISHED,Brentford,Sheffield Utd,2.0,0.0,H
+api_football,1035497,2023,2024-04-13 14:00:00+00:00,Regular Season - 33,FINISHED,Burnley,Brighton,1.0,1.0,D
+api_football,1035500,2023,2024-04-13 14:00:00+00:00,Regular Season - 33,FINISHED,Manchester City,Luton,5.0,1.0,H
+api_football,1035494,2023,2024-04-13 16:30:00+00:00,Regular Season - 33,FINISHED,Bournemouth,Manchester United,2.0,2.0,D
+api_football,1035499,2023,2024-04-14 13:00:00+00:00,Regular Season - 33,FINISHED,Liverpool,Crystal Palace,0.0,1.0,A
+api_football,1035503,2023,2024-04-14 13:00:00+00:00,Regular Season - 33,FINISHED,West Ham,Fulham,0.0,2.0,A
+api_football,1035495,2023,2024-04-14 15:30:00+00:00,Regular Season - 33,FINISHED,Arsenal,Aston Villa,0.0,2.0,A
+api_football,1035498,2023,2024-04-15 19:00:00+00:00,Regular Season - 33,FINISHED,Chelsea,Everton,6.0,0.0,H
+api_football,1035511,2023,2024-04-20 14:00:00+00:00,Regular Season - 34,FINISHED,Sheffield Utd,Burnley,1.0,4.0,A
+api_football,1035509,2023,2024-04-20 14:00:00+00:00,Regular Season - 34,FINISHED,Luton,Brentford,1.0,5.0,A
+api_football,1035513,2023,2024-04-20 18:30:00+00:00,Regular Season - 34,FINISHED,Wolves,Arsenal,0.0,2.0,A
+api_football,1035507,2023,2024-04-21 12:30:00+00:00,Regular Season - 34,FINISHED,Everton,Nottingham Forest,2.0,0.0,H
+api_football,1035506,2023,2024-04-21 14:00:00+00:00,Regular Season - 34,FINISHED,Crystal Palace,West Ham,5.0,2.0,H
+api_football,1035504,2023,2024-04-21 14:00:00+00:00,Regular Season - 34,FINISHED,Aston Villa,Bournemouth,3.0,1.0,H
+api_football,1035508,2023,2024-04-21 15:30:00+00:00,Regular Season - 34,FINISHED,Fulham,Liverpool,1.0,3.0,A
+api_football,1035454,2023,2024-04-23 19:00:00+00:00,Regular Season - 29,FINISHED,Arsenal,Chelsea,5.0,0.0,H
+api_football,1035463,2023,2024-04-24 18:45:00+00:00,Regular Season - 29,FINISHED,Wolves,Bournemouth,0.0,1.0,A
+api_football,1035461,2023,2024-04-24 19:00:00+00:00,Regular Season - 29,FINISHED,Manchester United,Sheffield Utd,4.0,2.0,H
+api_football,1035458,2023,2024-04-24 19:00:00+00:00,Regular Season - 29,FINISHED,Everton,Liverpool,2.0,0.0,H
+api_football,1035457,2023,2024-04-24 19:00:00+00:00,Regular Season - 29,FINISHED,Crystal Palace,Newcastle,2.0,0.0,H
+api_football,1035455,2023,2024-04-25 19:00:00+00:00,Regular Season - 29,FINISHED,Brighton,Manchester City,0.0,4.0,A
+api_football,1035522,2023,2024-04-27 11:30:00+00:00,Regular Season - 35,FINISHED,West Ham,Liverpool,2.0,2.0,D
+api_football,1035518,2023,2024-04-27 14:00:00+00:00,Regular Season - 35,FINISHED,Manchester United,Burnley,1.0,1.0,D
+api_football,1035519,2023,2024-04-27 14:00:00+00:00,Regular Season - 35,FINISHED,Newcastle,Sheffield Utd,5.0,1.0,H
+api_football,1035517,2023,2024-04-27 14:00:00+00:00,Regular Season - 35,FINISHED,Fulham,Crystal Palace,1.0,1.0,D
+api_football,1035523,2023,2024-04-27 14:00:00+00:00,Regular Season - 35,FINISHED,Wolves,Luton,2.0,1.0,H
+api_football,1035516,2023,2024-04-27 16:30:00+00:00,Regular Season - 35,FINISHED,Everton,Brentford,1.0,0.0,H
+api_football,1035515,2023,2024-04-27 19:00:00+00:00,Regular Season - 35,FINISHED,Aston Villa,Chelsea,2.0,2.0,D
+api_football,1035514,2023,2024-04-28 13:00:00+00:00,Regular Season - 35,FINISHED,Bournemouth,Brighton,3.0,0.0,H
+api_football,1035521,2023,2024-04-28 13:00:00+00:00,Regular Season - 35,FINISHED,Tottenham,Arsenal,2.0,3.0,A
+api_football,1035520,2023,2024-04-28 15:30:00+00:00,Regular Season - 35,FINISHED,Nottingham Forest,Manchester City,0.0,2.0,A
+api_football,1035428,2023,2024-05-02 18:30:00+00:00,Regular Season - 26,FINISHED,Chelsea,Tottenham,2.0,0.0,H
+api_football,1035531,2023,2024-05-03 19:00:00+00:00,Regular Season - 36,FINISHED,Luton,Everton,1.0,1.0,D
+api_football,1035524,2023,2024-05-04 11:30:00+00:00,Regular Season - 36,FINISHED,Arsenal,Bournemouth,3.0,0.0,H
+api_football,1035527,2023,2024-05-04 14:00:00+00:00,Regular Season - 36,FINISHED,Burnley,Newcastle,1.0,4.0,A
+api_football,1035525,2023,2024-05-04 14:00:00+00:00,Regular Season - 36,FINISHED,Brentford,Fulham,0.0,0.0,D
+api_football,1035533,2023,2024-05-04 14:00:00+00:00,Regular Season - 36,FINISHED,Sheffield Utd,Nottingham Forest,1.0,3.0,A
+api_football,1035532,2023,2024-05-04 16:30:00+00:00,Regular Season - 36,FINISHED,Manchester City,Wolves,5.0,1.0,H
+api_football,1035528,2023,2024-05-05 13:00:00+00:00,Regular Season - 36,FINISHED,Chelsea,West Ham,5.0,0.0,H
+api_football,1035526,2023,2024-05-05 13:00:00+00:00,Regular Season - 36,FINISHED,Brighton,Aston Villa,1.0,0.0,H
+api_football,1035530,2023,2024-05-05 15:30:00+00:00,Regular Season - 36,FINISHED,Liverpool,Tottenham,4.0,2.0,H
+api_football,1035529,2023,2024-05-06 19:00:00+00:00,Regular Season - 36,FINISHED,Crystal Palace,Manchester United,4.0,0.0,H
+api_football,1035537,2023,2024-05-11 11:30:00+00:00,Regular Season - 37,FINISHED,Fulham,Manchester City,0.0,4.0,A
+api_football,1035542,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,West Ham,Luton,3.0,1.0,H
+api_football,1035541,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,Tottenham,Burnley,2.0,1.0,H
+api_football,1035536,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,Everton,Sheffield Utd,1.0,0.0,H
+api_football,1035543,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,Wolves,Crystal Palace,1.0,3.0,A
+api_football,1035534,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,Bournemouth,Brentford,1.0,2.0,A
+api_football,1035539,2023,2024-05-11 14:00:00+00:00,Regular Season - 37,FINISHED,Newcastle,Brighton,1.0,1.0,D
+api_football,1035540,2023,2024-05-11 16:30:00+00:00,Regular Season - 37,FINISHED,Nottingham Forest,Chelsea,2.0,3.0,A
+api_football,1035538,2023,2024-05-12 15:30:00+00:00,Regular Season - 37,FINISHED,Manchester United,Arsenal,0.0,1.0,A
+api_football,1035535,2023,2024-05-13 19:00:00+00:00,Regular Season - 37,FINISHED,Aston Villa,Liverpool,3.0,3.0,D
+api_football,1035512,2023,2024-05-14 19:00:00+00:00,Regular Season - 34,FINISHED,Tottenham,Manchester City,0.0,2.0,A
+api_football,1035505,2023,2024-05-15 18:45:00+00:00,Regular Season - 34,FINISHED,Brighton,Chelsea,1.0,2.0,A
+api_football,1035510,2023,2024-05-15 19:00:00+00:00,Regular Season - 34,FINISHED,Manchester United,Newcastle,3.0,2.0,H
+api_football,1035551,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Luton,Fulham,2.0,4.0,A
+api_football,1035553,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Sheffield Utd,Tottenham,0.0,3.0,A
+api_football,1035545,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Brentford,Newcastle,2.0,4.0,A
+api_football,1035549,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Crystal Palace,Aston Villa,5.0,0.0,H
+api_football,1035546,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Brighton,Manchester United,0.0,2.0,A
+api_football,1035548,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Chelsea,Bournemouth,2.0,1.0,H
+api_football,1035547,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Burnley,Nottingham Forest,1.0,2.0,A
+api_football,1035544,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Arsenal,Everton,2.0,1.0,H
+api_football,1035550,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Liverpool,Wolves,2.0,0.0,H
+api_football,1035552,2023,2024-05-19 15:00:00+00:00,Regular Season - 38,FINISHED,Manchester City,West Ham,3.0,1.0,H
+api_football,1208021,2024,2024-08-16 19:00:00+00:00,Regular Season - 1,FINISHED,Manchester United,Fulham,1.0,0.0,H
+api_football,1208022,2024,2024-08-17 11:30:00+00:00,Regular Season - 1,FINISHED,Ipswich,Liverpool,0.0,2.0,A
+api_football,1208025,2024,2024-08-17 14:00:00+00:00,Regular Season - 1,FINISHED,Newcastle,Southampton,1.0,0.0,H
+api_football,1208023,2024,2024-08-17 14:00:00+00:00,Regular Season - 1,FINISHED,Arsenal,Wolves,2.0,0.0,H
+api_football,1208024,2024,2024-08-17 14:00:00+00:00,Regular Season - 1,FINISHED,Everton,Brighton,0.0,3.0,A
+api_football,1208026,2024,2024-08-17 14:00:00+00:00,Regular Season - 1,FINISHED,Nottingham Forest,Bournemouth,1.0,1.0,D
+api_football,1208027,2024,2024-08-17 16:30:00+00:00,Regular Season - 1,FINISHED,West Ham,Aston Villa,1.0,2.0,A
+api_football,1208028,2024,2024-08-18 13:00:00+00:00,Regular Season - 1,FINISHED,Brentford,Crystal Palace,2.0,1.0,H
+api_football,1208029,2024,2024-08-18 15:30:00+00:00,Regular Season - 1,FINISHED,Chelsea,Manchester City,0.0,2.0,A
+api_football,1208030,2024,2024-08-19 19:00:00+00:00,Regular Season - 1,FINISHED,Leicester,Tottenham,1.0,1.0,D
+api_football,1208033,2024,2024-08-24 11:30:00+00:00,Regular Season - 2,FINISHED,Brighton,Manchester United,2.0,1.0,H
+api_football,1208035,2024,2024-08-24 14:00:00+00:00,Regular Season - 2,FINISHED,Fulham,Leicester,2.0,1.0,H
+api_football,1208038,2024,2024-08-24 14:00:00+00:00,Regular Season - 2,FINISHED,Southampton,Nottingham Forest,0.0,1.0,A
+api_football,1208039,2024,2024-08-24 14:00:00+00:00,Regular Season - 2,FINISHED,Tottenham,Everton,4.0,0.0,H
+api_football,1208037,2024,2024-08-24 14:00:00+00:00,Regular Season - 2,FINISHED,Manchester City,Ipswich,4.0,1.0,H
+api_football,1208034,2024,2024-08-24 14:00:00+00:00,Regular Season - 2,FINISHED,Crystal Palace,West Ham,0.0,2.0,A
+api_football,1208032,2024,2024-08-24 16:30:00+00:00,Regular Season - 2,FINISHED,Aston Villa,Arsenal,0.0,2.0,A
+api_football,1208031,2024,2024-08-25 13:00:00+00:00,Regular Season - 2,FINISHED,Bournemouth,Newcastle,1.0,1.0,D
+api_football,1208040,2024,2024-08-25 13:00:00+00:00,Regular Season - 2,FINISHED,Wolves,Chelsea,2.0,6.0,A
+api_football,1208036,2024,2024-08-25 15:30:00+00:00,Regular Season - 2,FINISHED,Liverpool,Brentford,2.0,0.0,H
+api_football,1208041,2024,2024-08-31 11:30:00+00:00,Regular Season - 3,FINISHED,Arsenal,Brighton,1.0,1.0,D
+api_football,1208045,2024,2024-08-31 14:00:00+00:00,Regular Season - 3,FINISHED,Ipswich,Fulham,1.0,1.0,D
+api_football,1208042,2024,2024-08-31 14:00:00+00:00,Regular Season - 3,FINISHED,Brentford,Southampton,3.0,1.0,H
+api_football,1208049,2024,2024-08-31 14:00:00+00:00,Regular Season - 3,FINISHED,Nottingham Forest,Wolves,1.0,1.0,D
+api_football,1208044,2024,2024-08-31 14:00:00+00:00,Regular Season - 3,FINISHED,Everton,Bournemouth,2.0,3.0,A
+api_football,1208046,2024,2024-08-31 14:00:00+00:00,Regular Season - 3,FINISHED,Leicester,Aston Villa,1.0,2.0,A
+api_football,1208050,2024,2024-08-31 16:30:00+00:00,Regular Season - 3,FINISHED,West Ham,Manchester City,1.0,3.0,A
+api_football,1208048,2024,2024-09-01 12:30:00+00:00,Regular Season - 3,FINISHED,Newcastle,Tottenham,2.0,1.0,H
+api_football,1208043,2024,2024-09-01 12:30:00+00:00,Regular Season - 3,FINISHED,Chelsea,Crystal Palace,1.0,1.0,D
+api_football,1208047,2024,2024-09-01 15:00:00+00:00,Regular Season - 3,FINISHED,Manchester United,Liverpool,0.0,3.0,A
+api_football,1208058,2024,2024-09-14 11:30:00+00:00,Regular Season - 4,FINISHED,Southampton,Manchester United,0.0,3.0,A
+api_football,1208055,2024,2024-09-14 14:00:00+00:00,Regular Season - 4,FINISHED,Fulham,West Ham,1.0,1.0,D
+api_football,1208056,2024,2024-09-14 14:00:00+00:00,Regular Season - 4,FINISHED,Liverpool,Nottingham Forest,0.0,1.0,A
+api_football,1208057,2024,2024-09-14 14:00:00+00:00,Regular Season - 4,FINISHED,Manchester City,Brentford,2.0,1.0,H
+api_football,1208053,2024,2024-09-14 14:00:00+00:00,Regular Season - 4,FINISHED,Brighton,Ipswich,0.0,0.0,D
+api_football,1208054,2024,2024-09-14 14:00:00+00:00,Regular Season - 4,FINISHED,Crystal Palace,Leicester,2.0,2.0,D
+api_football,1208052,2024,2024-09-14 16:30:00+00:00,Regular Season - 4,FINISHED,Aston Villa,Everton,3.0,2.0,H
+api_football,1208051,2024,2024-09-14 19:00:00+00:00,Regular Season - 4,FINISHED,Bournemouth,Chelsea,0.0,1.0,A
+api_football,1208059,2024,2024-09-15 13:00:00+00:00,Regular Season - 4,FINISHED,Tottenham,Arsenal,0.0,1.0,A
+api_football,1208060,2024,2024-09-15 15:30:00+00:00,Regular Season - 4,FINISHED,Wolves,Newcastle,1.0,2.0,A
+api_football,1208070,2024,2024-09-21 11:30:00+00:00,Regular Season - 5,FINISHED,West Ham,Chelsea,0.0,3.0,A
+api_football,1208064,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Fulham,Newcastle,3.0,1.0,H
+api_football,1208066,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Liverpool,Bournemouth,3.0,0.0,H
+api_football,1208068,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Southampton,Ipswich,1.0,1.0,D
+api_football,1208065,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Leicester,Everton,1.0,1.0,D
+api_football,1208069,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Tottenham,Brentford,3.0,1.0,H
+api_football,1208061,2024,2024-09-21 14:00:00+00:00,Regular Season - 5,FINISHED,Aston Villa,Wolves,3.0,1.0,H
+api_football,1208063,2024,2024-09-21 16:30:00+00:00,Regular Season - 5,FINISHED,Crystal Palace,Manchester United,0.0,0.0,D
+api_football,1208062,2024,2024-09-22 13:00:00+00:00,Regular Season - 5,FINISHED,Brighton,Nottingham Forest,2.0,2.0,D
+api_football,1208067,2024,2024-09-22 15:30:00+00:00,Regular Season - 5,FINISHED,Manchester City,Arsenal,2.0,2.0,D
+api_football,1208078,2024,2024-09-28 11:30:00+00:00,Regular Season - 6,FINISHED,Newcastle,Manchester City,1.0,1.0,D
+api_football,1208073,2024,2024-09-28 14:00:00+00:00,Regular Season - 6,FINISHED,Brentford,West Ham,1.0,1.0,D
+api_football,1208074,2024,2024-09-28 14:00:00+00:00,Regular Season - 6,FINISHED,Chelsea,Brighton,4.0,2.0,H
+api_football,1208079,2024,2024-09-28 14:00:00+00:00,Regular Season - 6,FINISHED,Nottingham Forest,Fulham,0.0,1.0,A
+api_football,1208072,2024,2024-09-28 14:00:00+00:00,Regular Season - 6,FINISHED,Arsenal,Leicester,4.0,2.0,H
+api_football,1208075,2024,2024-09-28 14:00:00+00:00,Regular Season - 6,FINISHED,Everton,Crystal Palace,2.0,1.0,H
+api_football,1208080,2024,2024-09-28 16:30:00+00:00,Regular Season - 6,FINISHED,Wolves,Liverpool,1.0,2.0,A
+api_football,1208076,2024,2024-09-29 13:00:00+00:00,Regular Season - 6,FINISHED,Ipswich,Aston Villa,2.0,2.0,D
+api_football,1208077,2024,2024-09-29 15:30:00+00:00,Regular Season - 6,FINISHED,Manchester United,Tottenham,0.0,3.0,A
+api_football,1208071,2024,2024-09-30 19:00:00+00:00,Regular Season - 6,FINISHED,Bournemouth,Southampton,3.0,1.0,H
+api_football,1208086,2024,2024-10-05 11:30:00+00:00,Regular Season - 7,FINISHED,Crystal Palace,Liverpool,0.0,1.0,A
+api_football,1208081,2024,2024-10-05 14:00:00+00:00,Regular Season - 7,FINISHED,Arsenal,Southampton,3.0,1.0,H
+api_football,1208088,2024,2024-10-05 14:00:00+00:00,Regular Season - 7,FINISHED,Leicester,Bournemouth,1.0,0.0,H
+api_football,1208090,2024,2024-10-05 14:00:00+00:00,Regular Season - 7,FINISHED,West Ham,Ipswich,4.0,1.0,H
+api_football,1208089,2024,2024-10-05 14:00:00+00:00,Regular Season - 7,FINISHED,Manchester City,Fulham,3.0,2.0,H
+api_football,1208083,2024,2024-10-05 14:00:00+00:00,Regular Season - 7,FINISHED,Brentford,Wolves,5.0,3.0,H
+api_football,1208087,2024,2024-10-05 16:30:00+00:00,Regular Season - 7,FINISHED,Everton,Newcastle,0.0,0.0,D
+api_football,1208082,2024,2024-10-06 13:00:00+00:00,Regular Season - 7,FINISHED,Aston Villa,Manchester United,0.0,0.0,D
+api_football,1208085,2024,2024-10-06 13:00:00+00:00,Regular Season - 7,FINISHED,Chelsea,Nottingham Forest,1.0,1.0,D
+api_football,1208084,2024,2024-10-06 15:30:00+00:00,Regular Season - 7,FINISHED,Brighton,Tottenham,3.0,2.0,H
+api_football,1208099,2024,2024-10-19 11:30:00+00:00,Regular Season - 8,FINISHED,Tottenham,West Ham,4.0,1.0,H
+api_football,1208095,2024,2024-10-19 14:00:00+00:00,Regular Season - 8,FINISHED,Manchester United,Brentford,2.0,1.0,H
+api_football,1208096,2024,2024-10-19 14:00:00+00:00,Regular Season - 8,FINISHED,Newcastle,Brighton,0.0,1.0,A
+api_football,1208092,2024,2024-10-19 14:00:00+00:00,Regular Season - 8,FINISHED,Fulham,Aston Villa,1.0,3.0,A
+api_football,1208098,2024,2024-10-19 14:00:00+00:00,Regular Season - 8,FINISHED,Southampton,Leicester,2.0,3.0,A
+api_football,1208093,2024,2024-10-19 14:00:00+00:00,Regular Season - 8,FINISHED,Ipswich,Everton,0.0,2.0,A
+api_football,1208091,2024,2024-10-19 16:30:00+00:00,Regular Season - 8,FINISHED,Bournemouth,Arsenal,2.0,0.0,H
+api_football,1208100,2024,2024-10-20 13:00:00+00:00,Regular Season - 8,FINISHED,Wolves,Manchester City,1.0,2.0,A
+api_football,1208094,2024,2024-10-20 15:30:00+00:00,Regular Season - 8,FINISHED,Liverpool,Chelsea,2.0,1.0,H
+api_football,1208097,2024,2024-10-21 19:00:00+00:00,Regular Season - 8,FINISHED,Nottingham Forest,Crystal Palace,1.0,0.0,H
+api_football,1208110,2024,2024-10-25 19:00:00+00:00,Regular Season - 9,FINISHED,Leicester,Nottingham Forest,1.0,3.0,A
+api_football,1208105,2024,2024-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Brentford,Ipswich,4.0,3.0,H
+api_football,1208104,2024,2024-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Aston Villa,Bournemouth,1.0,1.0,D
+api_football,1208111,2024,2024-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Manchester City,Southampton,1.0,0.0,H
+api_football,1208106,2024,2024-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Brighton,Wolves,2.0,2.0,D
+api_football,1208109,2024,2024-10-26 16:30:00+00:00,Regular Season - 9,FINISHED,Everton,Fulham,1.0,1.0,D
+api_football,1208112,2024,2024-10-27 13:00:00+00:00,Regular Season - 9,FINISHED,West Ham,Manchester United,2.0,1.0,H
+api_football,1208107,2024,2024-10-27 13:00:00+00:00,Regular Season - 9,FINISHED,Chelsea,Newcastle,2.0,1.0,H
+api_football,1208108,2024,2024-10-27 13:00:00+00:00,Regular Season - 9,FINISHED,Crystal Palace,Tottenham,1.0,0.0,H
+api_football,1208103,2024,2024-10-27 15:30:00+00:00,Regular Season - 9,FINISHED,Arsenal,Liverpool,2.0,2.0,D
+api_football,1208118,2024,2024-11-02 12:30:00+00:00,Regular Season - 10,FINISHED,Newcastle,Arsenal,1.0,0.0,H
+api_football,1208113,2024,2024-11-02 15:00:00+00:00,Regular Season - 10,FINISHED,Bournemouth,Manchester City,2.0,1.0,H
+api_football,1208116,2024,2024-11-02 15:00:00+00:00,Regular Season - 10,FINISHED,Liverpool,Brighton,2.0,1.0,H
+api_football,1208120,2024,2024-11-02 15:00:00+00:00,Regular Season - 10,FINISHED,Southampton,Everton,1.0,0.0,H
+api_football,1208115,2024,2024-11-02 15:00:00+00:00,Regular Season - 10,FINISHED,Ipswich,Leicester,1.0,1.0,D
+api_football,1208119,2024,2024-11-02 15:00:00+00:00,Regular Season - 10,FINISHED,Nottingham Forest,West Ham,3.0,0.0,H
+api_football,1208122,2024,2024-11-02 17:30:00+00:00,Regular Season - 10,FINISHED,Wolves,Crystal Palace,2.0,2.0,D
+api_football,1208121,2024,2024-11-03 14:00:00+00:00,Regular Season - 10,FINISHED,Tottenham,Aston Villa,4.0,1.0,H
+api_football,1208117,2024,2024-11-03 16:30:00+00:00,Regular Season - 10,FINISHED,Manchester United,Chelsea,1.0,1.0,D
+api_football,1208114,2024,2024-11-04 20:00:00+00:00,Regular Season - 10,FINISHED,Fulham,Brentford,2.0,1.0,H
+api_football,1208132,2024,2024-11-09 15:00:00+00:00,Regular Season - 11,FINISHED,Wolves,Southampton,2.0,0.0,H
+api_football,1208131,2024,2024-11-09 15:00:00+00:00,Regular Season - 11,FINISHED,West Ham,Everton,0.0,0.0,D
+api_football,1208126,2024,2024-11-09 15:00:00+00:00,Regular Season - 11,FINISHED,Crystal Palace,Fulham,0.0,2.0,A
+api_football,1208123,2024,2024-11-09 15:00:00+00:00,Regular Season - 11,FINISHED,Brentford,Bournemouth,3.0,2.0,H
+api_football,1208124,2024,2024-11-09 17:30:00+00:00,Regular Season - 11,FINISHED,Brighton,Manchester City,2.0,1.0,H
+api_football,1208127,2024,2024-11-09 20:00:00+00:00,Regular Season - 11,FINISHED,Liverpool,Aston Villa,2.0,0.0,H
+api_football,1208128,2024,2024-11-10 14:00:00+00:00,Regular Season - 11,FINISHED,Manchester United,Leicester,3.0,0.0,H
+api_football,1208130,2024,2024-11-10 14:00:00+00:00,Regular Season - 11,FINISHED,Tottenham,Ipswich,1.0,2.0,A
+api_football,1208129,2024,2024-11-10 14:00:00+00:00,Regular Season - 11,FINISHED,Nottingham Forest,Newcastle,1.0,3.0,A
+api_football,1208125,2024,2024-11-10 16:30:00+00:00,Regular Season - 11,FINISHED,Chelsea,Arsenal,1.0,1.0,D
+api_football,1208139,2024,2024-11-23 12:30:00+00:00,Regular Season - 12,FINISHED,Leicester,Chelsea,1.0,2.0,A
+api_football,1208135,2024,2024-11-23 15:00:00+00:00,Regular Season - 12,FINISHED,Aston Villa,Crystal Palace,2.0,2.0,D
+api_football,1208134,2024,2024-11-23 15:00:00+00:00,Regular Season - 12,FINISHED,Arsenal,Nottingham Forest,3.0,0.0,H
+api_football,1208136,2024,2024-11-23 15:00:00+00:00,Regular Season - 12,FINISHED,Everton,Brentford,0.0,0.0,D
+api_football,1208133,2024,2024-11-23 15:00:00+00:00,Regular Season - 12,FINISHED,Bournemouth,Brighton,1.0,2.0,A
+api_football,1208137,2024,2024-11-23 15:00:00+00:00,Regular Season - 12,FINISHED,Fulham,Wolves,1.0,4.0,A
+api_football,1208140,2024,2024-11-23 17:30:00+00:00,Regular Season - 12,FINISHED,Manchester City,Tottenham,0.0,4.0,A
+api_football,1208142,2024,2024-11-24 14:00:00+00:00,Regular Season - 12,FINISHED,Southampton,Liverpool,2.0,3.0,A
+api_football,1208138,2024,2024-11-24 16:30:00+00:00,Regular Season - 12,FINISHED,Ipswich,Manchester United,1.0,1.0,D
+api_football,1208141,2024,2024-11-25 20:00:00+00:00,Regular Season - 12,FINISHED,Newcastle,West Ham,0.0,2.0,A
+api_football,1208144,2024,2024-11-29 20:00:00+00:00,Regular Season - 13,FINISHED,Brighton,Southampton,1.0,1.0,D
+api_football,1208152,2024,2024-11-30 15:00:00+00:00,Regular Season - 13,FINISHED,Wolves,Bournemouth,2.0,4.0,A
+api_football,1208146,2024,2024-11-30 15:00:00+00:00,Regular Season - 13,FINISHED,Crystal Palace,Newcastle,1.0,1.0,D
+api_football,1208143,2024,2024-11-30 15:00:00+00:00,Regular Season - 13,FINISHED,Brentford,Leicester,4.0,1.0,H
+api_football,1208149,2024,2024-11-30 15:00:00+00:00,Regular Season - 13,FINISHED,Nottingham Forest,Ipswich,1.0,0.0,H
+api_football,1208151,2024,2024-11-30 17:30:00+00:00,Regular Season - 13,FINISHED,West Ham,Arsenal,2.0,5.0,A
+api_football,1208150,2024,2024-12-01 13:30:00+00:00,Regular Season - 13,FINISHED,Tottenham,Fulham,1.0,1.0,D
+api_football,1208148,2024,2024-12-01 13:30:00+00:00,Regular Season - 13,FINISHED,Manchester United,Everton,4.0,0.0,H
+api_football,1208145,2024,2024-12-01 13:30:00+00:00,Regular Season - 13,FINISHED,Chelsea,Aston Villa,3.0,0.0,H
+api_football,1208147,2024,2024-12-01 16:00:00+00:00,Regular Season - 13,FINISHED,Liverpool,Manchester City,2.0,0.0,H
+api_football,1208158,2024,2024-12-03 19:30:00+00:00,Regular Season - 14,FINISHED,Ipswich,Crystal Palace,0.0,1.0,A
+api_football,1208159,2024,2024-12-03 20:15:00+00:00,Regular Season - 14,FINISHED,Leicester,West Ham,3.0,1.0,H
+api_football,1208161,2024,2024-12-04 19:30:00+00:00,Regular Season - 14,FINISHED,Newcastle,Liverpool,3.0,3.0,D
+api_football,1208162,2024,2024-12-04 19:30:00+00:00,Regular Season - 14,FINISHED,Southampton,Chelsea,1.0,5.0,A
+api_football,1208156,2024,2024-12-04 19:30:00+00:00,Regular Season - 14,FINISHED,Everton,Wolves,4.0,0.0,H
+api_football,1208160,2024,2024-12-04 19:30:00+00:00,Regular Season - 14,FINISHED,Manchester City,Nottingham Forest,3.0,0.0,H
+api_football,1208154,2024,2024-12-04 20:15:00+00:00,Regular Season - 14,FINISHED,Arsenal,Manchester United,2.0,0.0,H
+api_football,1208155,2024,2024-12-04 20:15:00+00:00,Regular Season - 14,FINISHED,Aston Villa,Brentford,3.0,1.0,H
+api_football,1208157,2024,2024-12-05 19:30:00+00:00,Regular Season - 14,FINISHED,Fulham,Brighton,3.0,1.0,H
+api_football,1208153,2024,2024-12-05 20:15:00+00:00,Regular Season - 14,FINISHED,Bournemouth,Tottenham,1.0,0.0,H
+api_football,1208165,2024,2024-12-07 15:00:00+00:00,Regular Season - 15,FINISHED,Crystal Palace,Manchester City,2.0,2.0,D
+api_football,1208164,2024,2024-12-07 15:00:00+00:00,Regular Season - 15,FINISHED,Brentford,Newcastle,4.0,2.0,H
+api_football,1208163,2024,2024-12-07 15:00:00+00:00,Regular Season - 15,FINISHED,Aston Villa,Southampton,1.0,0.0,H
+api_football,1208170,2024,2024-12-07 17:30:00+00:00,Regular Season - 15,FINISHED,Manchester United,Nottingham Forest,2.0,3.0,A
+api_football,1208168,2024,2024-12-08 14:00:00+00:00,Regular Season - 15,FINISHED,Ipswich,Bournemouth,1.0,2.0,A
+api_football,1208167,2024,2024-12-08 14:00:00+00:00,Regular Season - 15,FINISHED,Fulham,Arsenal,1.0,1.0,D
+api_football,1208169,2024,2024-12-08 14:00:00+00:00,Regular Season - 15,FINISHED,Leicester,Brighton,2.0,2.0,D
+api_football,1208171,2024,2024-12-08 16:30:00+00:00,Regular Season - 15,FINISHED,Tottenham,Chelsea,3.0,4.0,A
+api_football,1208172,2024,2024-12-09 20:00:00+00:00,Regular Season - 15,FINISHED,West Ham,Wolves,2.0,1.0,H
+api_football,1208179,2024,2024-12-14 15:00:00+00:00,Regular Season - 16,FINISHED,Newcastle,Leicester,4.0,0.0,H
+api_football,1208182,2024,2024-12-14 15:00:00+00:00,Regular Season - 16,FINISHED,Wolves,Ipswich,1.0,2.0,A
+api_football,1208177,2024,2024-12-14 15:00:00+00:00,Regular Season - 16,FINISHED,Liverpool,Fulham,2.0,2.0,D
+api_football,1208174,2024,2024-12-14 15:00:00+00:00,Regular Season - 16,FINISHED,Arsenal,Everton,0.0,0.0,D
+api_football,1208180,2024,2024-12-14 17:30:00+00:00,Regular Season - 16,FINISHED,Nottingham Forest,Aston Villa,2.0,1.0,H
+api_football,1208175,2024,2024-12-15 14:00:00+00:00,Regular Season - 16,FINISHED,Brighton,Crystal Palace,1.0,3.0,A
+api_football,1208178,2024,2024-12-15 16:30:00+00:00,Regular Season - 16,FINISHED,Manchester City,Manchester United,1.0,2.0,A
+api_football,1208176,2024,2024-12-15 19:00:00+00:00,Regular Season - 16,FINISHED,Chelsea,Brentford,2.0,1.0,H
+api_football,1208181,2024,2024-12-15 19:00:00+00:00,Regular Season - 16,FINISHED,Southampton,Tottenham,0.0,5.0,A
+api_football,1208173,2024,2024-12-16 20:00:00+00:00,Regular Season - 16,FINISHED,Bournemouth,West Ham,1.0,1.0,D
+api_football,1208183,2024,2024-12-21 12:30:00+00:00,Regular Season - 17,FINISHED,Aston Villa,Manchester City,2.0,1.0,H
+api_football,1208192,2024,2024-12-21 15:00:00+00:00,Regular Season - 17,FINISHED,West Ham,Brighton,1.0,1.0,D
+api_football,1208184,2024,2024-12-21 15:00:00+00:00,Regular Season - 17,FINISHED,Brentford,Nottingham Forest,0.0,2.0,A
+api_football,1208188,2024,2024-12-21 15:00:00+00:00,Regular Season - 17,FINISHED,Ipswich,Newcastle,0.0,4.0,A
+api_football,1208185,2024,2024-12-21 17:30:00+00:00,Regular Season - 17,FINISHED,Crystal Palace,Arsenal,1.0,5.0,A
+api_football,1208190,2024,2024-12-22 14:00:00+00:00,Regular Season - 17,FINISHED,Manchester United,Bournemouth,0.0,3.0,A
+api_football,1208187,2024,2024-12-22 14:00:00+00:00,Regular Season - 17,FINISHED,Fulham,Southampton,0.0,0.0,D
+api_football,1208186,2024,2024-12-22 14:00:00+00:00,Regular Season - 17,FINISHED,Everton,Chelsea,0.0,0.0,D
+api_football,1208189,2024,2024-12-22 14:00:00+00:00,Regular Season - 17,FINISHED,Leicester,Wolves,0.0,3.0,A
+api_football,1208191,2024,2024-12-22 16:30:00+00:00,Regular Season - 17,FINISHED,Tottenham,Liverpool,3.0,6.0,A
+api_football,1208198,2024,2024-12-26 12:30:00+00:00,Regular Season - 18,FINISHED,Manchester City,Everton,1.0,1.0,D
+api_football,1208196,2024,2024-12-26 15:00:00+00:00,Regular Season - 18,FINISHED,Chelsea,Fulham,1.0,2.0,A
+api_football,1208201,2024,2024-12-26 15:00:00+00:00,Regular Season - 18,FINISHED,Southampton,West Ham,0.0,1.0,A
+api_football,1208200,2024,2024-12-26 15:00:00+00:00,Regular Season - 18,FINISHED,Nottingham Forest,Tottenham,1.0,0.0,H
+api_football,1208199,2024,2024-12-26 15:00:00+00:00,Regular Season - 18,FINISHED,Newcastle,Aston Villa,3.0,0.0,H
+api_football,1208193,2024,2024-12-26 15:00:00+00:00,Regular Season - 18,FINISHED,Bournemouth,Crystal Palace,0.0,0.0,D
+api_football,1208202,2024,2024-12-26 17:30:00+00:00,Regular Season - 18,FINISHED,Wolves,Manchester United,2.0,0.0,H
+api_football,1208197,2024,2024-12-26 20:00:00+00:00,Regular Season - 18,FINISHED,Liverpool,Leicester,3.0,1.0,H
+api_football,1208195,2024,2024-12-27 19:30:00+00:00,Regular Season - 18,FINISHED,Brighton,Brentford,0.0,0.0,D
+api_football,1208194,2024,2024-12-27 20:15:00+00:00,Regular Season - 18,FINISHED,Arsenal,Ipswich,1.0,0.0,H
+api_football,1208209,2024,2024-12-29 14:30:00+00:00,Regular Season - 19,FINISHED,Leicester,Manchester City,0.0,2.0,A
+api_football,1208207,2024,2024-12-29 15:00:00+00:00,Regular Season - 19,FINISHED,Fulham,Bournemouth,2.0,2.0,D
+api_football,1208206,2024,2024-12-29 15:00:00+00:00,Regular Season - 19,FINISHED,Everton,Nottingham Forest,0.0,2.0,A
+api_football,1208211,2024,2024-12-29 15:00:00+00:00,Regular Season - 19,FINISHED,Tottenham,Wolves,2.0,2.0,D
+api_football,1208205,2024,2024-12-29 15:00:00+00:00,Regular Season - 19,FINISHED,Crystal Palace,Southampton,2.0,1.0,H
+api_football,1208212,2024,2024-12-29 17:15:00+00:00,Regular Season - 19,FINISHED,West Ham,Liverpool,0.0,5.0,A
+api_football,1208208,2024,2024-12-30 19:45:00+00:00,Regular Season - 19,FINISHED,Ipswich,Chelsea,2.0,0.0,H
+api_football,1208203,2024,2024-12-30 19:45:00+00:00,Regular Season - 19,FINISHED,Aston Villa,Brighton,2.0,2.0,D
+api_football,1208210,2024,2024-12-30 20:00:00+00:00,Regular Season - 19,FINISHED,Manchester United,Newcastle,0.0,2.0,A
+api_football,1208204,2024,2025-01-01 17:30:00+00:00,Regular Season - 19,FINISHED,Brentford,Arsenal,1.0,3.0,A
+api_football,1208221,2024,2025-01-04 12:30:00+00:00,Regular Season - 20,FINISHED,Tottenham,Newcastle,1.0,2.0,A
+api_football,1208213,2024,2025-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Bournemouth,Everton,1.0,0.0,H
+api_football,1208220,2024,2025-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Southampton,Brentford,0.0,5.0,A
+api_football,1208219,2024,2025-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Manchester City,West Ham,4.0,1.0,H
+api_football,1208216,2024,2025-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Crystal Palace,Chelsea,1.0,1.0,D
+api_football,1208214,2024,2025-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Aston Villa,Leicester,2.0,1.0,H
+api_football,1208215,2024,2025-01-04 17:30:00+00:00,Regular Season - 20,FINISHED,Brighton,Arsenal,1.0,1.0,D
+api_football,1208217,2024,2025-01-05 14:00:00+00:00,Regular Season - 20,FINISHED,Fulham,Ipswich,2.0,2.0,D
+api_football,1208218,2024,2025-01-05 16:30:00+00:00,Regular Season - 20,FINISHED,Liverpool,Manchester United,2.0,2.0,D
+api_football,1208222,2024,2025-01-06 20:00:00+00:00,Regular Season - 20,FINISHED,Wolves,Nottingham Forest,0.0,3.0,A
+api_football,1208229,2024,2025-01-14 19:30:00+00:00,Regular Season - 21,FINISHED,West Ham,Fulham,3.0,2.0,H
+api_football,1208230,2024,2025-01-14 19:30:00+00:00,Regular Season - 21,FINISHED,Chelsea,Bournemouth,2.0,2.0,D
+api_football,1208224,2024,2025-01-14 19:30:00+00:00,Regular Season - 21,FINISHED,Brentford,Manchester City,2.0,2.0,D
+api_football,1208228,2024,2025-01-14 20:00:00+00:00,Regular Season - 21,FINISHED,Nottingham Forest,Liverpool,1.0,1.0,D
+api_football,1208227,2024,2025-01-15 19:30:00+00:00,Regular Season - 21,FINISHED,Leicester,Crystal Palace,0.0,2.0,A
+api_football,1208231,2024,2025-01-15 19:30:00+00:00,Regular Season - 21,FINISHED,Newcastle,Wolves,3.0,0.0,H
+api_football,1208225,2024,2025-01-15 19:30:00+00:00,Regular Season - 21,FINISHED,Everton,Aston Villa,0.0,1.0,A
+api_football,1208223,2024,2025-01-15 20:00:00+00:00,Regular Season - 21,FINISHED,Arsenal,Tottenham,2.0,1.0,H
+api_football,1208226,2024,2025-01-16 19:30:00+00:00,Regular Season - 21,FINISHED,Ipswich,Brighton,0.0,2.0,A
+api_football,1208232,2024,2025-01-16 20:00:00+00:00,Regular Season - 21,FINISHED,Manchester United,Southampton,3.0,1.0,H
+api_football,1208240,2024,2025-01-18 12:30:00+00:00,Regular Season - 22,FINISHED,Newcastle,Bournemouth,1.0,4.0,A
+api_football,1208238,2024,2025-01-18 15:00:00+00:00,Regular Season - 22,FINISHED,Leicester,Fulham,0.0,2.0,A
+api_football,1208242,2024,2025-01-18 15:00:00+00:00,Regular Season - 22,FINISHED,West Ham,Crystal Palace,0.0,2.0,A
+api_football,1208234,2024,2025-01-18 15:00:00+00:00,Regular Season - 22,FINISHED,Brentford,Liverpool,0.0,2.0,A
+api_football,1208233,2024,2025-01-18 17:30:00+00:00,Regular Season - 22,FINISHED,Arsenal,Aston Villa,2.0,2.0,D
+api_football,1208241,2024,2025-01-19 14:00:00+00:00,Regular Season - 22,FINISHED,Nottingham Forest,Southampton,3.0,2.0,H
+api_football,1208239,2024,2025-01-19 14:00:00+00:00,Regular Season - 22,FINISHED,Manchester United,Brighton,1.0,3.0,A
+api_football,1208236,2024,2025-01-19 14:00:00+00:00,Regular Season - 22,FINISHED,Everton,Tottenham,3.0,2.0,H
+api_football,1208237,2024,2025-01-19 16:30:00+00:00,Regular Season - 22,FINISHED,Ipswich,Manchester City,0.0,6.0,A
+api_football,1208235,2024,2025-01-20 20:00:00+00:00,Regular Season - 22,FINISHED,Chelsea,Wolves,3.0,1.0,H
+api_football,1208243,2024,2025-01-25 15:00:00+00:00,Regular Season - 23,FINISHED,Bournemouth,Nottingham Forest,5.0,0.0,H
+api_football,1208252,2024,2025-01-25 15:00:00+00:00,Regular Season - 23,FINISHED,Wolves,Arsenal,0.0,1.0,A
+api_football,1208248,2024,2025-01-25 15:00:00+00:00,Regular Season - 23,FINISHED,Liverpool,Ipswich,4.0,1.0,H
+api_football,1208250,2024,2025-01-25 15:00:00+00:00,Regular Season - 23,FINISHED,Southampton,Newcastle,1.0,3.0,A
+api_football,1208245,2024,2025-01-25 15:00:00+00:00,Regular Season - 23,FINISHED,Brighton,Everton,0.0,1.0,A
+api_football,1208249,2024,2025-01-25 17:30:00+00:00,Regular Season - 23,FINISHED,Manchester City,Chelsea,3.0,1.0,H
+api_football,1208251,2024,2025-01-26 14:00:00+00:00,Regular Season - 23,FINISHED,Tottenham,Leicester,1.0,2.0,A
+api_football,1208246,2024,2025-01-26 14:00:00+00:00,Regular Season - 23,FINISHED,Crystal Palace,Brentford,1.0,2.0,A
+api_football,1208244,2024,2025-01-26 16:30:00+00:00,Regular Season - 23,FINISHED,Aston Villa,West Ham,1.0,1.0,D
+api_football,1208247,2024,2025-01-26 19:00:00+00:00,Regular Season - 23,FINISHED,Fulham,Manchester United,0.0,1.0,A
+api_football,1208261,2024,2025-02-01 12:30:00+00:00,Regular Season - 24,FINISHED,Nottingham Forest,Brighton,7.0,0.0,H
+api_football,1208257,2024,2025-02-01 15:00:00+00:00,Regular Season - 24,FINISHED,Everton,Leicester,4.0,0.0,H
+api_football,1208258,2024,2025-02-01 15:00:00+00:00,Regular Season - 24,FINISHED,Ipswich,Southampton,1.0,2.0,A
+api_football,1208260,2024,2025-02-01 15:00:00+00:00,Regular Season - 24,FINISHED,Newcastle,Fulham,1.0,2.0,A
+api_football,1208253,2024,2025-02-01 15:00:00+00:00,Regular Season - 24,FINISHED,Bournemouth,Liverpool,0.0,2.0,A
+api_football,1208262,2024,2025-02-01 17:30:00+00:00,Regular Season - 24,FINISHED,Wolves,Aston Villa,2.0,0.0,H
+api_football,1208259,2024,2025-02-02 14:00:00+00:00,Regular Season - 24,FINISHED,Manchester United,Crystal Palace,0.0,2.0,A
+api_football,1208255,2024,2025-02-02 14:00:00+00:00,Regular Season - 24,FINISHED,Brentford,Tottenham,0.0,2.0,A
+api_football,1208254,2024,2025-02-02 16:30:00+00:00,Regular Season - 24,FINISHED,Arsenal,Manchester City,5.0,1.0,H
+api_football,1208256,2024,2025-02-03 20:00:00+00:00,Regular Season - 24,FINISHED,Chelsea,West Ham,2.0,1.0,H
+api_football,1208166,2024,2025-02-12 19:30:00+00:00,Regular Season - 15,FINISHED,Everton,Liverpool,2.0,2.0,D
+api_football,1208264,2024,2025-02-14 20:00:00+00:00,Regular Season - 25,FINISHED,Brighton,Chelsea,3.0,0.0,H
+api_football,1208267,2024,2025-02-15 12:30:00+00:00,Regular Season - 25,FINISHED,Leicester,Arsenal,0.0,2.0,A
+api_football,1208263,2024,2025-02-15 15:00:00+00:00,Regular Season - 25,FINISHED,Aston Villa,Ipswich,1.0,1.0,D
+api_football,1208266,2024,2025-02-15 15:00:00+00:00,Regular Season - 25,FINISHED,Fulham,Nottingham Forest,2.0,1.0,H
+api_football,1208270,2024,2025-02-15 15:00:00+00:00,Regular Season - 25,FINISHED,Southampton,Bournemouth,1.0,3.0,A
+api_football,1208272,2024,2025-02-15 15:00:00+00:00,Regular Season - 25,FINISHED,West Ham,Brentford,0.0,1.0,A
+api_football,1208269,2024,2025-02-15 15:00:00+00:00,Regular Season - 25,FINISHED,Manchester City,Newcastle,4.0,0.0,H
+api_football,1208265,2024,2025-02-15 17:30:00+00:00,Regular Season - 25,FINISHED,Crystal Palace,Everton,1.0,2.0,A
+api_football,1208268,2024,2025-02-16 14:00:00+00:00,Regular Season - 25,FINISHED,Liverpool,Wolves,2.0,1.0,H
+api_football,1208271,2024,2025-02-16 16:30:00+00:00,Regular Season - 25,FINISHED,Tottenham,Manchester United,1.0,0.0,H
+api_football,1208305,2024,2025-02-19 19:30:00+00:00,Regular Season - 29,FINISHED,Aston Villa,Liverpool,2.0,2.0,D
+api_football,1208279,2024,2025-02-21 20:00:00+00:00,Regular Season - 26,FINISHED,Leicester,Brentford,0.0,4.0,A
+api_football,1208276,2024,2025-02-22 12:30:00+00:00,Regular Season - 26,FINISHED,Everton,Manchester United,2.0,2.0,D
+api_football,1208273,2024,2025-02-22 15:00:00+00:00,Regular Season - 26,FINISHED,Bournemouth,Wolves,0.0,1.0,A
+api_football,1208277,2024,2025-02-22 15:00:00+00:00,Regular Season - 26,FINISHED,Fulham,Crystal Palace,0.0,2.0,A
+api_football,1208282,2024,2025-02-22 15:00:00+00:00,Regular Season - 26,FINISHED,Southampton,Brighton,0.0,4.0,A
+api_football,1208274,2024,2025-02-22 15:00:00+00:00,Regular Season - 26,FINISHED,Arsenal,West Ham,0.0,1.0,A
+api_football,1208278,2024,2025-02-22 15:00:00+00:00,Regular Season - 26,FINISHED,Ipswich,Tottenham,1.0,4.0,A
+api_football,1208275,2024,2025-02-22 17:30:00+00:00,Regular Season - 26,FINISHED,Aston Villa,Chelsea,2.0,1.0,H
+api_football,1208281,2024,2025-02-23 14:00:00+00:00,Regular Season - 26,FINISHED,Newcastle,Nottingham Forest,4.0,3.0,H
+api_football,1208280,2024,2025-02-23 16:30:00+00:00,Regular Season - 26,FINISHED,Manchester City,Liverpool,0.0,2.0,A
+api_football,1208284,2024,2025-02-25 19:30:00+00:00,Regular Season - 27,FINISHED,Brighton,Bournemouth,2.0,1.0,H
+api_football,1208289,2024,2025-02-25 19:30:00+00:00,Regular Season - 27,FINISHED,Crystal Palace,Aston Villa,4.0,1.0,H
+api_football,1208288,2024,2025-02-25 19:30:00+00:00,Regular Season - 27,FINISHED,Wolves,Fulham,1.0,2.0,A
+api_football,1208290,2024,2025-02-25 20:15:00+00:00,Regular Season - 27,FINISHED,Chelsea,Southampton,4.0,0.0,H
+api_football,1208292,2024,2025-02-26 19:30:00+00:00,Regular Season - 27,FINISHED,Manchester United,Ipswich,3.0,2.0,H
+api_football,1208286,2024,2025-02-26 19:30:00+00:00,Regular Season - 27,FINISHED,Tottenham,Manchester City,0.0,1.0,A
+api_football,1208283,2024,2025-02-26 19:30:00+00:00,Regular Season - 27,FINISHED,Brentford,Everton,1.0,1.0,D
+api_football,1208285,2024,2025-02-26 19:30:00+00:00,Regular Season - 27,FINISHED,Nottingham Forest,Arsenal,0.0,0.0,D
+api_football,1208291,2024,2025-02-26 20:15:00+00:00,Regular Season - 27,FINISHED,Liverpool,Newcastle,2.0,0.0,H
+api_football,1208287,2024,2025-02-27 20:00:00+00:00,Regular Season - 27,FINISHED,West Ham,Leicester,2.0,0.0,H
+api_football,1208299,2024,2025-03-08 12:30:00+00:00,Regular Season - 28,FINISHED,Nottingham Forest,Manchester City,1.0,0.0,H
+api_football,1208297,2024,2025-03-08 15:00:00+00:00,Regular Season - 28,FINISHED,Liverpool,Southampton,3.0,1.0,H
+api_football,1208294,2024,2025-03-08 15:00:00+00:00,Regular Season - 28,FINISHED,Brighton,Fulham,2.0,1.0,H
+api_football,1208296,2024,2025-03-08 15:00:00+00:00,Regular Season - 28,FINISHED,Crystal Palace,Ipswich,1.0,0.0,H
+api_football,1208293,2024,2025-03-08 17:30:00+00:00,Regular Season - 28,FINISHED,Brentford,Aston Villa,0.0,1.0,A
+api_football,1208302,2024,2025-03-08 20:00:00+00:00,Regular Season - 28,FINISHED,Wolves,Everton,1.0,1.0,D
+api_football,1208295,2024,2025-03-09 14:00:00+00:00,Regular Season - 28,FINISHED,Chelsea,Leicester,1.0,0.0,H
+api_football,1208300,2024,2025-03-09 14:00:00+00:00,Regular Season - 28,FINISHED,Tottenham,Bournemouth,2.0,2.0,D
+api_football,1208298,2024,2025-03-09 16:30:00+00:00,Regular Season - 28,FINISHED,Manchester United,Arsenal,1.0,1.0,D
+api_football,1208301,2024,2025-03-10 20:00:00+00:00,Regular Season - 28,FINISHED,West Ham,Newcastle,0.0,1.0,A
+api_football,1208312,2024,2025-03-15 15:00:00+00:00,Regular Season - 29,FINISHED,Southampton,Wolves,1.0,2.0,A
+api_football,1208306,2024,2025-03-15 15:00:00+00:00,Regular Season - 29,FINISHED,Everton,West Ham,1.0,1.0,D
+api_football,1208310,2024,2025-03-15 15:00:00+00:00,Regular Season - 29,FINISHED,Manchester City,Brighton,2.0,2.0,D
+api_football,1208308,2024,2025-03-15 15:00:00+00:00,Regular Season - 29,FINISHED,Ipswich,Nottingham Forest,2.0,4.0,A
+api_football,1208303,2024,2025-03-15 17:30:00+00:00,Regular Season - 29,FINISHED,Bournemouth,Brentford,1.0,2.0,A
+api_football,1208307,2024,2025-03-16 13:30:00+00:00,Regular Season - 29,FINISHED,Fulham,Tottenham,2.0,0.0,H
+api_football,1208304,2024,2025-03-16 13:30:00+00:00,Regular Season - 29,FINISHED,Arsenal,Chelsea,1.0,0.0,H
+api_football,1208309,2024,2025-03-16 19:00:00+00:00,Regular Season - 29,FINISHED,Leicester,Manchester United,0.0,3.0,A
+api_football,1208317,2024,2025-04-01 18:45:00+00:00,Regular Season - 30,FINISHED,Wolves,West Ham,1.0,0.0,H
+api_football,1208314,2024,2025-04-01 18:45:00+00:00,Regular Season - 30,FINISHED,Arsenal,Fulham,2.0,1.0,H
+api_football,1208316,2024,2025-04-01 19:00:00+00:00,Regular Season - 30,FINISHED,Nottingham Forest,Manchester United,1.0,0.0,H
+api_football,1208315,2024,2025-04-02 18:45:00+00:00,Regular Season - 30,FINISHED,Brighton,Aston Villa,0.0,3.0,A
+api_football,1208319,2024,2025-04-02 18:45:00+00:00,Regular Season - 30,FINISHED,Manchester City,Leicester,2.0,0.0,H
+api_football,1208320,2024,2025-04-02 18:45:00+00:00,Regular Season - 30,FINISHED,Newcastle,Brentford,2.0,1.0,H
+api_football,1208313,2024,2025-04-02 18:45:00+00:00,Regular Season - 30,FINISHED,Bournemouth,Ipswich,1.0,2.0,A
+api_football,1208321,2024,2025-04-02 18:45:00+00:00,Regular Season - 30,FINISHED,Southampton,Crystal Palace,1.0,1.0,D
+api_football,1208322,2024,2025-04-02 19:00:00+00:00,Regular Season - 30,FINISHED,Liverpool,Everton,1.0,0.0,H
+api_football,1208318,2024,2025-04-03 19:00:00+00:00,Regular Season - 30,FINISHED,Chelsea,Tottenham,1.0,0.0,H
+api_football,1208326,2024,2025-04-05 11:30:00+00:00,Regular Season - 31,FINISHED,Everton,Arsenal,1.0,1.0,D
+api_football,1208332,2024,2025-04-05 14:00:00+00:00,Regular Season - 31,FINISHED,West Ham,Bournemouth,2.0,2.0,D
+api_football,1208325,2024,2025-04-05 14:00:00+00:00,Regular Season - 31,FINISHED,Crystal Palace,Brighton,2.0,1.0,H
+api_football,1208328,2024,2025-04-05 14:00:00+00:00,Regular Season - 31,FINISHED,Ipswich,Wolves,1.0,2.0,A
+api_football,1208323,2024,2025-04-05 16:30:00+00:00,Regular Season - 31,FINISHED,Aston Villa,Nottingham Forest,2.0,1.0,H
+api_football,1208331,2024,2025-04-06 13:00:00+00:00,Regular Season - 31,FINISHED,Tottenham,Southampton,3.0,1.0,H
+api_football,1208327,2024,2025-04-06 13:00:00+00:00,Regular Season - 31,FINISHED,Fulham,Liverpool,3.0,2.0,H
+api_football,1208324,2024,2025-04-06 13:00:00+00:00,Regular Season - 31,FINISHED,Brentford,Chelsea,0.0,0.0,D
+api_football,1208330,2024,2025-04-06 15:30:00+00:00,Regular Season - 31,FINISHED,Manchester United,Manchester City,0.0,0.0,D
+api_football,1208329,2024,2025-04-07 19:00:00+00:00,Regular Season - 31,FINISHED,Leicester,Newcastle,0.0,3.0,A
+api_football,1208338,2024,2025-04-12 11:30:00+00:00,Regular Season - 32,FINISHED,Manchester City,Crystal Palace,5.0,2.0,H
+api_football,1208341,2024,2025-04-12 14:00:00+00:00,Regular Season - 32,FINISHED,Southampton,Aston Villa,0.0,3.0,A
+api_football,1208335,2024,2025-04-12 14:00:00+00:00,Regular Season - 32,FINISHED,Brighton,Leicester,2.0,2.0,D
+api_football,1208340,2024,2025-04-12 14:00:00+00:00,Regular Season - 32,FINISHED,Nottingham Forest,Everton,0.0,1.0,A
+api_football,1208334,2024,2025-04-12 16:30:00+00:00,Regular Season - 32,FINISHED,Arsenal,Brentford,1.0,1.0,D
+api_football,1208342,2024,2025-04-13 13:00:00+00:00,Regular Season - 32,FINISHED,Wolves,Tottenham,4.0,2.0,H
+api_football,1208337,2024,2025-04-13 13:00:00+00:00,Regular Season - 32,FINISHED,Liverpool,West Ham,2.0,1.0,H
+api_football,1208336,2024,2025-04-13 13:00:00+00:00,Regular Season - 32,FINISHED,Chelsea,Ipswich,2.0,2.0,D
+api_football,1208339,2024,2025-04-13 15:30:00+00:00,Regular Season - 32,FINISHED,Newcastle,Manchester United,4.0,1.0,H
+api_football,1208333,2024,2025-04-14 19:00:00+00:00,Regular Season - 32,FINISHED,Bournemouth,Fulham,1.0,0.0,H
+api_football,1208311,2024,2025-04-16 18:30:00+00:00,Regular Season - 29,FINISHED,Newcastle,Crystal Palace,5.0,0.0,H
+api_football,1208344,2024,2025-04-19 14:00:00+00:00,Regular Season - 33,FINISHED,Brentford,Brighton,4.0,2.0,H
+api_football,1208345,2024,2025-04-19 14:00:00+00:00,Regular Season - 33,FINISHED,Crystal Palace,Bournemouth,0.0,0.0,D
+api_football,1208346,2024,2025-04-19 14:00:00+00:00,Regular Season - 33,FINISHED,Everton,Manchester City,0.0,2.0,A
+api_football,1208352,2024,2025-04-19 14:00:00+00:00,Regular Season - 33,FINISHED,West Ham,Southampton,1.0,1.0,D
+api_football,1208343,2024,2025-04-19 16:30:00+00:00,Regular Season - 33,FINISHED,Aston Villa,Newcastle,4.0,1.0,H
+api_football,1208350,2024,2025-04-20 13:00:00+00:00,Regular Season - 33,FINISHED,Manchester United,Wolves,0.0,1.0,A
+api_football,1208347,2024,2025-04-20 13:00:00+00:00,Regular Season - 33,FINISHED,Fulham,Chelsea,1.0,2.0,A
+api_football,1208348,2024,2025-04-20 13:00:00+00:00,Regular Season - 33,FINISHED,Ipswich,Arsenal,0.0,4.0,A
+api_football,1208349,2024,2025-04-20 15:30:00+00:00,Regular Season - 33,FINISHED,Leicester,Liverpool,0.0,1.0,A
+api_football,1208351,2024,2025-04-21 19:00:00+00:00,Regular Season - 33,FINISHED,Tottenham,Nottingham Forest,1.0,2.0,A
+api_football,1208358,2024,2025-04-22 19:00:00+00:00,Regular Season - 34,FINISHED,Manchester City,Aston Villa,2.0,1.0,H
+api_football,1208354,2024,2025-04-23 19:00:00+00:00,Regular Season - 34,FINISHED,Arsenal,Crystal Palace,2.0,2.0,D
+api_football,1208356,2024,2025-04-26 11:30:00+00:00,Regular Season - 34,FINISHED,Chelsea,Everton,1.0,0.0,H
+api_football,1208361,2024,2025-04-26 14:00:00+00:00,Regular Season - 34,FINISHED,Southampton,Fulham,1.0,2.0,A
+api_football,1208355,2024,2025-04-26 14:00:00+00:00,Regular Season - 34,FINISHED,Brighton,West Ham,3.0,2.0,H
+api_football,1208359,2024,2025-04-26 14:00:00+00:00,Regular Season - 34,FINISHED,Newcastle,Ipswich,3.0,0.0,H
+api_football,1208362,2024,2025-04-26 14:00:00+00:00,Regular Season - 34,FINISHED,Wolves,Leicester,3.0,0.0,H
+api_football,1208353,2024,2025-04-27 13:00:00+00:00,Regular Season - 34,FINISHED,Bournemouth,Manchester United,1.0,1.0,D
+api_football,1208357,2024,2025-04-27 15:30:00+00:00,Regular Season - 34,FINISHED,Liverpool,Tottenham,5.0,1.0,H
+api_football,1208360,2024,2025-05-01 18:30:00+00:00,Regular Season - 34,FINISHED,Nottingham Forest,Brentford,0.0,2.0,A
+api_football,1208371,2024,2025-05-02 19:00:00+00:00,Regular Season - 35,FINISHED,Manchester City,Wolves,1.0,0.0,H
+api_football,1208364,2024,2025-05-03 11:30:00+00:00,Regular Season - 35,FINISHED,Aston Villa,Fulham,1.0,0.0,H
+api_football,1208370,2024,2025-05-03 14:00:00+00:00,Regular Season - 35,FINISHED,Leicester,Southampton,2.0,0.0,H
+api_football,1208369,2024,2025-05-03 14:00:00+00:00,Regular Season - 35,FINISHED,Everton,Ipswich,2.0,2.0,D
+api_football,1208363,2024,2025-05-03 16:30:00+00:00,Regular Season - 35,FINISHED,Arsenal,Bournemouth,1.0,2.0,A
+api_football,1208372,2024,2025-05-04 13:00:00+00:00,Regular Season - 35,FINISHED,West Ham,Tottenham,1.0,1.0,D
+api_football,1208366,2024,2025-05-04 13:00:00+00:00,Regular Season - 35,FINISHED,Brighton,Newcastle,1.0,1.0,D
+api_football,1208365,2024,2025-05-04 13:00:00+00:00,Regular Season - 35,FINISHED,Brentford,Manchester United,4.0,3.0,H
+api_football,1208367,2024,2025-05-04 15:30:00+00:00,Regular Season - 35,FINISHED,Chelsea,Liverpool,3.0,1.0,H
+api_football,1208368,2024,2025-05-05 19:00:00+00:00,Regular Season - 35,FINISHED,Crystal Palace,Nottingham Forest,1.0,1.0,D
+api_football,1208375,2024,2025-05-10 14:00:00+00:00,Regular Season - 36,FINISHED,Ipswich,Brentford,0.0,1.0,A
+api_football,1208380,2024,2025-05-10 14:00:00+00:00,Regular Season - 36,FINISHED,Southampton,Manchester City,0.0,0.0,D
+api_football,1208374,2024,2025-05-10 14:00:00+00:00,Regular Season - 36,FINISHED,Fulham,Everton,1.0,3.0,A
+api_football,1208382,2024,2025-05-10 14:00:00+00:00,Regular Season - 36,FINISHED,Wolves,Brighton,0.0,2.0,A
+api_football,1208373,2024,2025-05-10 16:30:00+00:00,Regular Season - 36,FINISHED,Bournemouth,Aston Villa,0.0,1.0,A
+api_football,1208378,2024,2025-05-11 11:00:00+00:00,Regular Season - 36,FINISHED,Newcastle,Chelsea,2.0,0.0,H
+api_football,1208377,2024,2025-05-11 13:15:00+00:00,Regular Season - 36,FINISHED,Manchester United,West Ham,0.0,2.0,A
+api_football,1208381,2024,2025-05-11 13:15:00+00:00,Regular Season - 36,FINISHED,Tottenham,Crystal Palace,0.0,2.0,A
+api_football,1208379,2024,2025-05-11 13:15:00+00:00,Regular Season - 36,FINISHED,Nottingham Forest,Leicester,2.0,2.0,D
+api_football,1208376,2024,2025-05-11 15:30:00+00:00,Regular Season - 36,FINISHED,Liverpool,Arsenal,2.0,2.0,D
+api_football,1208384,2024,2025-05-16 18:30:00+00:00,Regular Season - 37,FINISHED,Aston Villa,Tottenham,2.0,0.0,H
+api_football,1208387,2024,2025-05-16 19:15:00+00:00,Regular Season - 37,FINISHED,Chelsea,Manchester United,1.0,0.0,H
+api_football,1208389,2024,2025-05-18 11:00:00+00:00,Regular Season - 37,FINISHED,Everton,Southampton,2.0,0.0,H
+api_football,1208392,2024,2025-05-18 13:15:00+00:00,Regular Season - 37,FINISHED,West Ham,Nottingham Forest,1.0,2.0,A
+api_football,1208390,2024,2025-05-18 14:00:00+00:00,Regular Season - 37,FINISHED,Leicester,Ipswich,2.0,0.0,H
+api_football,1208385,2024,2025-05-18 14:00:00+00:00,Regular Season - 37,FINISHED,Brentford,Fulham,2.0,3.0,A
+api_football,1208383,2024,2025-05-18 15:30:00+00:00,Regular Season - 37,FINISHED,Arsenal,Newcastle,1.0,0.0,H
+api_football,1208386,2024,2025-05-19 19:00:00+00:00,Regular Season - 37,FINISHED,Brighton,Liverpool,3.0,2.0,H
+api_football,1208391,2024,2025-05-20 19:00:00+00:00,Regular Season - 37,FINISHED,Manchester City,Bournemouth,3.0,1.0,H
+api_football,1208388,2024,2025-05-20 19:00:00+00:00,Regular Season - 37,FINISHED,Crystal Palace,Wolves,4.0,2.0,H
+api_football,1208397,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Manchester United,Aston Villa,2.0,0.0,H
+api_football,1208398,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Newcastle,Everton,0.0,1.0,A
+api_football,1208393,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Bournemouth,Leicester,2.0,0.0,H
+api_football,1208394,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Fulham,Manchester City,0.0,2.0,A
+api_football,1208402,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Wolves,Brentford,1.0,1.0,D
+api_football,1208396,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Liverpool,Crystal Palace,1.0,1.0,D
+api_football,1208400,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Southampton,Arsenal,1.0,2.0,A
+api_football,1208401,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Tottenham,Brighton,1.0,4.0,A
+api_football,1208395,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Ipswich,West Ham,1.0,3.0,A
+api_football,1208399,2024,2025-05-25 15:00:00+00:00,Regular Season - 38,FINISHED,Nottingham Forest,Chelsea,0.0,1.0,A
+football_data,,2025,2025-08-15 19:00:00+00:00,Regular Season - 1,FINISHED,Liverpool,Bournemouth,4.0,2.0,H
+football_data,,2025,2025-08-16 11:30:00+00:00,Regular Season - 1,FINISHED,Aston Villa,Newcastle,0.0,0.0,D
+football_data,,2025,2025-08-16 14:00:00+00:00,Regular Season - 1,FINISHED,Brighton,Fulham,1.0,1.0,D
+football_data,,2025,2025-08-16 14:00:00+00:00,Regular Season - 1,FINISHED,Sunderland,West Ham,3.0,0.0,H
+football_data,,2025,2025-08-16 14:00:00+00:00,Regular Season - 1,FINISHED,Tottenham,Burnley,3.0,0.0,H
+football_data,,2025,2025-08-16 16:30:00+00:00,Regular Season - 1,FINISHED,Wolves,Manchester City,0.0,4.0,A
+football_data,,2025,2025-08-17 13:00:00+00:00,Regular Season - 1,FINISHED,Nottingham Forest,Brentford,3.0,1.0,H
+football_data,,2025,2025-08-17 13:00:00+00:00,Regular Season - 1,FINISHED,Chelsea,Crystal Palace,0.0,0.0,D
+football_data,,2025,2025-08-17 15:30:00+00:00,Regular Season - 1,FINISHED,Manchester United,Arsenal,0.0,1.0,A
+football_data,,2025,2025-08-18 19:00:00+00:00,Regular Season - 1,FINISHED,Leeds,Everton,1.0,0.0,H
+football_data,,2025,2025-08-22 19:00:00+00:00,Regular Season - 2,FINISHED,West Ham,Chelsea,1.0,5.0,A
+football_data,,2025,2025-08-23 11:30:00+00:00,Regular Season - 2,FINISHED,Manchester City,Tottenham,0.0,2.0,A
+football_data,,2025,2025-08-23 14:00:00+00:00,Regular Season - 2,FINISHED,Bournemouth,Wolves,1.0,0.0,H
+football_data,,2025,2025-08-23 14:00:00+00:00,Regular Season - 2,FINISHED,Brentford,Aston Villa,1.0,0.0,H
+football_data,,2025,2025-08-23 14:00:00+00:00,Regular Season - 2,FINISHED,Burnley,Sunderland,2.0,0.0,H
+football_data,,2025,2025-08-23 16:30:00+00:00,Regular Season - 2,FINISHED,Arsenal,Leeds,5.0,0.0,H
+football_data,,2025,2025-08-24 13:00:00+00:00,Regular Season - 2,FINISHED,Everton,Brighton,2.0,0.0,H
+football_data,,2025,2025-08-24 13:00:00+00:00,Regular Season - 2,FINISHED,Crystal Palace,Nottingham Forest,1.0,1.0,D
+football_data,,2025,2025-08-24 15:30:00+00:00,Regular Season - 2,FINISHED,Fulham,Manchester United,1.0,1.0,D
+football_data,,2025,2025-08-25 19:00:00+00:00,Regular Season - 2,FINISHED,Newcastle,Liverpool,2.0,3.0,A
+football_data,,2025,2025-08-30 11:30:00+00:00,Regular Season - 3,FINISHED,Chelsea,Fulham,2.0,0.0,H
+football_data,,2025,2025-08-30 14:00:00+00:00,Regular Season - 3,FINISHED,Sunderland,Brentford,2.0,1.0,H
+football_data,,2025,2025-08-30 14:00:00+00:00,Regular Season - 3,FINISHED,Manchester United,Burnley,3.0,2.0,H
+football_data,,2025,2025-08-30 14:00:00+00:00,Regular Season - 3,FINISHED,Tottenham,Bournemouth,0.0,1.0,A
+football_data,,2025,2025-08-30 14:00:00+00:00,Regular Season - 3,FINISHED,Wolves,Everton,2.0,3.0,A
+football_data,,2025,2025-08-30 16:30:00+00:00,Regular Season - 3,FINISHED,Leeds,Newcastle,0.0,0.0,D
+football_data,,2025,2025-08-31 13:00:00+00:00,Regular Season - 3,FINISHED,Brighton,Manchester City,2.0,1.0,H
+football_data,,2025,2025-08-31 13:00:00+00:00,Regular Season - 3,FINISHED,Nottingham Forest,West Ham,0.0,3.0,A
+football_data,,2025,2025-08-31 15:30:00+00:00,Regular Season - 3,FINISHED,Liverpool,Arsenal,1.0,0.0,H
+football_data,,2025,2025-08-31 18:00:00+00:00,Regular Season - 3,FINISHED,Aston Villa,Crystal Palace,0.0,3.0,A
+football_data,,2025,2025-09-13 11:30:00+00:00,Regular Season - 4,FINISHED,Arsenal,Nottingham Forest,3.0,0.0,H
+football_data,,2025,2025-09-13 14:00:00+00:00,Regular Season - 4,FINISHED,Newcastle,Wolves,1.0,0.0,H
+football_data,,2025,2025-09-13 14:00:00+00:00,Regular Season - 4,FINISHED,Fulham,Leeds,1.0,0.0,H
+football_data,,2025,2025-09-13 14:00:00+00:00,Regular Season - 4,FINISHED,Bournemouth,Brighton,2.0,1.0,H
+football_data,,2025,2025-09-13 14:00:00+00:00,Regular Season - 4,FINISHED,Crystal Palace,Sunderland,0.0,0.0,D
+football_data,,2025,2025-09-13 14:00:00+00:00,Regular Season - 4,FINISHED,Everton,Aston Villa,0.0,0.0,D
+football_data,,2025,2025-09-13 16:30:00+00:00,Regular Season - 4,FINISHED,West Ham,Tottenham,0.0,3.0,A
+football_data,,2025,2025-09-13 19:00:00+00:00,Regular Season - 4,FINISHED,Brentford,Chelsea,2.0,2.0,D
+football_data,,2025,2025-09-14 13:00:00+00:00,Regular Season - 4,FINISHED,Burnley,Liverpool,0.0,1.0,A
+football_data,,2025,2025-09-14 15:30:00+00:00,Regular Season - 4,FINISHED,Manchester City,Manchester United,3.0,0.0,H
+football_data,,2025,2025-09-20 11:30:00+00:00,Regular Season - 5,FINISHED,Liverpool,Everton,2.0,1.0,H
+football_data,,2025,2025-09-20 14:00:00+00:00,Regular Season - 5,FINISHED,Wolves,Leeds,1.0,3.0,A
+football_data,,2025,2025-09-20 14:00:00+00:00,Regular Season - 5,FINISHED,Brighton,Tottenham,2.0,2.0,D
+football_data,,2025,2025-09-20 14:00:00+00:00,Regular Season - 5,FINISHED,Burnley,Nottingham Forest,1.0,1.0,D
+football_data,,2025,2025-09-20 14:00:00+00:00,Regular Season - 5,FINISHED,West Ham,Crystal Palace,1.0,2.0,A
+football_data,,2025,2025-09-20 16:30:00+00:00,Regular Season - 5,FINISHED,Manchester United,Chelsea,2.0,1.0,H
+football_data,,2025,2025-09-20 19:00:00+00:00,Regular Season - 5,FINISHED,Fulham,Brentford,3.0,1.0,H
+football_data,,2025,2025-09-21 13:00:00+00:00,Regular Season - 5,FINISHED,Bournemouth,Newcastle,0.0,0.0,D
+football_data,,2025,2025-09-21 13:00:00+00:00,Regular Season - 5,FINISHED,Sunderland,Aston Villa,1.0,1.0,D
+football_data,,2025,2025-09-21 15:30:00+00:00,Regular Season - 5,FINISHED,Arsenal,Manchester City,1.0,1.0,D
+football_data,,2025,2025-09-27 11:30:00+00:00,Regular Season - 6,FINISHED,Brentford,Manchester United,3.0,1.0,H
+football_data,,2025,2025-09-27 14:00:00+00:00,Regular Season - 6,FINISHED,Crystal Palace,Liverpool,2.0,1.0,H
+football_data,,2025,2025-09-27 14:00:00+00:00,Regular Season - 6,FINISHED,Chelsea,Brighton,1.0,3.0,A
+football_data,,2025,2025-09-27 14:00:00+00:00,Regular Season - 6,FINISHED,Leeds,Bournemouth,2.0,2.0,D
+football_data,,2025,2025-09-27 14:00:00+00:00,Regular Season - 6,FINISHED,Manchester City,Burnley,5.0,1.0,H
+football_data,,2025,2025-09-27 16:30:00+00:00,Regular Season - 6,FINISHED,Nottingham Forest,Sunderland,0.0,1.0,A
+football_data,,2025,2025-09-27 19:00:00+00:00,Regular Season - 6,FINISHED,Tottenham,Wolves,1.0,1.0,D
+football_data,,2025,2025-09-28 13:00:00+00:00,Regular Season - 6,FINISHED,Aston Villa,Fulham,3.0,1.0,H
+football_data,,2025,2025-09-28 15:30:00+00:00,Regular Season - 6,FINISHED,Newcastle,Arsenal,1.0,2.0,A
+football_data,,2025,2025-09-29 19:00:00+00:00,Regular Season - 6,FINISHED,Everton,West Ham,1.0,1.0,D
+football_data,,2025,2025-10-03 19:00:00+00:00,Regular Season - 7,FINISHED,Bournemouth,Fulham,3.0,1.0,H
+football_data,,2025,2025-10-04 11:30:00+00:00,Regular Season - 7,FINISHED,Leeds,Tottenham,1.0,2.0,A
+football_data,,2025,2025-10-04 14:00:00+00:00,Regular Season - 7,FINISHED,Arsenal,West Ham,2.0,0.0,H
+football_data,,2025,2025-10-04 14:00:00+00:00,Regular Season - 7,FINISHED,Manchester United,Sunderland,2.0,0.0,H
+football_data,,2025,2025-10-04 16:30:00+00:00,Regular Season - 7,FINISHED,Chelsea,Liverpool,2.0,1.0,H
+football_data,,2025,2025-10-05 13:00:00+00:00,Regular Season - 7,FINISHED,Aston Villa,Burnley,2.0,1.0,H
+football_data,,2025,2025-10-05 13:00:00+00:00,Regular Season - 7,FINISHED,Everton,Crystal Palace,2.0,1.0,H
+football_data,,2025,2025-10-05 13:00:00+00:00,Regular Season - 7,FINISHED,Newcastle,Nottingham Forest,2.0,0.0,H
+football_data,,2025,2025-10-05 13:00:00+00:00,Regular Season - 7,FINISHED,Wolves,Brighton,1.0,1.0,D
+football_data,,2025,2025-10-05 15:30:00+00:00,Regular Season - 7,FINISHED,Brentford,Manchester City,0.0,1.0,A
+football_data,,2025,2025-10-18 11:30:00+00:00,Regular Season - 8,FINISHED,Nottingham Forest,Chelsea,0.0,3.0,A
+football_data,,2025,2025-10-18 14:00:00+00:00,Regular Season - 8,FINISHED,Brighton,Newcastle,2.0,1.0,H
+football_data,,2025,2025-10-18 14:00:00+00:00,Regular Season - 8,FINISHED,Crystal Palace,Bournemouth,3.0,3.0,D
+football_data,,2025,2025-10-18 14:00:00+00:00,Regular Season - 8,FINISHED,Burnley,Leeds,2.0,0.0,H
+football_data,,2025,2025-10-18 14:00:00+00:00,Regular Season - 8,FINISHED,Manchester City,Everton,2.0,0.0,H
+football_data,,2025,2025-10-18 14:00:00+00:00,Regular Season - 8,FINISHED,Sunderland,Wolves,2.0,0.0,H
+football_data,,2025,2025-10-18 16:30:00+00:00,Regular Season - 8,FINISHED,Fulham,Arsenal,0.0,1.0,A
+football_data,,2025,2025-10-19 13:00:00+00:00,Regular Season - 8,FINISHED,Tottenham,Aston Villa,1.0,2.0,A
+football_data,,2025,2025-10-19 15:30:00+00:00,Regular Season - 8,FINISHED,Liverpool,Manchester United,1.0,2.0,A
+football_data,,2025,2025-10-20 19:00:00+00:00,Regular Season - 8,FINISHED,West Ham,Brentford,0.0,2.0,A
+football_data,,2025,2025-10-24 19:00:00+00:00,Regular Season - 9,FINISHED,Leeds,West Ham,2.0,1.0,H
+football_data,,2025,2025-10-25 14:00:00+00:00,Regular Season - 9,FINISHED,Chelsea,Sunderland,1.0,2.0,A
+football_data,,2025,2025-10-25 14:00:00+00:00,Regular Season - 9,FINISHED,Newcastle,Fulham,2.0,1.0,H
+football_data,,2025,2025-10-25 16:30:00+00:00,Regular Season - 9,FINISHED,Manchester United,Brighton,4.0,2.0,H
+football_data,,2025,2025-10-25 19:00:00+00:00,Regular Season - 9,FINISHED,Brentford,Liverpool,3.0,2.0,H
+football_data,,2025,2025-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Bournemouth,Nottingham Forest,2.0,0.0,H
+football_data,,2025,2025-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Aston Villa,Manchester City,1.0,0.0,H
+football_data,,2025,2025-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Arsenal,Crystal Palace,1.0,0.0,H
+football_data,,2025,2025-10-26 14:00:00+00:00,Regular Season - 9,FINISHED,Wolves,Burnley,2.0,3.0,A
+football_data,,2025,2025-10-26 16:30:00+00:00,Regular Season - 9,FINISHED,Everton,Tottenham,0.0,3.0,A
+football_data,,2025,2025-11-01 15:00:00+00:00,Regular Season - 10,FINISHED,Nottingham Forest,Manchester United,2.0,2.0,D
+football_data,,2025,2025-11-01 15:00:00+00:00,Regular Season - 10,FINISHED,Fulham,Wolves,3.0,0.0,H
+football_data,,2025,2025-11-01 15:00:00+00:00,Regular Season - 10,FINISHED,Crystal Palace,Brentford,2.0,0.0,H
+football_data,,2025,2025-11-01 15:00:00+00:00,Regular Season - 10,FINISHED,Brighton,Leeds,3.0,0.0,H
+football_data,,2025,2025-11-01 15:00:00+00:00,Regular Season - 10,FINISHED,Burnley,Arsenal,0.0,2.0,A
+football_data,,2025,2025-11-01 17:30:00+00:00,Regular Season - 10,FINISHED,Tottenham,Chelsea,0.0,1.0,A
+football_data,,2025,2025-11-01 20:00:00+00:00,Regular Season - 10,FINISHED,Liverpool,Aston Villa,2.0,0.0,H
+football_data,,2025,2025-11-02 14:00:00+00:00,Regular Season - 10,FINISHED,West Ham,Newcastle,3.0,1.0,H
+football_data,,2025,2025-11-02 16:30:00+00:00,Regular Season - 10,FINISHED,Manchester City,Bournemouth,3.0,1.0,H
+football_data,,2025,2025-11-03 20:00:00+00:00,Regular Season - 10,FINISHED,Sunderland,Everton,1.0,1.0,D
+football_data,,2025,2025-11-08 12:30:00+00:00,Regular Season - 11,FINISHED,Tottenham,Manchester United,2.0,2.0,D
+football_data,,2025,2025-11-08 15:00:00+00:00,Regular Season - 11,FINISHED,Everton,Fulham,2.0,0.0,H
+football_data,,2025,2025-11-08 15:00:00+00:00,Regular Season - 11,FINISHED,West Ham,Burnley,3.0,2.0,H
+football_data,,2025,2025-11-08 17:30:00+00:00,Regular Season - 11,FINISHED,Sunderland,Arsenal,2.0,2.0,D
+football_data,,2025,2025-11-08 20:00:00+00:00,Regular Season - 11,FINISHED,Chelsea,Wolves,3.0,0.0,H
+football_data,,2025,2025-11-09 14:00:00+00:00,Regular Season - 11,FINISHED,Nottingham Forest,Leeds,3.0,1.0,H
+football_data,,2025,2025-11-09 14:00:00+00:00,Regular Season - 11,FINISHED,Brentford,Newcastle,3.0,1.0,H
+football_data,,2025,2025-11-09 14:00:00+00:00,Regular Season - 11,FINISHED,Aston Villa,Bournemouth,4.0,0.0,H
+football_data,,2025,2025-11-09 14:00:00+00:00,Regular Season - 11,FINISHED,Crystal Palace,Brighton,0.0,0.0,D
+football_data,,2025,2025-11-09 16:30:00+00:00,Regular Season - 11,FINISHED,Manchester City,Liverpool,3.0,0.0,H
+football_data,,2025,2025-11-22 12:30:00+00:00,Regular Season - 12,FINISHED,Burnley,Chelsea,0.0,2.0,A
+football_data,,2025,2025-11-22 15:00:00+00:00,Regular Season - 12,FINISHED,Bournemouth,West Ham,2.0,2.0,D
+football_data,,2025,2025-11-22 15:00:00+00:00,Regular Season - 12,FINISHED,Brighton,Brentford,2.0,1.0,H
+football_data,,2025,2025-11-22 15:00:00+00:00,Regular Season - 12,FINISHED,Fulham,Sunderland,1.0,0.0,H
+football_data,,2025,2025-11-22 15:00:00+00:00,Regular Season - 12,FINISHED,Liverpool,Nottingham Forest,0.0,3.0,A
+football_data,,2025,2025-11-22 15:00:00+00:00,Regular Season - 12,FINISHED,Wolves,Crystal Palace,0.0,2.0,A
+football_data,,2025,2025-11-22 17:30:00+00:00,Regular Season - 12,FINISHED,Newcastle,Manchester City,2.0,1.0,H
+football_data,,2025,2025-11-23 14:00:00+00:00,Regular Season - 12,FINISHED,Leeds,Aston Villa,1.0,2.0,A
+football_data,,2025,2025-11-23 16:30:00+00:00,Regular Season - 12,FINISHED,Arsenal,Tottenham,4.0,1.0,H
+football_data,,2025,2025-11-24 20:00:00+00:00,Regular Season - 12,FINISHED,Manchester United,Everton,0.0,1.0,A
+football_data,,2025,2025-11-29 15:00:00+00:00,Regular Season - 13,FINISHED,Brentford,Burnley,3.0,1.0,H
+football_data,,2025,2025-11-29 15:00:00+00:00,Regular Season - 13,FINISHED,Manchester City,Leeds,3.0,2.0,H
+football_data,,2025,2025-11-29 15:00:00+00:00,Regular Season - 13,FINISHED,Sunderland,Bournemouth,3.0,2.0,H
+football_data,,2025,2025-11-29 17:30:00+00:00,Regular Season - 13,FINISHED,Everton,Newcastle,1.0,4.0,A
+football_data,,2025,2025-11-29 20:00:00+00:00,Regular Season - 13,FINISHED,Tottenham,Fulham,1.0,2.0,A
+football_data,,2025,2025-11-30 12:00:00+00:00,Regular Season - 13,FINISHED,Crystal Palace,Manchester United,1.0,2.0,A
+football_data,,2025,2025-11-30 14:05:00+00:00,Regular Season - 13,FINISHED,Aston Villa,Wolves,1.0,0.0,H
+football_data,,2025,2025-11-30 14:05:00+00:00,Regular Season - 13,FINISHED,Nottingham Forest,Brighton,0.0,2.0,A
+football_data,,2025,2025-11-30 14:05:00+00:00,Regular Season - 13,FINISHED,West Ham,Liverpool,0.0,2.0,A
+football_data,,2025,2025-11-30 16:30:00+00:00,Regular Season - 13,FINISHED,Chelsea,Arsenal,1.0,1.0,D
+football_data,,2025,2025-12-02 19:30:00+00:00,Regular Season - 14,FINISHED,Bournemouth,Everton,0.0,1.0,A
+football_data,,2025,2025-12-02 19:30:00+00:00,Regular Season - 14,FINISHED,Fulham,Manchester City,4.0,5.0,A
+football_data,,2025,2025-12-02 20:15:00+00:00,Regular Season - 14,FINISHED,Newcastle,Tottenham,2.0,2.0,D
+football_data,,2025,2025-12-03 19:30:00+00:00,Regular Season - 14,FINISHED,Wolves,Nottingham Forest,0.0,1.0,A
+football_data,,2025,2025-12-03 19:30:00+00:00,Regular Season - 14,FINISHED,Burnley,Crystal Palace,0.0,1.0,A
+football_data,,2025,2025-12-03 19:30:00+00:00,Regular Season - 14,FINISHED,Arsenal,Brentford,2.0,0.0,H
+football_data,,2025,2025-12-03 19:30:00+00:00,Regular Season - 14,FINISHED,Brighton,Aston Villa,3.0,4.0,A
+football_data,,2025,2025-12-03 20:15:00+00:00,Regular Season - 14,FINISHED,Liverpool,Sunderland,1.0,1.0,D
+football_data,,2025,2025-12-03 20:15:00+00:00,Regular Season - 14,FINISHED,Leeds,Chelsea,3.0,1.0,H
+football_data,,2025,2025-12-04 20:00:00+00:00,Regular Season - 14,FINISHED,Manchester United,West Ham,1.0,1.0,D
+football_data,,2025,2025-12-06 12:30:00+00:00,Regular Season - 15,FINISHED,Aston Villa,Arsenal,2.0,1.0,H
+football_data,,2025,2025-12-06 15:00:00+00:00,Regular Season - 15,FINISHED,Bournemouth,Chelsea,0.0,0.0,D
+football_data,,2025,2025-12-06 15:00:00+00:00,Regular Season - 15,FINISHED,Everton,Nottingham Forest,3.0,0.0,H
+football_data,,2025,2025-12-06 15:00:00+00:00,Regular Season - 15,FINISHED,Manchester City,Sunderland,3.0,0.0,H
+football_data,,2025,2025-12-06 15:00:00+00:00,Regular Season - 15,FINISHED,Newcastle,Burnley,2.0,1.0,H
+football_data,,2025,2025-12-06 15:00:00+00:00,Regular Season - 15,FINISHED,Tottenham,Brentford,2.0,0.0,H
+football_data,,2025,2025-12-06 17:30:00+00:00,Regular Season - 15,FINISHED,Leeds,Liverpool,3.0,3.0,D
+football_data,,2025,2025-12-07 14:00:00+00:00,Regular Season - 15,FINISHED,Brighton,West Ham,1.0,1.0,D
+football_data,,2025,2025-12-07 16:30:00+00:00,Regular Season - 15,FINISHED,Fulham,Crystal Palace,1.0,2.0,A
+football_data,,2025,2025-12-08 20:00:00+00:00,Regular Season - 15,FINISHED,Wolves,Manchester United,1.0,4.0,A
+football_data,,2025,2025-12-13 15:00:00+00:00,Regular Season - 16,FINISHED,Chelsea,Everton,2.0,0.0,H
+football_data,,2025,2025-12-13 15:00:00+00:00,Regular Season - 16,FINISHED,Liverpool,Brighton,2.0,0.0,H
+football_data,,2025,2025-12-13 17:30:00+00:00,Regular Season - 16,FINISHED,Burnley,Fulham,2.0,3.0,A
+football_data,,2025,2025-12-13 20:00:00+00:00,Regular Season - 16,FINISHED,Arsenal,Wolves,2.0,1.0,H
+football_data,,2025,2025-12-14 14:00:00+00:00,Regular Season - 16,FINISHED,Sunderland,Newcastle,1.0,0.0,H
+football_data,,2025,2025-12-14 14:00:00+00:00,Regular Season - 16,FINISHED,Crystal Palace,Manchester City,0.0,3.0,A
+football_data,,2025,2025-12-14 14:00:00+00:00,Regular Season - 16,FINISHED,Nottingham Forest,Tottenham,3.0,0.0,H
+football_data,,2025,2025-12-14 14:00:00+00:00,Regular Season - 16,FINISHED,West Ham,Aston Villa,2.0,3.0,A
+football_data,,2025,2025-12-14 16:30:00+00:00,Regular Season - 16,FINISHED,Brentford,Leeds,1.0,1.0,D
+football_data,,2025,2025-12-15 20:00:00+00:00,Regular Season - 16,FINISHED,Manchester United,Bournemouth,4.0,4.0,D
+football_data,,2025,2025-12-20 12:30:00+00:00,Regular Season - 17,FINISHED,Newcastle,Chelsea,2.0,2.0,D
+football_data,,2025,2025-12-20 15:00:00+00:00,Regular Season - 17,FINISHED,Brighton,Sunderland,0.0,0.0,D
+football_data,,2025,2025-12-20 15:00:00+00:00,Regular Season - 17,FINISHED,Manchester City,West Ham,3.0,0.0,H
+football_data,,2025,2025-12-20 15:00:00+00:00,Regular Season - 17,FINISHED,Bournemouth,Burnley,1.0,1.0,D
+football_data,,2025,2025-12-20 15:00:00+00:00,Regular Season - 17,FINISHED,Wolves,Brentford,0.0,2.0,A
+football_data,,2025,2025-12-20 17:30:00+00:00,Regular Season - 17,FINISHED,Tottenham,Liverpool,1.0,2.0,A
+football_data,,2025,2025-12-20 20:00:00+00:00,Regular Season - 17,FINISHED,Everton,Arsenal,0.0,1.0,A
+football_data,,2025,2025-12-20 20:00:00+00:00,Regular Season - 17,FINISHED,Leeds,Crystal Palace,4.0,1.0,H
+football_data,,2025,2025-12-21 16:30:00+00:00,Regular Season - 17,FINISHED,Aston Villa,Manchester United,2.0,1.0,H
+football_data,,2025,2025-12-22 20:00:00+00:00,Regular Season - 17,FINISHED,Fulham,Nottingham Forest,1.0,0.0,H
+football_data,,2025,2025-12-26 20:00:00+00:00,Regular Season - 18,FINISHED,Manchester United,Newcastle,1.0,0.0,H
+football_data,,2025,2025-12-27 12:30:00+00:00,Regular Season - 18,FINISHED,Nottingham Forest,Manchester City,1.0,2.0,A
+football_data,,2025,2025-12-27 15:00:00+00:00,Regular Season - 18,FINISHED,Arsenal,Brighton,2.0,1.0,H
+football_data,,2025,2025-12-27 15:00:00+00:00,Regular Season - 18,FINISHED,Brentford,Bournemouth,4.0,1.0,H
+football_data,,2025,2025-12-27 15:00:00+00:00,Regular Season - 18,FINISHED,Burnley,Everton,0.0,0.0,D
+football_data,,2025,2025-12-27 15:00:00+00:00,Regular Season - 18,FINISHED,Liverpool,Wolves,2.0,1.0,H
+football_data,,2025,2025-12-27 15:00:00+00:00,Regular Season - 18,FINISHED,West Ham,Fulham,0.0,1.0,A
+football_data,,2025,2025-12-27 17:30:00+00:00,Regular Season - 18,FINISHED,Chelsea,Aston Villa,1.0,2.0,A
+football_data,,2025,2025-12-28 14:00:00+00:00,Regular Season - 18,FINISHED,Sunderland,Leeds,1.0,1.0,D
+football_data,,2025,2025-12-28 16:30:00+00:00,Regular Season - 18,FINISHED,Crystal Palace,Tottenham,0.0,1.0,A
+football_data,,2025,2025-12-30 19:30:00+00:00,Regular Season - 19,FINISHED,Burnley,Newcastle,1.0,3.0,A
+football_data,,2025,2025-12-30 19:30:00+00:00,Regular Season - 19,FINISHED,Chelsea,Bournemouth,2.0,2.0,D
+football_data,,2025,2025-12-30 19:30:00+00:00,Regular Season - 19,FINISHED,Nottingham Forest,Everton,0.0,2.0,A
+football_data,,2025,2025-12-30 19:30:00+00:00,Regular Season - 19,FINISHED,West Ham,Brighton,2.0,2.0,D
+football_data,,2025,2025-12-30 20:15:00+00:00,Regular Season - 19,FINISHED,Arsenal,Aston Villa,4.0,1.0,H
+football_data,,2025,2025-12-30 20:15:00+00:00,Regular Season - 19,FINISHED,Manchester United,Wolves,1.0,1.0,D
+football_data,,2025,2026-01-01 17:30:00+00:00,Regular Season - 19,FINISHED,Crystal Palace,Fulham,1.0,1.0,D
+football_data,,2025,2026-01-01 17:30:00+00:00,Regular Season - 19,FINISHED,Liverpool,Leeds,0.0,0.0,D
+football_data,,2025,2026-01-01 20:00:00+00:00,Regular Season - 19,FINISHED,Sunderland,Manchester City,0.0,0.0,D
+football_data,,2025,2026-01-01 20:00:00+00:00,Regular Season - 19,FINISHED,Brentford,Tottenham,0.0,0.0,D
+football_data,,2025,2026-01-03 12:30:00+00:00,Regular Season - 20,FINISHED,Aston Villa,Nottingham Forest,3.0,1.0,H
+football_data,,2025,2026-01-03 15:00:00+00:00,Regular Season - 20,FINISHED,Brighton,Burnley,2.0,0.0,H
+football_data,,2025,2026-01-03 15:00:00+00:00,Regular Season - 20,FINISHED,Wolves,West Ham,3.0,0.0,H
+football_data,,2025,2026-01-03 17:30:00+00:00,Regular Season - 20,FINISHED,Bournemouth,Arsenal,2.0,3.0,A
+football_data,,2025,2026-01-04 12:30:00+00:00,Regular Season - 20,FINISHED,Leeds,Manchester United,1.0,1.0,D
+football_data,,2025,2026-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Everton,Brentford,2.0,4.0,A
+football_data,,2025,2026-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Newcastle,Crystal Palace,2.0,0.0,H
+football_data,,2025,2026-01-04 15:00:00+00:00,Regular Season - 20,FINISHED,Tottenham,Sunderland,1.0,1.0,D
+football_data,,2025,2026-01-04 15:15:00+00:00,Regular Season - 20,FINISHED,Fulham,Liverpool,2.0,2.0,D
+football_data,,2025,2026-01-04 17:30:00+00:00,Regular Season - 20,FINISHED,Manchester City,Chelsea,1.0,1.0,D
+football_data,,2025,2026-01-06 20:00:00+00:00,Regular Season - 21,FINISHED,West Ham,Nottingham Forest,1.0,2.0,A
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Bournemouth,Tottenham,3.0,2.0,H
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Crystal Palace,Aston Villa,0.0,0.0,D
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Brentford,Sunderland,3.0,0.0,H
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Everton,Wolves,1.0,1.0,D
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Fulham,Chelsea,2.0,1.0,H
+football_data,,2025,2026-01-07 19:30:00+00:00,Regular Season - 21,FINISHED,Manchester City,Brighton,1.0,1.0,D
+football_data,,2025,2026-01-07 20:15:00+00:00,Regular Season - 21,FINISHED,Burnley,Manchester United,2.0,2.0,D
+football_data,,2025,2026-01-07 20:15:00+00:00,Regular Season - 21,FINISHED,Newcastle,Leeds,4.0,3.0,H
+football_data,,2025,2026-01-08 20:00:00+00:00,Regular Season - 21,FINISHED,Arsenal,Liverpool,0.0,0.0,D
+football_data,,2025,2026-01-17 12:30:00+00:00,Regular Season - 22,FINISHED,Manchester United,Manchester City,2.0,0.0,H
+football_data,,2025,2026-01-17 15:00:00+00:00,Regular Season - 22,FINISHED,Sunderland,Crystal Palace,2.0,1.0,H
+football_data,,2025,2026-01-17 15:00:00+00:00,Regular Season - 22,FINISHED,Chelsea,Brentford,2.0,0.0,H
+football_data,,2025,2026-01-17 15:00:00+00:00,Regular Season - 22,FINISHED,Liverpool,Burnley,1.0,1.0,D
+football_data,,2025,2026-01-17 15:00:00+00:00,Regular Season - 22,FINISHED,Leeds,Fulham,1.0,0.0,H
+football_data,,2025,2026-01-17 15:00:00+00:00,Regular Season - 22,FINISHED,Tottenham,West Ham,1.0,2.0,A
+football_data,,2025,2026-01-17 17:30:00+00:00,Regular Season - 22,FINISHED,Nottingham Forest,Arsenal,0.0,0.0,D
+football_data,,2025,2026-01-18 14:00:00+00:00,Regular Season - 22,FINISHED,Wolves,Newcastle,0.0,0.0,D
+football_data,,2025,2026-01-18 16:30:00+00:00,Regular Season - 22,FINISHED,Aston Villa,Everton,0.0,1.0,A
+football_data,,2025,2026-01-19 20:00:00+00:00,Regular Season - 22,FINISHED,Brighton,Bournemouth,1.0,1.0,D
+football_data,,2025,2026-01-24 12:30:00+00:00,Regular Season - 23,FINISHED,West Ham,Sunderland,3.0,1.0,H
+football_data,,2025,2026-01-24 15:00:00+00:00,Regular Season - 23,FINISHED,Burnley,Tottenham,2.0,2.0,D
+football_data,,2025,2026-01-24 15:00:00+00:00,Regular Season - 23,FINISHED,Fulham,Brighton,2.0,1.0,H
+football_data,,2025,2026-01-24 15:00:00+00:00,Regular Season - 23,FINISHED,Manchester City,Wolves,2.0,0.0,H
+football_data,,2025,2026-01-24 17:30:00+00:00,Regular Season - 23,FINISHED,Bournemouth,Liverpool,3.0,2.0,H
+football_data,,2025,2026-01-25 14:00:00+00:00,Regular Season - 23,FINISHED,Crystal Palace,Chelsea,1.0,3.0,A
+football_data,,2025,2026-01-25 14:00:00+00:00,Regular Season - 23,FINISHED,Brentford,Nottingham Forest,0.0,2.0,A
+football_data,,2025,2026-01-25 14:00:00+00:00,Regular Season - 23,FINISHED,Newcastle,Aston Villa,0.0,2.0,A
+football_data,,2025,2026-01-25 16:30:00+00:00,Regular Season - 23,FINISHED,Arsenal,Manchester United,2.0,3.0,A
+football_data,,2025,2026-01-26 20:00:00+00:00,Regular Season - 23,FINISHED,Everton,Leeds,1.0,1.0,D
+football_data,,2025,2026-01-31 15:00:00+00:00,Regular Season - 24,FINISHED,Brighton,Everton,1.0,1.0,D
+football_data,,2025,2026-01-31 15:00:00+00:00,Regular Season - 24,FINISHED,Leeds,Arsenal,0.0,4.0,A
+football_data,,2025,2026-01-31 15:00:00+00:00,Regular Season - 24,FINISHED,Wolves,Bournemouth,0.0,2.0,A
+football_data,,2025,2026-01-31 17:30:00+00:00,Regular Season - 24,FINISHED,Chelsea,West Ham,3.0,2.0,H
+football_data,,2025,2026-01-31 20:00:00+00:00,Regular Season - 24,FINISHED,Liverpool,Newcastle,4.0,1.0,H
+football_data,,2025,2026-02-01 14:00:00+00:00,Regular Season - 24,FINISHED,Aston Villa,Brentford,0.0,1.0,A
+football_data,,2025,2026-02-01 14:00:00+00:00,Regular Season - 24,FINISHED,Manchester United,Fulham,3.0,2.0,H
+football_data,,2025,2026-02-01 14:00:00+00:00,Regular Season - 24,FINISHED,Nottingham Forest,Crystal Palace,1.0,1.0,D
+football_data,,2025,2026-02-01 16:30:00+00:00,Regular Season - 24,FINISHED,Tottenham,Manchester City,2.0,2.0,D
+football_data,,2025,2026-02-02 20:00:00+00:00,Regular Season - 24,FINISHED,Sunderland,Burnley,3.0,0.0,H
+football_data,,2025,2026-02-06 20:00:00+00:00,Regular Season - 25,FINISHED,Leeds,Nottingham Forest,3.0,1.0,H
+football_data,,2025,2026-02-07 12:30:00+00:00,Regular Season - 25,FINISHED,Manchester United,Tottenham,2.0,0.0,H
+football_data,,2025,2026-02-07 15:00:00+00:00,Regular Season - 25,FINISHED,Bournemouth,Aston Villa,1.0,1.0,D
+football_data,,2025,2026-02-07 15:00:00+00:00,Regular Season - 25,FINISHED,Arsenal,Sunderland,3.0,0.0,H
+football_data,,2025,2026-02-07 15:00:00+00:00,Regular Season - 25,FINISHED,Burnley,West Ham,0.0,2.0,A
+football_data,,2025,2026-02-07 15:00:00+00:00,Regular Season - 25,FINISHED,Fulham,Everton,1.0,2.0,A
+football_data,,2025,2026-02-07 15:00:00+00:00,Regular Season - 25,FINISHED,Wolves,Chelsea,1.0,3.0,A
+football_data,,2025,2026-02-07 17:30:00+00:00,Regular Season - 25,FINISHED,Newcastle,Brentford,2.0,3.0,A
+football_data,,2025,2026-02-08 14:00:00+00:00,Regular Season - 25,FINISHED,Brighton,Crystal Palace,0.0,1.0,A
+football_data,,2025,2026-02-08 16:30:00+00:00,Regular Season - 25,FINISHED,Liverpool,Manchester City,1.0,2.0,A
+football_data,,2025,2026-02-10 19:30:00+00:00,Regular Season - 26,FINISHED,Chelsea,Leeds,2.0,2.0,D
+football_data,,2025,2026-02-10 19:30:00+00:00,Regular Season - 26,FINISHED,Everton,Bournemouth,1.0,2.0,A
+football_data,,2025,2026-02-10 19:30:00+00:00,Regular Season - 26,FINISHED,Tottenham,Newcastle,1.0,2.0,A
+football_data,,2025,2026-02-10 20:15:00+00:00,Regular Season - 26,FINISHED,West Ham,Manchester United,1.0,1.0,D
+football_data,,2025,2026-02-11 19:30:00+00:00,Regular Season - 26,FINISHED,Nottingham Forest,Wolves,0.0,0.0,D
+football_data,,2025,2026-02-11 19:30:00+00:00,Regular Season - 26,FINISHED,Aston Villa,Brighton,1.0,0.0,H
+football_data,,2025,2026-02-11 19:30:00+00:00,Regular Season - 26,FINISHED,Manchester City,Fulham,3.0,0.0,H
+football_data,,2025,2026-02-11 19:40:00+00:00,Regular Season - 26,FINISHED,Crystal Palace,Burnley,2.0,3.0,A
+football_data,,2025,2026-02-11 20:15:00+00:00,Regular Season - 26,FINISHED,Sunderland,Liverpool,0.0,1.0,A
+football_data,,2025,2026-02-12 20:00:00+00:00,Regular Season - 26,FINISHED,Brentford,Arsenal,1.0,1.0,D
+football_data,,2025,2026-02-18 20:00:00+00:00,Regular Season - 31,FINISHED,Wolves,Arsenal,2.0,2.0,D
+football_data,,2025,2026-02-21 15:00:00+00:00,Regular Season - 27,FINISHED,Aston Villa,Leeds,1.0,1.0,D
+football_data,,2025,2026-02-21 15:00:00+00:00,Regular Season - 27,FINISHED,Brentford,Brighton,0.0,2.0,A
+football_data,,2025,2026-02-21 15:00:00+00:00,Regular Season - 27,FINISHED,Chelsea,Burnley,1.0,1.0,D
+football_data,,2025,2026-02-21 17:30:00+00:00,Regular Season - 27,FINISHED,West Ham,Bournemouth,0.0,0.0,D
+football_data,,2025,2026-02-21 20:00:00+00:00,Regular Season - 27,FINISHED,Manchester City,Newcastle,2.0,1.0,H
+football_data,,2025,2026-02-22 14:00:00+00:00,Regular Season - 27,FINISHED,Nottingham Forest,Liverpool,0.0,1.0,A
+football_data,,2025,2026-02-22 14:00:00+00:00,Regular Season - 27,FINISHED,Sunderland,Fulham,1.0,3.0,A
+football_data,,2025,2026-02-22 14:00:00+00:00,Regular Season - 27,FINISHED,Crystal Palace,Wolves,1.0,0.0,H
+football_data,,2025,2026-02-22 16:30:00+00:00,Regular Season - 27,FINISHED,Tottenham,Arsenal,1.0,4.0,A
+football_data,,2025,2026-02-23 20:00:00+00:00,Regular Season - 27,FINISHED,Everton,Manchester United,0.0,1.0,A
+football_data,,2025,2026-02-27 20:00:00+00:00,Regular Season - 28,FINISHED,Wolves,Aston Villa,2.0,0.0,H
+football_data,,2025,2026-02-28 12:30:00+00:00,Regular Season - 28,FINISHED,Bournemouth,Sunderland,1.0,1.0,D
+football_data,,2025,2026-02-28 15:00:00+00:00,Regular Season - 28,FINISHED,Burnley,Brentford,3.0,4.0,A
+football_data,,2025,2026-02-28 15:00:00+00:00,Regular Season - 28,FINISHED,Liverpool,West Ham,5.0,2.0,H
+football_data,,2025,2026-02-28 15:00:00+00:00,Regular Season - 28,FINISHED,Newcastle,Everton,2.0,3.0,A
+football_data,,2025,2026-02-28 17:30:00+00:00,Regular Season - 28,FINISHED,Leeds,Manchester City,0.0,1.0,A
+football_data,,2025,2026-03-01 14:00:00+00:00,Regular Season - 28,FINISHED,Brighton,Nottingham Forest,2.0,1.0,H
+football_data,,2025,2026-03-01 14:00:00+00:00,Regular Season - 28,FINISHED,Fulham,Tottenham,2.0,1.0,H
+football_data,,2025,2026-03-01 14:00:00+00:00,Regular Season - 28,FINISHED,Manchester United,Crystal Palace,2.0,1.0,H
+football_data,,2025,2026-03-01 16:30:00+00:00,Regular Season - 28,FINISHED,Arsenal,Chelsea,2.0,1.0,H
+football_data,,2025,2026-03-03 19:30:00+00:00,Regular Season - 29,FINISHED,Everton,Burnley,2.0,0.0,H
+football_data,,2025,2026-03-03 19:30:00+00:00,Regular Season - 29,FINISHED,Bournemouth,Brentford,0.0,0.0,D
+football_data,,2025,2026-03-03 19:30:00+00:00,Regular Season - 29,FINISHED,Leeds,Sunderland,0.0,1.0,A
+football_data,,2025,2026-03-03 20:15:00+00:00,Regular Season - 29,FINISHED,Wolves,Liverpool,2.0,1.0,H
+football_data,,2025,2026-03-04 19:30:00+00:00,Regular Season - 29,FINISHED,Aston Villa,Chelsea,1.0,4.0,A
+football_data,,2025,2026-03-04 19:30:00+00:00,Regular Season - 29,FINISHED,Brighton,Arsenal,0.0,1.0,A
+football_data,,2025,2026-03-04 19:30:00+00:00,Regular Season - 29,FINISHED,Fulham,West Ham,0.0,1.0,A
+football_data,,2025,2026-03-04 19:30:00+00:00,Regular Season - 29,FINISHED,Manchester City,Nottingham Forest,2.0,2.0,D
+football_data,,2025,2026-03-04 20:15:00+00:00,Regular Season - 29,FINISHED,Newcastle,Manchester United,2.0,1.0,H
+football_data,,2025,2026-03-05 20:00:00+00:00,Regular Season - 29,FINISHED,Tottenham,Crystal Palace,1.0,3.0,A
+football_data,,2025,2026-03-14 15:00:00+00:00,Regular Season - 30,FINISHED,Sunderland,Brighton,0.0,1.0,A
+football_data,,2025,2026-03-14 15:00:00+00:00,Regular Season - 30,FINISHED,Burnley,Bournemouth,0.0,0.0,D
+football_data,,2025,2026-03-14 17:30:00+00:00,Regular Season - 30,FINISHED,Arsenal,Everton,2.0,0.0,H
+football_data,,2025,2026-03-14 17:30:00+00:00,Regular Season - 30,FINISHED,Chelsea,Newcastle,0.0,1.0,A
+football_data,,2025,2026-03-14 20:00:00+00:00,Regular Season - 30,FINISHED,West Ham,Manchester City,1.0,1.0,D
+football_data,,2025,2026-03-15 14:00:00+00:00,Regular Season - 30,FINISHED,Crystal Palace,Leeds,0.0,0.0,D
+football_data,,2025,2026-03-15 14:00:00+00:00,Regular Season - 30,FINISHED,Manchester United,Aston Villa,3.0,1.0,H
+football_data,,2025,2026-03-15 14:00:00+00:00,Regular Season - 30,FINISHED,Nottingham Forest,Fulham,0.0,0.0,D
+football_data,,2025,2026-03-15 16:30:00+00:00,Regular Season - 30,FINISHED,Liverpool,Tottenham,1.0,1.0,D
+football_data,,2025,2026-03-16 20:00:00+00:00,Regular Season - 30,FINISHED,Brentford,Wolves,2.0,2.0,D
+football_data,,2025,2026-03-20 20:00:00+00:00,Regular Season - 31,FINISHED,Bournemouth,Manchester United,2.0,2.0,D
+football_data,,2025,2026-03-21 12:45:00+00:00,Regular Season - 31,FINISHED,Brighton,Liverpool,2.0,1.0,H
+football_data,,2025,2026-03-21 15:00:00+00:00,Regular Season - 31,FINISHED,Fulham,Burnley,3.0,1.0,H
+football_data,,2025,2026-03-21 17:30:00+00:00,Regular Season - 31,FINISHED,Everton,Chelsea,3.0,0.0,H
+football_data,,2025,2026-03-21 20:00:00+00:00,Regular Season - 31,FINISHED,Leeds,Brentford,0.0,0.0,D
+football_data,,2025,2026-03-22 12:00:00+00:00,Regular Season - 31,FINISHED,Newcastle,Sunderland,1.0,2.0,A
+football_data,,2025,2026-03-22 14:15:00+00:00,Regular Season - 31,FINISHED,Aston Villa,West Ham,2.0,0.0,H
+football_data,,2025,2026-03-22 14:15:00+00:00,Regular Season - 31,FINISHED,Tottenham,Nottingham Forest,0.0,3.0,A
+football_data,,2025,2026-04-10 19:00:00+00:00,Regular Season - 32,FINISHED,West Ham,Wolves,4.0,0.0,H
+football_data,,2025,2026-04-11 11:30:00+00:00,Regular Season - 32,FINISHED,Arsenal,Bournemouth,1.0,2.0,A
+football_data,,2025,2026-04-11 14:00:00+00:00,Regular Season - 32,FINISHED,Brentford,Everton,2.0,2.0,D
+football_data,,2025,2026-04-11 14:00:00+00:00,Regular Season - 32,FINISHED,Burnley,Brighton,0.0,2.0,A
+football_data,,2025,2026-04-11 16:30:00+00:00,Regular Season - 32,FINISHED,Liverpool,Fulham,2.0,0.0,H
+football_data,,2025,2026-04-12 13:00:00+00:00,Regular Season - 32,FINISHED,Nottingham Forest,Aston Villa,1.0,1.0,D
+football_data,,2025,2026-04-12 13:00:00+00:00,Regular Season - 32,FINISHED,Sunderland,Tottenham,1.0,0.0,H
+football_data,,2025,2026-04-12 13:00:00+00:00,Regular Season - 32,FINISHED,Crystal Palace,Newcastle,2.0,1.0,H
+football_data,,2025,2026-04-12 15:30:00+00:00,Regular Season - 32,FINISHED,Chelsea,Manchester City,0.0,3.0,A
+football_data,,2025,2026-04-13 19:00:00+00:00,Regular Season - 32,FINISHED,Manchester United,Leeds,1.0,2.0,A
+football_data,,2025,2026-04-18 11:30:00+00:00,Regular Season - 33,FINISHED,Brentford,Fulham,0.0,0.0,D
+football_data,,2025,2026-04-18 14:00:00+00:00,Regular Season - 33,FINISHED,Newcastle,Bournemouth,1.0,2.0,A
+football_data,,2025,2026-04-18 14:00:00+00:00,Regular Season - 33,FINISHED,Leeds,Wolves,3.0,0.0,H
+football_data,,2025,2026-04-18 16:30:00+00:00,Regular Season - 33,FINISHED,Tottenham,Brighton,2.0,2.0,D
+football_data,,2025,2026-04-18 19:00:00+00:00,Regular Season - 33,FINISHED,Chelsea,Manchester United,0.0,1.0,A
+football_data,,2025,2026-04-19 13:00:00+00:00,Regular Season - 33,FINISHED,Nottingham Forest,Burnley,4.0,1.0,H
+football_data,,2025,2026-04-19 13:00:00+00:00,Regular Season - 33,FINISHED,Aston Villa,Sunderland,4.0,3.0,H
+football_data,,2025,2026-04-19 13:00:00+00:00,Regular Season - 33,FINISHED,Everton,Liverpool,1.0,2.0,A
+football_data,,2025,2026-04-19 15:30:00+00:00,Regular Season - 33,FINISHED,Manchester City,Arsenal,2.0,1.0,H
+football_data,,2025,2026-04-20 19:00:00+00:00,Regular Season - 33,FINISHED,Crystal Palace,West Ham,0.0,0.0,D
+football_data,,2025,2026-04-21 19:00:00+00:00,Regular Season - 34,FINISHED,Brighton,Chelsea,3.0,0.0,H
+football_data,,2025,2026-04-22 19:00:00+00:00,Regular Season - 34,FINISHED,Bournemouth,Leeds,2.0,2.0,D
+football_data,,2025,2026-04-22 19:00:00+00:00,Regular Season - 34,FINISHED,Burnley,Manchester City,0.0,1.0,A
+football_data,,2025,2026-04-24 19:00:00+00:00,Regular Season - 34,FINISHED,Sunderland,Nottingham Forest,0.0,5.0,A
+football_data,,2025,2026-04-25 11:30:00+00:00,Regular Season - 34,FINISHED,Fulham,Aston Villa,1.0,0.0,H
+football_data,,2025,2026-04-25 14:00:00+00:00,Regular Season - 34,FINISHED,Liverpool,Crystal Palace,3.0,1.0,H
+football_data,,2025,2026-04-25 14:00:00+00:00,Regular Season - 34,FINISHED,West Ham,Everton,2.0,1.0,H
+football_data,,2025,2026-04-25 14:00:00+00:00,Regular Season - 34,FINISHED,Wolves,Tottenham,0.0,1.0,A
+football_data,,2025,2026-04-25 16:30:00+00:00,Regular Season - 34,FINISHED,Arsenal,Newcastle,1.0,0.0,H
+football_data,,2025,2026-04-27 19:00:00+00:00,Regular Season - 34,FINISHED,Manchester United,Brentford,2.0,1.0,H
+football_data,,2025,2026-05-01 19:00:00+00:00,Regular Season - 35,FINISHED,Leeds,Burnley,3.0,1.0,H
+football_data,,2025,2026-05-02 14:00:00+00:00,Regular Season - 35,FINISHED,Newcastle,Brighton,3.0,1.0,H
+football_data,,2025,2026-05-02 14:00:00+00:00,Regular Season - 35,FINISHED,Wolves,Sunderland,1.0,1.0,D
+football_data,,2025,2026-05-02 14:00:00+00:00,Regular Season - 35,FINISHED,Brentford,West Ham,3.0,0.0,H
+football_data,,2025,2026-05-02 16:30:00+00:00,Regular Season - 35,FINISHED,Arsenal,Fulham,3.0,0.0,H
+football_data,,2025,2026-05-03 13:00:00+00:00,Regular Season - 35,FINISHED,Bournemouth,Crystal Palace,3.0,0.0,H
+football_data,,2025,2026-05-03 14:30:00+00:00,Regular Season - 35,FINISHED,Manchester United,Liverpool,3.0,2.0,H
+football_data,,2025,2026-05-03 18:00:00+00:00,Regular Season - 35,FINISHED,Aston Villa,Tottenham,1.0,2.0,A
+football_data,,2025,2026-05-04 14:00:00+00:00,Regular Season - 35,FINISHED,Chelsea,Nottingham Forest,1.0,3.0,A
+football_data,,2025,2026-05-04 19:00:00+00:00,Regular Season - 35,FINISHED,Everton,Manchester City,3.0,3.0,D
+football_data,,2025,2026-05-09 11:30:00+00:00,Regular Season - 36,FINISHED,Liverpool,Chelsea,1.0,1.0,D
+football_data,,2025,2026-05-09 14:00:00+00:00,Regular Season - 36,FINISHED,Sunderland,Manchester United,0.0,0.0,D
+football_data,,2025,2026-05-09 14:00:00+00:00,Regular Season - 36,FINISHED,Brighton,Wolves,3.0,0.0,H
+football_data,,2025,2026-05-09 14:00:00+00:00,Regular Season - 36,FINISHED,Fulham,Bournemouth,0.0,1.0,A
+football_data,,2025,2026-05-09 16:30:00+00:00,Regular Season - 36,FINISHED,Manchester City,Brentford,3.0,0.0,H
+football_data,,2025,2026-05-10 13:00:00+00:00,Regular Season - 36,FINISHED,Crystal Palace,Everton,2.0,2.0,D
+football_data,,2025,2026-05-10 13:00:00+00:00,Regular Season - 36,FINISHED,Burnley,Aston Villa,2.0,2.0,D
+football_data,,2025,2026-05-10 13:00:00+00:00,Regular Season - 36,FINISHED,Nottingham Forest,Newcastle,1.0,1.0,D
+football_data,,2025,2026-05-10 15:30:00+00:00,Regular Season - 36,FINISHED,West Ham,Arsenal,0.0,1.0,A
+football_data,,2025,2026-05-11 19:00:00+00:00,Regular Season - 36,FINISHED,Tottenham,Leeds,1.0,1.0,D
+football_data,,2025,2026-05-13 19:00:00+00:00,Regular Season - 31,FINISHED,Manchester City,Crystal Palace,3.0,0.0,H
+football_data,,2025,2026-05-15 19:00:00+00:00,Regular Season - 37,FINISHED,Aston Villa,Liverpool,4.0,2.0,H
+football_data,,2025,2026-05-17 11:30:00+00:00,Regular Season - 37,FINISHED,Manchester United,Nottingham Forest,3.0,2.0,H
+football_data,,2025,2026-05-17 14:00:00+00:00,Regular Season - 37,FINISHED,Brentford,Crystal Palace,2.0,2.0,D
+football_data,,2025,2026-05-17 14:00:00+00:00,Regular Season - 37,FINISHED,Everton,Sunderland,1.0,3.0,A
+football_data,,2025,2026-05-17 14:00:00+00:00,Regular Season - 37,FINISHED,Leeds,Brighton,1.0,0.0,H
+football_data,,2025,2026-05-17 14:00:00+00:00,Regular Season - 37,FINISHED,Wolves,Fulham,1.0,1.0,D
+football_data,,2025,2026-05-17 16:30:00+00:00,Regular Season - 37,FINISHED,Newcastle,West Ham,3.0,1.0,H
+football_data,,2025,2026-05-18 19:00:00+00:00,Regular Season - 37,FINISHED,Arsenal,Burnley,1.0,0.0,H
+football_data,,2025,2026-05-19 18:30:00+00:00,Regular Season - 37,FINISHED,Bournemouth,Manchester City,1.0,1.0,D
+football_data,,2025,2026-05-19 19:15:00+00:00,Regular Season - 37,FINISHED,Chelsea,Tottenham,2.0,1.0,H
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,West Ham,Leeds,3.0,0.0,H
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Tottenham,Everton,1.0,0.0,H
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Nottingham Forest,Bournemouth,1.0,1.0,D
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Manchester City,Aston Villa,1.0,2.0,A
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Liverpool,Brentford,1.0,1.0,D
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Fulham,Newcastle,2.0,0.0,H
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Burnley,Wolves,1.0,1.0,D
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Crystal Palace,Arsenal,1.0,2.0,A
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Brighton,Manchester United,0.0,3.0,A
+football_data,,2025,2026-05-24 15:00:00+00:00,Regular Season - 38,FINISHED,Sunderland,Chelsea,2.0,1.0,H
+football_data,,2026,2026-08-21 19:00:00+00:00,Regular Season - 1,FINISHED,Arsenal,Coventry,3.0,0.0,H
+football_data,,2026,2026-08-22 11:30:00+00:00,Regular Season - 1,FINISHED,Hull City,Manchester United,2.0,0.0,H
+football_data,,2026,2026-08-22 14:00:00+00:00,Regular Season - 1,FINISHED,Ipswich,Sunderland,2.0,1.0,H
+football_data,,2026,2026-08-22 14:00:00+00:00,Regular Season - 1,FINISHED,Nottingham Forest,Leeds,0.0,1.0,A
+football_data,,2026,2026-08-22 14:00:00+00:00,Regular Season - 1,FINISHED,Everton,Crystal Palace,2.0,0.0,H
+football_data,,2026,2026-08-22 16:30:00+00:00,Regular Season - 1,FINISHED,Brentford,Tottenham,3.0,0.0,H
+football_data,,2026,2026-08-23 13:00:00+00:00,Regular Season - 1,FINISHED,Manchester City,Bournemouth,2.0,1.0,H
+football_data,,2026,2026-08-23 13:00:00+00:00,Regular Season - 1,FINISHED,Brighton,Aston Villa,4.0,0.0,H
+football_data,,2026,2026-08-23 15:30:00+00:00,Regular Season - 1,FINISHED,Newcastle,Liverpool,2.0,2.0,D
+football_data,,2026,2026-08-24 19:00:00+00:00,Regular Season - 1,FINISHED,Fulham,Chelsea,2.0,3.0,A
+football_data,,2026,2026-08-28 19:00:00+00:00,Regular Season - 2,FINISHED,Crystal Palace,Manchester City,1.0,4.0,A
+football_data,,2026,2026-08-29 11:30:00+00:00,Regular Season - 2,FINISHED,Liverpool,Nottingham Forest,2.0,2.0,D
+football_data,,2026,2026-08-29 14:00:00+00:00,Regular Season - 2,FINISHED,Bournemouth,Everton,1.0,1.0,D
+football_data,,2026,2026-08-29 14:00:00+00:00,Regular Season - 2,FINISHED,Coventry,Hull City,0.0,1.0,A
+football_data,,2026,2026-08-29 16:30:00+00:00,Regular Season - 2,FINISHED,Tottenham,Newcastle,0.0,2.0,A
+football_data,,2026,2026-08-30 13:00:00+00:00,Regular Season - 2,FINISHED,Sunderland,Fulham,1.0,0.0,H
+football_data,,2026,2026-08-30 13:00:00+00:00,Regular Season - 2,FINISHED,Chelsea,Brighton,4.0,3.0,H
+football_data,,2026,2026-08-30 13:00:00+00:00,Regular Season - 2,FINISHED,Leeds,Brentford,1.0,1.0,D
+football_data,,2026,2026-08-30 15:30:00+00:00,Regular Season - 2,FINISHED,Manchester United,Ipswich,5.0,2.0,H
+football_data,,2026,2026-08-31 19:00:00+00:00,Regular Season - 2,FINISHED,Aston Villa,Arsenal,0.0,1.0,A
+football_data,,2026,2026-09-04 19:00:00+00:00,Regular Season - 3,FINISHED,Ipswich,Liverpool,0.0,2.0,A
+football_data,,2026,2026-09-05 11:30:00+00:00,Regular Season - 3,FINISHED,Newcastle,Bournemouth,2.0,2.0,D
+football_data,,2026,2026-09-05 14:00:00+00:00,Regular Season - 3,FINISHED,Fulham,Crystal Palace,2.0,3.0,A
+football_data,,2026,2026-09-05 14:00:00+00:00,Regular Season - 3,FINISHED,Brentford,Sunderland,1.0,1.0,D
+football_data,,2026,2026-09-05 14:00:00+00:00,Regular Season - 3,FINISHED,Nottingham Forest,Tottenham,0.0,0.0,D
+football_data,,2026,2026-09-05 14:00:00+00:00,Regular Season - 3,FINISHED,Manchester City,Coventry,1.0,0.0,H
+football_data,,2026,2026-09-05 14:00:00+00:00,Regular Season - 3,FINISHED,Brighton,Leeds,1.0,1.0,D
+football_data,,2026,2026-09-05 16:30:00+00:00,Regular Season - 3,FINISHED,Hull City,Aston Villa,0.0,0.0,D
+football_data,,2026,2026-09-06 13:00:00+00:00,Regular Season - 3,FINISHED,Everton,Manchester United,2.0,2.0,D
+football_data,,2026,2026-09-06 15:30:00+00:00,Regular Season - 3,FINISHED,Arsenal,Chelsea,2.0,1.0,H
+football_data,,2026,2026-09-12 14:00:00+00:00,Regular Season - 4,FINISHED,Crystal Palace,Ipswich,2.0,3.0,A
+football_data,,2026,2026-09-12 14:00:00+00:00,Regular Season - 4,FINISHED,Liverpool,Fulham,0.0,0.0,D
+football_data,,2026,2026-09-12 14:00:00+00:00,Regular Season - 4,FINISHED,Aston Villa,Nottingham Forest,1.0,2.0,A
+football_data,,2026,2026-09-12 14:00:00+00:00,Regular Season - 4,FINISHED,Bournemouth,Brentford,2.0,2.0,D
+football_data,,2026,2026-09-12 14:00:00+00:00,Regular Season - 4,FINISHED,Chelsea,Hull City,2.0,2.0,D
+football_data,,2026,2026-09-12 16:30:00+00:00,Regular Season - 4,FINISHED,Tottenham,Everton,0.0,0.0,D
+football_data,,2026,2026-09-12 19:00:00+00:00,Regular Season - 4,FINISHED,Sunderland,Arsenal,0.0,2.0,A
+football_data,,2026,2026-09-13 13:00:00+00:00,Regular Season - 4,FINISHED,Coventry,Brighton,0.0,5.0,A
+football_data,,2026,2026-09-13 15:30:00+00:00,Regular Season - 4,FINISHED,Manchester United,Manchester City,0.0,1.0,A
+football_data,,2026,2026-09-14 19:00:00+00:00,Regular Season - 4,FINISHED,Leeds,Newcastle,4.0,1.0,H
+football_data,,2026,2026-09-18 19:00:00+00:00,Regular Season - 5,FINISHED,Brentford,Chelsea,3.0,0.0,H
+football_data,,2026,2026-09-19 11:30:00+00:00,Regular Season - 5,FINISHED,Tottenham,Aston Villa,2.0,3.0,A
+football_data,,2026,2026-09-19 14:00:00+00:00,Regular Season - 5,FINISHED,Everton,Ipswich,1.0,0.0,H
+football_data,,2026,2026-09-19 14:00:00+00:00,Regular Season - 5,FINISHED,Brighton,Arsenal,3.0,0.0,H
+football_data,,2026,2026-09-19 14:00:00+00:00,Regular Season - 5,FINISHED,Newcastle,Hull City,2.0,1.0,H
+football_data,,2026,2026-09-19 16:30:00+00:00,Regular Season - 5,FINISHED,Nottingham Forest,Coventry,0.0,1.0,A
+football_data,,2026,2026-09-20 13:00:00+00:00,Regular Season - 5,FINISHED,Bournemouth,Liverpool,0.0,1.0,A
+football_data,,2026,2026-09-20 13:00:00+00:00,Regular Season - 5,FINISHED,Leeds,Crystal Palace,0.0,0.0,D
+football_data,,2026,2026-09-20 13:00:00+00:00,Regular Season - 5,FINISHED,Manchester City,Sunderland,5.0,3.0,H
+football_data,,2026,2026-09-20 15:30:00+00:00,Regular Season - 5,FINISHED,Fulham,Manchester United,1.0,1.0,D
+football_data,,2026,2026-10-10 11:30:00+00:00,Regular Season - 6,FINISHED,Arsenal,Leeds,2.0,1.0,H
+football_data,,2026,2026-10-10 14:00:00+00:00,Regular Season - 6,FINISHED,Chelsea,Bournemouth,5.0,1.0,H
+football_data,,2026,2026-10-10 14:00:00+00:00,Regular Season - 6,FINISHED,Aston Villa,Brentford,2.0,2.0,D
+football_data,,2026,2026-10-10 14:00:00+00:00,Regular Season - 6,FINISHED,Ipswich,Fulham,2.0,1.0,H
+football_data,,2026,2026-10-10 14:00:00+00:00,Regular Season - 6,FINISHED,Sunderland,Brighton,0.0,2.0,A
+football_data,,2026,2026-10-10 16:30:00+00:00,Regular Season - 6,FINISHED,Manchester United,Tottenham,1.0,1.0,D
+football_data,,2026,2026-10-11 13:00:00+00:00,Regular Season - 6,FINISHED,Hull City,Everton,2.0,2.0,D
+football_data,,2026,2026-10-11 13:00:00+00:00,Regular Season - 6,FINISHED,Crystal Palace,Nottingham Forest,3.0,1.0,H
+football_data,,2026,2026-10-11 15:30:00+00:00,Regular Season - 6,FINISHED,Liverpool,Manchester City,0.0,3.0,A
+football_data,,2026,2026-10-12 19:00:00+00:00,Regular Season - 6,FINISHED,Coventry,Newcastle,4.0,1.0,H
+football_data,,2026,2026-10-17 11:30:00+00:00,Regular Season - 7,FINISHED,Everton,Chelsea,0.0,2.0,A
+football_data,,2026,2026-10-17 14:00:00+00:00,Regular Season - 7,FINISHED,Fulham,Hull City,1.0,0.0,H
+football_data,,2026,2026-10-17 14:00:00+00:00,Regular Season - 7,FINISHED,Manchester City,Ipswich,3.0,2.0,H
+football_data,,2026,2026-10-17 14:00:00+00:00,Regular Season - 7,FINISHED,Brentford,Liverpool,1.0,2.0,A
+football_data,,2026,2026-10-17 16:30:00+00:00,Regular Season - 7,FINISHED,Newcastle,Aston Villa,0.0,1.0,A
+football_data,,2026,2026-10-18 13:00:00+00:00,Regular Season - 7,FINISHED,Leeds,Manchester United,1.0,1.0,D
+football_data,,2026,2026-10-18 13:00:00+00:00,Regular Season - 7,FINISHED,Brighton,Crystal Palace,5.0,0.0,H
+football_data,,2026,2026-10-18 13:00:00+00:00,Regular Season - 7,FINISHED,Bournemouth,Sunderland,2.0,0.0,H
+football_data,,2026,2026-10-18 15:30:00+00:00,Regular Season - 7,FINISHED,Nottingham Forest,Arsenal,0.0,1.0,A
+football_data,,2026,2026-10-19 19:00:00+00:00,Regular Season - 7,FINISHED,Tottenham,Coventry,3.0,1.0,H
+football_data,,2026,2026-10-23 19:00:00+00:00,Regular Season - 8,FINISHED,Ipswich,Nottingham Forest,1.0,1.0,D
+football_data,,2026,2026-10-24 11:30:00+00:00,Regular Season - 8,FINISHED,Aston Villa,Manchester City,2.0,1.0,H
+football_data,,2026,2026-10-24 14:00:00+00:00,Regular Season - 8,FINISHED,Arsenal,Everton,2.0,0.0,H
+football_data,,2026,2026-10-24 14:00:00+00:00,Regular Season - 8,FINISHED,Coventry,Fulham,0.0,1.0,A
+football_data,,2026,2026-10-24 16:30:00+00:00,Regular Season - 8,FINISHED,Chelsea,Tottenham,0.0,2.0,A
+football_data,,2026,2026-10-25 14:00:00+00:00,Regular Season - 8,FINISHED,Liverpool,Brighton,2.0,0.0,H
+football_data,,2026,2026-10-25 14:00:00+00:00,Regular Season - 8,FINISHED,Crystal Palace,Newcastle,0.0,2.0,A
+football_data,,2026,2026-10-25 14:00:00+00:00,Regular Season - 8,FINISHED,Manchester United,Bournemouth,0.0,3.0,A
+football_data,,2026,2026-10-25 14:00:00+00:00,Regular Season - 8,FINISHED,Hull City,Brentford,1.0,1.0,D
+football_data,,2026,2026-10-25 16:30:00+00:00,Regular Season - 8,FINISHED,Sunderland,Leeds,0.0,0.0,D
+football_data,,2026,2026-10-31 12:30:00+00:00,Regular Season - 9,FINISHED,Chelsea,Manchester United,2.0,0.0,H
+football_data,,2026,2026-10-31 15:00:00+00:00,Regular Season - 9,FINISHED,Brentford,Nottingham Forest,2.0,0.0,H
+football_data,,2026,2026-10-31 15:00:00+00:00,Regular Season - 9,FINISHED,Hull City,Ipswich,2.0,2.0,D
+football_data,,2026,2026-10-31 15:00:00+00:00,Regular Season - 9,FINISHED,Bournemouth,Leeds,2.0,0.0,H
+football_data,,2026,2026-10-31 15:00:00+00:00,Regular Season - 9,FINISHED,Manchester City,Brighton,0.0,1.0,A
+football_data,,2026,2026-10-31 15:00:00+00:00,Regular Season - 9,FINISHED,Coventry,Sunderland,3.0,1.0,H
+football_data,,2026,2026-10-31 17:30:00+00:00,Regular Season - 9,FINISHED,Tottenham,Crystal Palace,2.0,0.0,H
+football_data,,2026,2026-10-31 20:00:00+00:00,Regular Season - 9,FINISHED,Aston Villa,Fulham,1.0,1.0,D
+football_data,,2026,2026-11-01 16:30:00+00:00,Regular Season - 9,FINISHED,Liverpool,Arsenal,0.0,1.0,A
+football_data,,2026,2026-11-02 20:00:00+00:00,Regular Season - 9,FINISHED,Newcastle,Everton,0.0,1.0,A
+football_data,,2026,2026-11-06 20:00:00+00:00,Regular Season - 10,FINISHED,Everton,Coventry,3.0,1.0,H
+football_data,,2026,2026-11-07 12:30:00+00:00,Regular Season - 10,FINISHED,Leeds,Tottenham,1.0,0.0,H
+football_data,,2026,2026-11-07 15:00:00+00:00,Regular Season - 10,FINISHED,Arsenal,Hull City,1.0,0.0,H
+football_data,,2026,2026-11-07 15:00:00+00:00,Regular Season - 10,FINISHED,Fulham,Newcastle,1.0,1.0,D
+football_data,,2026,2026-11-07 17:30:00+00:00,Regular Season - 10,FINISHED,Nottingham Forest,Manchester City,3.0,1.0,H
+football_data,,2026,2026-11-08 14:00:00+00:00,Regular Season - 10,FINISHED,Brighton,Brentford,2.0,0.0,H
+football_data,,2026,2026-11-08 14:00:00+00:00,Regular Season - 10,FINISHED,Ipswich,Bournemouth,1.0,2.0,A
+football_data,,2026,2026-11-08 14:00:00+00:00,Regular Season - 10,FINISHED,Crystal Palace,Liverpool,1.0,3.0,A
+football_data,,2026,2026-11-08 14:00:00+00:00,Regular Season - 10,FINISHED,Sunderland,Chelsea,1.0,0.0,H
+football_data,,2026,2026-11-08 16:30:00+00:00,Regular Season - 10,FINISHED,Manchester United,Aston Villa,4.0,4.0,D
