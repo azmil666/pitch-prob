@@ -16,7 +16,7 @@ from src.data.refresh import refresh_matchweek_data
 
 st.set_page_config(
     page_title="FootIQ | Premier League Analytics & Predictions",
-    page_icon="⚽",
+    page_icon=":material/sports_soccer:",
     layout="wide",
 )
 
@@ -42,7 +42,7 @@ players_df = predictor.scorer_model.players_df
 teams_2026 = sorted(players_df["team"].unique())
 
 # --- Sidebar: Match, Lineup & Refresh Controls ---
-st.sidebar.title("⚽ FootIQ Controls")
+st.sidebar.title(":material/sports_soccer: FootIQ Controls")
 
 mode = st.sidebar.radio(
     "Fixture Selection Mode",
@@ -92,7 +92,7 @@ ruled_out = st.sidebar.multiselect(
 )
 
 st.sidebar.markdown("---")
-if st.sidebar.button("🔄 Refresh Matchweek Data", use_container_width=True):
+if st.sidebar.button("Refresh Matchweek Data", icon=":material/refresh:", use_container_width=True):
     if not os.getenv("FOOTBALL_DATA_ORG_KEY"):
         st.sidebar.warning("API key not configured in this environment. Using cached data.")
     else:
@@ -103,7 +103,7 @@ if st.sidebar.button("🔄 Refresh Matchweek Data", use_container_width=True):
             st.rerun()
 
 # --- Tabs ---
-tab_forecast, tab_rankings = st.tabs(["📊 Match Forecast", "🏆 Club Power Rankings"])
+tab_forecast, tab_rankings = st.tabs([":material/analytics: Match Forecast", ":material/leaderboard: Club Power Rankings"])
 
 # ==========================================
 # TAB 1: MATCH FORECAST
