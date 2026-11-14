@@ -14,6 +14,7 @@ sys.path.append(str(ROOT_DIR))
 from src.data.clean_data import build_clean_dataset
 from src.models.score_model import DixonColesModel
 from src.models.scorer_model import GoalScorerModel
+from src.predictions.tracker import grade_completed_predictions, log_upcoming_matchweek
 
 load_dotenv()
 
@@ -43,7 +44,7 @@ def refresh_matchweek_data():
     res_m.raise_for_status()
     with open(RAW_DIR / f"pl_matches_fd_{season}.json", "w") as f:
         json.dump(res_m.json(), f, indent=2)
-    print(f"[1/4] Updated pl_matches_fd_{season}.json")
+    print(f"[1/5] Updated pl_matches_fd_{season}.json")
 
     time.sleep(6)  # Respect 10 req/min rate limit
 
@@ -53,20 +54,24 @@ def refresh_matchweek_data():
     res_s.raise_for_status()
     with open(RAW_DIR / f"pl_scorers_{season}.json", "w") as f:
         json.dump(res_s.json(), f, indent=2)
-    print(f"[2/4] Updated pl_scorers_{season}.json")
+    print(f"[2/5] Updated pl_scorers_{season}.json")
 
     # 3. Rebuild clean finished/upcoming match CSVs
-    print("[3/4] Rebuilding clean match tables...")
+    print("[3/5] Rebuilding clean match tables...")
     build_clean_dataset()
 
     # 4. Retrain Dixon-Coles & rebuild player table
-    print("[4/4] Retraining Dixon-Coles & updating player projections...")
+    print("[4/5] Retraining Dixon-Coles & updating player projections...")
     finished_df = pd.read_csv(PROCESSED_DIR / "matches_finished.csv")
     dc_model = DixonColesModel(xi=0.0018, reg_strength=1.5).fit(finished_df)
     dc_model.save(SAVED_MODELS_DIR / "dixon_coles.joblib")
 
     scorer_model = GoalScorerModel()
     scorer_model.build_player_table()
+
+    print("[5/5] Grading completed predictions & locking next matchweek forecasts...")
+    grade_completed_predictions()
+    log_upcoming_matchweek(days_ahead=14)
 
     print("\nRefresh complete! All models and datasets are up to date.")
 

@@ -120,7 +120,11 @@ if st.sidebar.button("Refresh Matchweek Data", icon=":material/refresh:", use_co
             st.rerun()
 
 # --- Tabs ---
-tab_forecast, tab_rankings = st.tabs([":material/analytics: Match Forecast", ":material/leaderboard: Club Power Rankings"])
+tab_forecast, tab_rankings, tab_history = st.tabs([
+    ":material/analytics: Match Forecast",
+    ":material/leaderboard: Club Power Rankings",
+    ":material/history: Track Record",
+])
 
 # ==========================================
 # TAB 1: MATCH FORECAST
@@ -328,3 +332,36 @@ with tab_rankings:
             use_container_width=True,
             height=500,
         )
+# ==========================================
+# TAB 3: PREDICTION TRACK RECORD
+# ==========================================
+with tab_history:
+    st.title("FootIQ Prediction Track Record")
+    st.caption("Pre-match forecasts locked before kickoff vs. actual full-time outcomes.")
+
+    log_path = ROOT_DIR / "data/processed/prediction_log.csv"
+    if not log_path.exists():
+        st.info("No predictions logged yet. Run `python3 src/predictions/tracker.py` to snapshot the upcoming matchweek.")
+    else:
+        log_df = pd.read_csv(log_path)
+        graded = log_df[log_df["status"] == "GRADED"]
+        pending = log_df[log_df["status"] == "PENDING"]
+
+        k1, k2, k3, k4 = st.columns(4)
+        k1.metric("Locked Predictions", len(log_df))
+        k2.metric("Graded Matches", len(graded))
+        if len(graded) > 0:
+            k3.metric("1X2 Hit Rate", f"{graded['outcome_hit'].mean()*100:.1f}%")
+            k4.metric("Exact Score Hit Rate", f"{graded['scoreline_hit'].mean()*100:.1f}%")
+        else:
+            k3.metric("1X2 Hit Rate", "Awaiting FT")
+            k4.metric("Exact Score Hit Rate", "Awaiting FT")
+
+        st.markdown("---")
+        st.subheader("Prediction Ledger")
+        display_cols = [
+            "date", "home_team", "away_team", "status",
+            "pred_outcome", "pred_scoreline", "pred_top_scorer",
+            "actual_result", "outcome_hit", "scoreline_hit", "match_log_loss"
+        ]
+        st.dataframe(log_df[display_cols], use_container_width=True, hide_index=True)    
