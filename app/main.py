@@ -12,20 +12,20 @@ import streamlit as st
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT_DIR))
 
-from src.predictions.predict import FootIQPredictor
+from src.predictions.predict import PitchProbPredictor
 from src.data.refresh import refresh_matchweek_data
 from src.data.clean_data import normalize_team
 
 st.set_page_config(
-    page_title="FootIQ | Premier League Analytics & Predictions",
+    page_title="Pitch-Prob | Premier League Analytics & Predictions",
     page_icon=":material/sports_soccer:",
     layout="wide",
 )
 
 
 @st.cache_resource
-def load_predictor() -> FootIQPredictor:
-    return FootIQPredictor()
+def load_predictor() -> PitchProbPredictor:
+    return PitchProbPredictor()
 
 
 @st.cache_data
@@ -59,7 +59,7 @@ players_df = predictor.scorer_model.players_df
 teams_2026 = sorted(players_df["team"].unique())
 
 # --- Sidebar: Match, Lineup & Refresh Controls ---
-st.sidebar.title(":material/sports_soccer: FootIQ Controls")
+st.sidebar.title(":material/sports_soccer: Pitch-Prob Controls")
 
 mode = st.sidebar.radio(
     "Fixture Selection Mode",
@@ -336,7 +336,7 @@ with tab_rankings:
 # TAB 3: PREDICTION TRACK RECORD
 # ==========================================
 with tab_history:
-    st.title("FootIQ Prediction Track Record")
+    st.title("Pitch-Prob Prediction Track Record")
     st.caption("Pre-match forecasts locked before kickoff vs. actual full-time outcomes.")
 
     log_path = ROOT_DIR / "data/processed/prediction_log.csv"

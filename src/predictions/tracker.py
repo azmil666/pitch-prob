@@ -8,7 +8,7 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parents[2]
 sys.path.append(str(ROOT_DIR))
 
-from src.predictions.predict import FootIQPredictor
+from src.predictions.predict import PitchProbPredictor
 
 RAW_DIR = ROOT_DIR / "data/raw"
 PROCESSED_DIR = ROOT_DIR / "data/processed"
@@ -64,7 +64,7 @@ def log_upcoming_matchweek(days_ahead: int = 8):
         log_df = pd.DataFrame(columns=LOG_COLUMNS)
 
     existing_ids = set(log_df["match_id"].tolist())
-    predictor = FootIQPredictor()
+    predictor = PitchProbPredictor()
     new_rows = []
 
     for _, row in target_fixtures.iterrows():

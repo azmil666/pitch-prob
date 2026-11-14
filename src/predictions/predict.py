@@ -7,7 +7,7 @@ from src.models.score_model import DixonColesModel
 from src.models.scorer_model import GoalScorerModel
 
 
-class FootIQPredictor:
+class PitchProbPredictor:
     def __init__(self, force_rebuild: bool = False):
         model_path = Path("saved_models/dixon_coles.joblib")
         players_path = Path("data/processed/players_2026.csv")
@@ -48,7 +48,7 @@ class FootIQPredictor:
 
 
 if __name__ == "__main__":
-    predictor = FootIQPredictor(force_rebuild=True)
+    predictor = PitchProbPredictor(force_rebuild=True)
     res = predictor.predict_fixture("Manchester City", "Fulham")
     print(f"=== Updated Forecast: {res['home_team']} vs {res['away_team']} ===")
     for idx, row in res["top_scorers"].iterrows():
