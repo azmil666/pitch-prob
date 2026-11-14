@@ -1,4 +1,5 @@
 import sys
+import pandas as pd
 from pathlib import Path
 
 sys.path.append(str(Path(__file__).resolve().parents[2]))
@@ -7,16 +8,22 @@ from src.models.scorer_model import GoalScorerModel
 
 
 class FootIQPredictor:
-    def __init__(self):
+    def __init__(self, force_rebuild: bool = False):
         model_path = Path("saved_models/dixon_coles.joblib")
-        if not model_path.exists():
-            import pandas as pd
+        players_path = Path("data/processed/players_2026.csv")
+
+        if force_rebuild or not model_path.exists():
             df = pd.read_csv("data/processed/matches_finished.csv")
-            model = DixonColesModel(xi=0.0018).fit(df)
+            model = DixonColesModel(xi=0.0018, reg_strength=1.5).fit(df)
             model.save(model_path)
-        self.score_model = DixonColesModel.load()
+
+        self.score_model = DixonColesModel.load(model_path)
         self.scorer_model = GoalScorerModel()
-        self.scorer_model.build_player_table()
+
+        if force_rebuild or not players_path.exists():
+            self.scorer_model.build_player_table()
+        else:
+            self.scorer_model.players_df = pd.read_csv(players_path)
 
     def predict_fixture(
         self,
@@ -41,22 +48,11 @@ class FootIQPredictor:
 
 
 if __name__ == "__main__":
-    predictor = FootIQPredictor()
+    predictor = FootIQPredictor(force_rebuild=True)
     res = predictor.predict_fixture("Manchester City", "Fulham")
-
-    print(f"=== FootIQ Full Match Forecast: {res['home_team']} vs {res['away_team']} ===")
-    print(f"Expected Goals : {res['xg_home']} - {res['xg_away']}")
-    print(
-        f"1X2 Probs      : Home {res['probs']['home_win']*100:.1f}% | "
-        f"Draw {res['probs']['draw']*100:.1f}% | Away {res['probs']['away_win']*100:.1f}%"
-    )
-    print(
-        "Top Scorelines : "
-        + ", ".join(f"{s['score']} ({s['prob']*100:.1f}%)" for s in res["top_scorelines"])
-    )
-    print("\nMost Likely Anytime Goal Scorers:")
+    print(f"=== Updated Forecast: {res['home_team']} vs {res['away_team']} ===")
     for idx, row in res["top_scorers"].iterrows():
         print(
-            f"  {idx+1}. {row['player_name']} ({row['team']} - {row['position']}) | "
-            f"2026 Goals: {row['goals']} | Score Prob: {row['anytime_scorer_prob']*100:.1f}%"
+            f"  {idx+1}. {row['player_name']} ({row['team']}) | "
+            f"Goals: {row['goals']} | Score Prob: {row['anytime_scorer_prob']*100:.1f}%"
         )

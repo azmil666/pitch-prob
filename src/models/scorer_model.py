@@ -109,14 +109,16 @@ class GoalScorerModel:
                     start_prob = min(0.95, max(0.35, appearances / matches_played_team))
                     eff_matches = appearances
                 else:
-                    # Squad members without recorded goals yet get a conservative rotation weight
-                    start_prob = 0.05 if pos == "Goalkeeper" else 0.35
+                    # Conservative rotation weight for players without recorded goals yet
+                    start_prob = 0.03 if pos == "Goalkeeper" else 0.15
                     eff_matches = matches_played_team * start_prob
 
                 prior_rate = POSITION_PRIOR_G90.get(pos, 0.14)
-                smoothed_rate = (goals + self.prior_matches * prior_rate) / (
+                # Slight boost for proven penalty takers
+                pen_bonus = 0.08 if penalties > 0 else 0.0
+                smoothed_rate = ((goals + self.prior_matches * prior_rate) / (
                     eff_matches + self.prior_matches
-                )
+                )) + pen_bonus
 
                 rows.append({
                     "player_id": pid,
