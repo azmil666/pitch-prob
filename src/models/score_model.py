@@ -11,12 +11,14 @@ SAVED_MODELS_DIR.mkdir(parents=True, exist_ok=True)
 
 
 class DixonColesModel:
-    def __init__(self, xi: float = 0.0018, max_goals: int = 8):
+    def __init__(self, xi: float = 0.0018, reg_strength: float = 1.5, max_goals: int = 8):
         """
-        xi: Time-decay rate (in days^-1). ~0.0018 gives a half-life of ~385 days (~1 full season).
+        xi: Time-decay rate (in days^-1). ~0.0018 gives a half-life of ~385 days.
+        reg_strength: L2 Gaussian prior penalty to prevent small-sample overfitting on newly promoted clubs.
         max_goals: Grid size for exact scoreline probability matrix (0..max_goals).
         """
         self.xi = xi
+        self.reg_strength = reg_strength
         self.max_goals = max_goals
         self.params_ = {}
         self.teams_ = []
@@ -53,7 +55,7 @@ class DixonColesModel:
         weights = np.exp(-self.xi * np.maximum(days_ago.to_numpy(), 0))
 
         # Parameter vector: [attack_0..n-1, defense_0..n-1, home_adv, rho]
-        x0 = np.concatenate([np.ones(n_teams), np.ones(n_teams), [0.25, -0.1]])
+        x0 = np.concatenate([np.zeros(n_teams), np.zeros(n_teams), [0.20, -0.08]])
 
         def neg_log_likelihood(params):
             attack = params[:n_teams]
@@ -64,7 +66,6 @@ class DixonColesModel:
             lam = np.exp(attack[home_i] + defense[away_i] + home_adv)
             mu = np.exp(attack[away_i] + defense[home_i])
 
-            # Vectorized tau adjustment
             tau = np.ones_like(lam)
             m00 = (h_goals == 0) & (a_goals == 0)
             m01 = (h_goals == 0) & (a_goals == 1)
@@ -84,9 +85,10 @@ class DixonColesModel:
                 + poisson.logpmf(h_goals, lam)
                 + poisson.logpmf(a_goals, mu)
             )
-            return -np.sum(weights * log_lik)
+            # L2 shrinkage prior prevents promoted clubs with few matches from taking extreme values
+            l2_penalty = self.reg_strength * (np.sum(attack**2) + np.sum(defense**2))
+            return -np.sum(weights * log_lik) + l2_penalty
 
-        # Identifiability constraint: mean(attack) == 0
         constraints = [{"type": "eq", "fun": lambda p: np.mean(p[:n_teams])}]
         bounds = [(-3.0, 3.0)] * (2 * n_teams) + [(-1.5, 1.5), (-0.5, 0.5)]
 
@@ -113,7 +115,6 @@ class DixonColesModel:
         return self
 
     def predict_match(self, home_team: str, away_team: str) -> dict:
-        # Fallback to league-average (0.0 in log space) if an unseen team appears
         att_h = self.params_["attack"].get(home_team, 0.0)
         def_h = self.params_["defense"].get(home_team, 0.0)
         att_a = self.params_["attack"].get(away_team, 0.0)
@@ -127,25 +128,31 @@ class DixonColesModel:
         g = np.arange(self.max_goals + 1)
         matrix = np.outer(poisson.pmf(g, lam), poisson.pmf(g, mu))
 
-        # Apply Dixon-Coles low-score adjustments
         for x in (0, 1):
             for y in (0, 1):
                 matrix[x, y] *= self._tau(x, y, lam, mu, rho)
 
-        matrix /= matrix.sum()  # Normalize probabilities to sum to 1.0
+        matrix /= matrix.sum()
 
         home_win = float(np.tril(matrix, -1).sum())
         draw = float(np.trace(matrix))
         away_win = float(np.triu(matrix, 1).sum())
 
-        # Flatten top 5 exact scorelines
+        # Re-normalize 1X2 strictly to 1.0 to avoid floating-point drift
+        total_1x2 = home_win + draw + away_win
+        home_win /= total_1x2
+        draw /= total_1x2
+        away_win /= total_1x2
+
         flat_indices = np.argsort(matrix.ravel())[::-1][:5]
         top_scorelines = [
-            {"score": f"{idx // (self.max_goals + 1)}-{idx % (self.max_goals + 1)}", "prob": float(matrix.ravel()[idx])}
+            {
+                "score": f"{idx // (self.max_goals + 1)}-{idx % (self.max_goals + 1)}",
+                "prob": float(matrix.ravel()[idx]),
+            }
             for idx in flat_indices
         ]
 
-        # Over 2.5 goals & Both Teams To Score (BTTS)
         grid_h, grid_a = np.meshgrid(g, g, indexing="ij")
         over_2_5 = float(matrix[(grid_h + grid_a) > 2].sum())
         btts = float(matrix[(grid_h >= 1) & (grid_a >= 1)].sum())
@@ -156,19 +163,20 @@ class DixonColesModel:
             "xg_home": round(lam, 2),
             "xg_away": round(mu, 2),
             "probs": {
-                "home_win": round(home_win, 4),
-                "draw": round(draw, 4),
-                "away_win": round(away_win, 4),
+                "home_win": home_win,
+                "draw": draw,
+                "away_win": away_win,
             },
             "top_scorelines": top_scorelines,
-            "over_2_5": round(over_2_5, 4),
-            "btts": round(btts, 4),
+            "over_2_5": over_2_5,
+            "btts": btts,
             "matrix": matrix,
         }
 
     def save(self, path: Path = SAVED_MODELS_DIR / "dixon_coles.joblib"):
         payload = {
             "xi": self.xi,
+            "reg_strength": self.reg_strength,
             "max_goals": self.max_goals,
             "params_": self.params_,
             "teams_": self.teams_,
@@ -178,7 +186,11 @@ class DixonColesModel:
     @classmethod
     def load(cls, path: Path = SAVED_MODELS_DIR / "dixon_coles.joblib") -> "DixonColesModel":
         payload = joblib.load(path)
-        model = cls(xi=payload["xi"], max_goals=payload["max_goals"])
+        model = cls(
+            xi=payload["xi"],
+            reg_strength=payload.get("reg_strength", 1.5),
+            max_goals=payload["max_goals"],
+        )
         model.params_ = payload["params_"]
         model.teams_ = payload["teams_"]
         return model
@@ -186,18 +198,11 @@ class DixonColesModel:
 
 if __name__ == "__main__":
     df = pd.read_csv(PROCESSED_DIR / "matches_finished.csv")
-    upcoming = pd.read_csv(PROCESSED_DIR / "matches_upcoming.csv")
-
-    model = DixonColesModel(xi=0.0018)
+    model = DixonColesModel(xi=0.0018, reg_strength=1.5)
     model.fit(df)
     model.save()
 
-    print(f"Fitted Dixon-Coles on {len(df)} matches | Home Adv: {model.params_['home_adv']:.3f} | Rho: {model.params_['rho']:.3f}\n")
-
-    # Preview predictions on the next 3 upcoming Premier League fixtures
-    for _, row in upcoming.head(3).iterrows():
-        pred = model.predict_match(row["home_team"], row["away_team"])
-        top3 = ", ".join(f"{s['score']} ({s['prob']*100:.1f}%)" for s in pred["top_scorelines"][:3])
-        print(f"{pred['home_team']} vs {pred['away_team']} (xG: {pred['xg_home']} - {pred['xg_away']})")
-        print(f"  1X2  -> Home: {pred['probs']['home_win']*100:.1f}% | Draw: {pred['probs']['draw']*100:.1f}% | Away: {pred['probs']['away_win']*100:.1f}%")
-        print(f"  Top Scores: {top3} | O2.5: {pred['over_2_5']*100:.1f}% | BTTS: {pred['btts']*100:.1f}%\n")
+    print(f"Fitted regularized Dixon-Coles | Home Adv: {model.params_['home_adv']:.3f} | Rho: {model.params_['rho']:.3f}")
+    print("\nTop 5 Defenses (most negative = fewest goals conceded):")
+    for team, val in sorted(model.params_["defense"].items(), key=lambda x: x[1])[:5]:
+        print(f"  {team:<20} {val:+.4f}")
